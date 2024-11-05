@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord Prompt Usage Statistics</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <style>
+        :root {
+            --bg-primary: #36393f;
+            --bg-secondary: #2f3136;
+            --bg-tertiary: #202225;
+            --accent-color: #5865f2;
+            --text-primary: #ffffff;
+            --text-secondary: #b9bbbe;
+            --success-color: #43b581;
+            --border-radius: 8px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.5;
+            padding: 20px;
+        }
+
+        .dashboard {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            gap: 20px;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        }
+
+        .card {
+            background-color: var(--bg-secondary);
+            border-radius: var(--border-radius);
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .stats-summary {
+            grid-column: 1 / -1;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .stat-card {
+            background-color: var(--bg-tertiary);
+            padding: 20px;
+            border-radius: var(--border-radius);
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2em;
+            font-weight: bold;
+            color: var(--accent-color);
+            margin: 10px 0;
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.9em;
+        }
+
+        .user-list {
+            grid-column: 1 / -1;
+        }
+
+        .user-card {
+            background-color: var(--bg-tertiary);
+            padding: 15px;
+            border-radius: var(--border-radius);
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .user-avatar {
+            width: 40px;
+            height: 40px;
+            background-color: var(--accent-color);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+
+        .usage-stats {
+            display: flex;
+            gap: 20px;
+        }
+
+        .usage-stat {
+            text-align: right;
+        }
+
+        .prompt-list {
+            display: none;
+            margin-top: 10px;
+            padding: 10px;
+            background-color: var(--bg-primary);
+            border-radius: var(--border-radius);
+        }
+
+        .prompt-item {
+            padding: 10px;
+            border-bottom: 1px solid var(--bg-secondary);
+        }
+
+        .prompt-item:last-child {
+            border-bottom: none;
+        }
+
+        .growth-positive {
+            color: var(--success-color);
+        }
+
+        .growth-negative {
+            color: #f04747;
+        }
+
+        .chart-container {
+            grid-column: 1 / -1;
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <div class="stats-summary">
+            <div class="stat-card">
+                <div class="stat-label">总用户数</div>
+                <div class="stat-value" id="totalUsers">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">总提示次数</div>
+                <div class="stat-value" id="totalPrompts">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">今日使用次数</div>
+                <div class="stat-value" id="todayPrompts">-</div>
+                <div class="stat-growth" id="promptGrowth"></div>
+            </div>
+        </div>
+
+        <div class="card chart-container">
+            <canvas id="usageChart"></canvas>
+        </div>
+
+        <div class="card user-list" id="userList">
+            <h2>用户使用排行</h2>
+            <!-- User cards will be inserted here -->
+        </div>
+    </div>
+
+    <script>
+        function calculateDailyStats(generations) {
+            const dailyStats = {};
+            generations.forEach(gen => {
+                const date = new Date(gen.timestamp).toLocaleDateString();
+                dailyStats[date] = (dailyStats[date] || 0) + 1;
+            });
+            return dailyStats;
+        }
+
+        function getGrowthRate(today, yesterday) {
+            if (!yesterday) return 100;
+            return ((today - yesterday) / yesterday * 100).toFixed(1);
+        }
+
+        fetch('stats.json')
+            .then(response => response.json())
+            .then(data => {
+                const totalUsers = Object.keys(data).length;
+                let totalPrompts = 0;
+                let todayPrompts = 0;
+                const today = new Date().toLocaleDateString();
+                const yesterday = new Date(Date.now() - 86400000).toLocaleDateString();
+
+                // Transform data for user ranking
+                const userList = Object.entries(data).map(([userId, userData]) => {
+                    const dailyStats = calculateDailyStats(userData.generations);
+                    totalPrompts += userData.total_uses;
+                    todayPrompts += dailyStats[today] || 0;
+
+                    return {
+                        id: userId,
+                        username: userData.username,
+                        totalUses: userData.total_uses,
+                        todayUses: dailyStats[today] || 0,
+                        yesterdayUses: dailyStats[yesterday] || 0,
+                        generations: userData.generations
+                    };
+                }).sort((a, b) => b.totalUses - a.totalUses);
+
+                // Update summary stats
+                document.getElementById('totalUsers').textContent = totalUsers;
+                document.getElementById('totalPrompts').textContent = totalPrompts;
+                document.getElementById('todayPrompts').textContent = todayPrompts;
+
+                const yesterdayTotal = userList.reduce((sum, user) => sum + user.yesterdayUses, 0);
+                const growth = getGrowthRate(todayPrompts, yesterdayTotal);
+                const growthEl = document.getElementById('promptGrowth');
+                growthEl.textContent = `${growth > 0 ? '+' : ''}${growth}% vs 昨日`;
+                growthEl.className = `stat-growth ${growth >= 0 ? 'growth-positive' : 'growth-negative'}`;
+
+                // Render user list
+                const userListEl = document.getElementById('userList');
+                userList.forEach(user => {
+                    const growth = getGrowthRate(user.todayUses, user.yesterdayUses);
+                    const userCard = document.createElement('div');
+                    userCard.className = 'user-card';
+                    userCard.innerHTML = `
+                        <div class="user-info">
+                            <div class="user-avatar">${user.username[0].toUpperCase()}</div>
+                            <div>
+                                <div>${user.username}</div>
+                                <div class="stat-label">总使用: ${user.totalUses}</div>
+                            </div>
+                        </div>
+                        <div class="usage-stats">
+                            <div class="usage-stat">
+                                <div>今日: ${user.todayUses}</div>
+                                <div class="${growth >= 0 ? 'growth-positive' : 'growth-negative'}">
+                                    ${growth > 0 ? '+' : ''}${growth}%
+                                </div>
+                            </div>
+                        </div>
+                    `;
+
+                    // Create collapsible prompt list
+                    const promptList = document.createElement('div');
+                    promptList.className = 'prompt-list';
+                    promptList.innerHTML = user.generations.map(g => `
+                        <div class="prompt-item">
+                            <div>${g.prompt}</div>
+                            <div class="stat-label">${new Date(g.timestamp).toLocaleString()}</div>
+                        </div>
+                    `).join('');
+
+                    // Toggle prompt list visibility
+                    userCard.addEventListener('click', () => {
+                        const isVisible = promptList.style.display === 'block';
+                        promptList.style.display = isVisible ? 'none' : 'block';
+                    });
+
+                    const container = document.createElement('div');
+                    container.appendChild(userCard);
+                    container.appendChild(promptList);
+                    userListEl.appendChild(container);
+                });
+
+                // Create usage trend chart
+                const ctx = document.getElementById('usageChart').getContext('2d');
+                const allDates = new Set();
+                userList.forEach(user => {
+                    user.generations.forEach(gen => {
+                        allDates.add(new Date(gen.timestamp).toLocaleDateString());
+                    });
+                });
+
+                const dateLabels = Array.from(allDates).sort();
+                const usageData = dateLabels.map(date =>
+                    userList.reduce((sum, user) =>
+                        sum + (calculateDailyStats(user.generations)[date] || 0), 0)
+                );
+
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: dateLabels,
+                        datasets: [{
+                            label: '每日使用趋势',
+                            data: usageData,
+                            borderColor: '#5865f2',
+                            backgroundColor: 'rgba(88, 101, 242, 0.1)',
+                            fill: true,
+                            tension: 0.4
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: false
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                grid: {
+                                    color: 'rgba(255, 255, 255, 0.1)'
+                                },
+                                ticks: {
+                                    color: '#b9bbbe'
+                                }
+                            },
+                            x: {
+                                grid: {
+                                    color: 'rgba(255, 255, 255, 0.1)'
+                                },
+                                ticks: {
+                                    color: '#b9bbbe'
+                                }
+                            }
+                        }
+                    }
+                });
+            })
+            .catch(error => {
+                console.error('Error loading statistics:', error);
+                document.body.innerHTML = '<p style="color: #f04747; padding: 20px;">Failed to load statistics!</p>';
+            });
+    </script>
+</body>
+</html>
