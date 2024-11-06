@@ -1,76 +1,80 @@
 {
-  "1248481220577198103": {
-    "username": "judith029078",
+  "908430249384099841": {
+    "username": "_nas77",
     "generations": [
       {
-        "prompt": "@Judith Creation is in queue.(Prompt: is a lonely country road, barely lit by the pale moonlight Suddenly, the young man, about 25 years old, thin, with a pale face and messy hair, dressed in a worn brown jacket and torn jeans, with a dark T-shirt underneath, stops, his body tenses. He hears a faint sobbing in the distance. His eyes, large and dark, reflect a growing fear. He clutches a metal cross around his neck, seeking calm. His breathing quickens and a tremor runs through his hands, which cling tightly to the cross, his only amulet of protection.).Author: @Judith",
-        "timestamp": "2024-11-06T00:17:10.315000+00:00",
-        "message_id": "1303513474017529906"
+        "prompt": "@NAS77 Creation is in queue.(Prompt: a man in pain turning into a dog).Author: @NAS77",
+        "timestamp": "2024-11-06T16:16:34.503000+00:00",
+        "message_id": "1303754915721773169"
+      },
+      {
+        "prompt": "@NAS77\nPrompt: a woman in a yellow dress running towards the camera, she changes into an ugly monster",
+        "timestamp": "2024-11-06T16:04:18.616000+00:00",
+        "message_id": "1303751829187985546"
       }
     ],
-    "total_uses": 1
+    "total_uses": 2
   },
-  "821274163104186399": {
-    "username": "henchman_01",
+  "1303354095746285578": {
+    "username": "cristian033088",
     "generations": [
       {
-        "prompt": "@Henchman_01 (Chrome)\nPrompt: one boy running under the night rain, style pixar 3D, high quality, HD, an amusement park in the background filled with lights, the boy is smiling,",
-        "timestamp": "2024-11-05T20:09:19.931000+00:00",
-        "message_id": "1303451103106437142"
-      }
-    ],
-    "total_uses": 1
-  },
-  "1172567036522676285": {
-    "username": "281227231",
-    "generations": [
-      {
-        "prompt": "@LGX\nPrompt: There are all kinds of alien humanoid creatures in the picture. The picture style is combined with the top rendering effects of fantasy 5, Avatar, Transformers, Final Fantasy and Star Wars. It looks super realistic and beautiful. The architectural style is a structural type that has never been seen before. It has a very unique and innovative design concept, as well as some high-tech equipment and systems, as well as some exotic animals and plants, as well as some fluorescent blue water bodies, and the visua",
-        "timestamp": "2024-11-05T19:49:42.334000+00:00",
-        "message_id": "1303446163906629692"
+        "prompt": "@Cristian\nPrompt: Slenderman and Hulk 2024",
+        "timestamp": "2024-11-06T15:53:00.809000+00:00",
+        "message_id": "1303748986259247125"
       },
       {
-        "prompt": "@LGX\nPrompt: Women wear shiny silk dresses and stand in a room full of neon lights. The camera moves slowly up from her feet, showing her leg curves and upper body posture, creating a bottom-up perspective. The neon lights reflect on her skin, adding a fantastic effect, and the atmosphere is fashionable and sexy.",
-        "timestamp": "2024-11-04T21:56:51.457000+00:00",
-        "message_id": "1303115774902145117"
+        "prompt": "@Cristian\nPrompt: The Saw movie 2030",
+        "timestamp": "2024-11-06T15:35:24.860000+00:00",
+        "message_id": "1303744557288263812"
       },
       {
-        "prompt": "@LGX\nPrompt: Suddenly, alien creatures dug up a glowing \"alien object\" and scared them to jump back. Grandpa squinted carefully and looked at it: \"Isn't this the' local product' brought by your hometown?",
-        "timestamp": "2024-10-31T19:17:25.226000+00:00",
-        "message_id": "1301626099758796840"
+        "prompt": "@Cristian\nPrompt: A crocodile in the shape of a rabbit walking through the African jungle.",
+        "timestamp": "2024-11-06T11:27:49.182000+00:00",
+        "message_id": "1303682248058601515"
       },
       {
-        "prompt": "@LGX\nPrompt: \"The archaeological team in the alien canyon accidentally discovered a group of terracotta warriors and horses in China. Suddenly, these terracotta warriors and horses magically woke up and interacted with alien creatures in the formation of ancient troops. Alien creatures are full of awe of these solemn terracotta warriors and horses and try to communicate with them. As a result, they find that these terracotta warriors and horses don't understand alien technology at all, and they may even be shocked by some gadgets of alien creatures. The collision between the ancient culture of terracotta warriors and horses and alien technology has created countless funny scenes. \"",
-        "timestamp": "2024-10-30T20:16:45.931000+00:00",
-        "message_id": "1301278646572421140"
+        "prompt": "@Cristian\nPrompt: A man in the beach",
+        "timestamp": "2024-11-05T16:10:56.828000+00:00",
+        "message_id": "1303391111544443014"
       }
     ],
     "total_uses": 4
   },
-  "850007630017462313": {
-    "username": "joseblancopy",
+  "517300057213632521": {
+    "username": "bigun1981",
     "generations": [
       {
-        "prompt": "@JoséBlancopy\nPrompt: Un robot con un diseño divertido y exagerado en tonos naranja y negro está tecleando rápidamente en un teléfono móvil. Hace una pausa, sonríe de manera cómica y muestra una expresión de satisfacción. El fondo tiene elementos visuales llamativos y algo surrealistas, con destellos o explosiones de color para añadir un toque bizarro. Todo el estilo es vibrante y visualmente atractivo, ideal para captar la atención de manera rápida.",
-        "timestamp": "2024-11-05T19:32:46.832000+00:00",
-        "message_id": "1303441904582529024"
-      },
-      {
-        "prompt": "@JoséBlancopy\nPrompt: /Un robot enviándo chats por tlf. Hazlo divertido y futurista.",
-        "timestamp": "2024-11-05T15:49:28.551000+00:00",
-        "message_id": "1303385708119068787"
-      },
-      {
-        "prompt": "@JoséBlancopy\nPrompt: “Crea un video VSL que capte la atención de dueños de negocios y empresas que tienen bases de datos de leads inactivos. El objetivo es vender un servicio de automatización de chatbots en WhatsApp para reactivar esos leads durmientes.  El video debe comenzar mostrando una animación de una base de datos de contactos que está inactiva (simbolizada con tonos grises o contactos con signos de interrogación), y luego se ilumina o activa gracias al chatbot de WhatsApp. Incluye texto como: ‘¿Tienes clientes potenciales en tu base de datos que no están comprando?’.  Luego, muestra una escena en la que el chatbot envía un mensaje a un lead dormido en WhatsApp, y este reacciona positivamente. La idea es visualizar cómo el chatbot se encarga automáticamente de enviar recordatorios, resolver preguntas y guiar al lead hasta la conversión.  Usa colores corporativos como [especificar colores si tienes] para dar uniformidad visual al video. Añade transiciones suaves y un tono profesional pero amigable, dirigido a tomadores de decisiones B2B. Al final del video, agrega una llamada a la acción clara para que el espectador pida una demostración del servicio de chatbot.\"",
-        "timestamp": "2024-11-05T15:35:28.621000+00:00",
-        "message_id": "1303382185197441144"
+        "prompt": "@bigun1981\nPrompt: The futuristic Templar knight starts walking and wields his sword with both hands to initiate an attack",
+        "timestamp": "2024-11-06T15:31:59.049000+00:00",
+        "message_id": "1303743694054101072"
       }
     ],
-    "total_uses": 3
+    "total_uses": 1
   },
   "847553426833276998": {
     "username": "dhairyashahdesign",
     "generations": [
+      {
+        "prompt": "@Dhairya Shah UI UX C3\nPrompt: Maroon 5 Band performing live in 2024",
+        "timestamp": "2024-11-06T14:25:12.474000+00:00",
+        "message_id": "1303726889260548110"
+      },
+      {
+        "prompt": "@Dhairya Shah UI UX C3\nPrompt: Coldplay band performing live in 2024",
+        "timestamp": "2024-11-06T14:06:27.939000+00:00",
+        "message_id": "1303722172619034646"
+      },
+      {
+        "prompt": "@Dhairya Shah UI UX C3\nPrompt: Sherlock Holmes 2024",
+        "timestamp": "2024-11-06T13:52:51.087000+00:00",
+        "message_id": "1303718746493550665"
+      },
+      {
+        "prompt": "@Dhairya Shah UI UX C3\nPrompt: Assasins Creed 2024",
+        "timestamp": "2024-11-06T13:37:43.503000+00:00",
+        "message_id": "1303714939810086933"
+      },
       {
         "prompt": "@Dhairya Shah UI UX C3\nPrompt: Game of Thrones characters fighting with each other",
         "timestamp": "2024-11-05T18:12:30.336000+00:00",
@@ -262,7 +266,238 @@
         "message_id": "1302806400828706857"
       }
     ],
-    "total_uses": 38
+    "total_uses": 42
+  },
+  "227457818456752128": {
+    "username": "corazon270",
+    "generations": [
+      {
+        "prompt": "@Corazón\nPrompt: snowing in desert",
+        "timestamp": "2024-11-06T14:06:22.026000+00:00",
+        "message_id": "1303722147818111057"
+      }
+    ],
+    "total_uses": 1
+  },
+  "1302787139595145298": {
+    "username": "soyelmismo",
+    "generations": [
+      {
+        "prompt": "@Soy el mismo\nPrompt: A dog playing the guitar on the beach wearing sunglasses.",
+        "timestamp": "2024-11-06T11:29:18.033000+00:00",
+        "message_id": "1303682620726448210"
+      }
+    ],
+    "total_uses": 1
+  },
+  "1066888888683089921": {
+    "username": "antai001",
+    "generations": [
+      {
+        "prompt": "@AntAi\nPrompt: a rabbit with legs and neck like a deer. the landscape has sparse vegetation",
+        "timestamp": "2024-11-06T11:12:27.323000+00:00",
+        "message_id": "1303678381501710433"
+      }
+    ],
+    "total_uses": 1
+  },
+  "1289891613014753305": {
+    "username": "maazelrhymes",
+    "generations": [
+      {
+        "prompt": "@maazel@rhymes\nPrompt: a rabbit with legs and neck like a deer. the landscape has sparse vegetation",
+        "timestamp": "2024-11-06T10:59:42.011000+00:00",
+        "message_id": "1303675171550531615"
+      },
+      {
+        "prompt": "@maazel@rhymes\nPrompt: hyper realistic sky view of New York in 1959",
+        "timestamp": "2024-11-05T09:26:33.888000+00:00",
+        "message_id": "1303289345398280235"
+      },
+      {
+        "prompt": "@maazel@rhymes\nPrompt: a rodeo rider. a rugged rodeo-cowboy, with a bushy beard and sun-weathered skin, rodeos confidently astride a massive, dinosaur, its scales a mottled earthy brown and mossy green, amidst a sparse desolate, and very dusty landscape; the cowboy's khaki attire, complete with cargo pants, a utility belt, and a fedora, is worn and dusty, with a few scattered pockets and pouches, giving him a look of a seasoned paleontologist; his eyes, a piercing blue, shine with a sense of wonder and discovery as he gazes out at the sprawling landscape; the dinosaur is determined to buck the rider off in this rodeo yet it's eyes, warm and intelligent, seem to hold a deep connection with its rider; the dinosaur has three clawed fingers on the hands, and three large toes on the feet; the mouth is open with teeth showing.",
+        "timestamp": "2024-11-05T08:05:37.344000+00:00",
+        "message_id": "1303268975576350813"
+      },
+      {
+        "prompt": "@maazel@rhymes\nPrompt: A lush tropical rainforest at sunset. Golden rays filter through the leaves, illuminating a crystal-clear waterfall. A majestic jaguar slowly approaches the water to drink. Photorealistic style with vibrant colors. Slow-moving camera, lateral tracking shot from left to right. 4K high resolution with cinematic lighting.",
+        "timestamp": "2024-11-05T05:55:15.500000+00:00",
+        "message_id": "1303236168384778270"
+      },
+      {
+        "prompt": "@maazel@rhymes\nPrompt: a taxi driver sitting in front of a train station located in Antwerp,Belgium",
+        "timestamp": "2024-10-30T17:48:41.030000+00:00",
+        "message_id": "1301241380596613215"
+      },
+      {
+        "prompt": "@maazel@rhymes\nPrompt: a massive robotic cyborg manatee floats above a neon cyberpunk cityscape, generating all the power to the city",
+        "timestamp": "2024-10-28T09:51:29.538000+00:00",
+        "message_id": "1300396515684257823"
+      },
+      {
+        "prompt": "@maazel@rhymes\nPrompt: A seaside harbor with bright sunlight and sparkling seawater, with many boats in the water. From an aerial view, the boats vary in size and color, some moving and some stationary. Fishing boats in the water suggest that this location might be a popular spot for docking fishing boats.",
+        "timestamp": "2024-10-24T16:55:31.250000+00:00",
+        "message_id": "1299053674496000122"
+      },
+      {
+        "prompt": "@maazel@rhymes\nPrompt: Aurora at a mountainous west virginia scenery during sunset, with beautiful autumn yellow leaves all over the mountain.",
+        "timestamp": "2024-10-23T04:49:02.826000+00:00",
+        "message_id": "1298508463529525268"
+      }
+    ],
+    "total_uses": 8
+  },
+  "636995427639492619": {
+    "username": "a.blanco7403",
+    "generations": [
+      {
+        "prompt": "@A.Blanco\nPrompt: On the edge of an active volcano, lava erupts as the protagonist runs wildly through the hot flames and boiling ash. The camera follows the protagonist from a ground-level view of the lava flow, capturing the moment when the lava sprays fiercely behind him. The camera then pulls up high into the air to show the incredible power of the entire volcano in eruption.",
+        "timestamp": "2024-11-06T10:21:07.635000+00:00",
+        "message_id": "1303665464354013197"
+      }
+    ],
+    "total_uses": 1
+  },
+  "850007630017462313": {
+    "username": "joseblancopy",
+    "generations": [
+      {
+        "prompt": "@JoséBlancopy\nPrompt: \"Create a hyper-realistic and visually striking image of a futuristic army of AI robots standing in a high-tech, neon-lit control center. Each robot has an intricate, glossy design with detailed features and is holding a smartphone. All robots have warm, friendly smiles, adding a human touch despite their high-tech appearance. Surrounding each robot are multiple holographic screens displaying various chat conversations in vibrant colors, symbolizing simultaneous communication. The background is filled with intense neon lighting, complex digital data streams, and intricate network patterns to convey a powerful, futuristic atmosphere. The image should emphasize both the large scale of the robot army and the sophisticated, advanced technology in use, making it a visually captivating scene that blends human-like warmth with technological prowess.\"",
+        "timestamp": "2024-11-06T09:38:19.486000+00:00",
+        "message_id": "1303654692756394046"
+      },
+      {
+        "prompt": "@JoséBlancopy\nPrompt: Un robot con un diseño divertido y exagerado en tonos naranja y negro está tecleando rápidamente en un teléfono móvil. Hace una pausa, sonríe de manera cómica y muestra una expresión de satisfacción. El fondo tiene elementos visuales llamativos y algo surrealistas, con destellos o explosiones de color para añadir un toque bizarro. Todo el estilo es vibrante y visualmente atractivo, ideal para captar la atención de manera rápida.",
+        "timestamp": "2024-11-05T19:32:46.832000+00:00",
+        "message_id": "1303441904582529024"
+      },
+      {
+        "prompt": "@JoséBlancopy\nPrompt: /Un robot enviándo chats por tlf. Hazlo divertido y futurista.",
+        "timestamp": "2024-11-05T15:49:28.551000+00:00",
+        "message_id": "1303385708119068787"
+      },
+      {
+        "prompt": "@JoséBlancopy\nPrompt: “Crea un video VSL que capte la atención de dueños de negocios y empresas que tienen bases de datos de leads inactivos. El objetivo es vender un servicio de automatización de chatbots en WhatsApp para reactivar esos leads durmientes.  El video debe comenzar mostrando una animación de una base de datos de contactos que está inactiva (simbolizada con tonos grises o contactos con signos de interrogación), y luego se ilumina o activa gracias al chatbot de WhatsApp. Incluye texto como: ‘¿Tienes clientes potenciales en tu base de datos que no están comprando?’.  Luego, muestra una escena en la que el chatbot envía un mensaje a un lead dormido en WhatsApp, y este reacciona positivamente. La idea es visualizar cómo el chatbot se encarga automáticamente de enviar recordatorios, resolver preguntas y guiar al lead hasta la conversión.  Usa colores corporativos como [especificar colores si tienes] para dar uniformidad visual al video. Añade transiciones suaves y un tono profesional pero amigable, dirigido a tomadores de decisiones B2B. Al final del video, agrega una llamada a la acción clara para que el espectador pida una demostración del servicio de chatbot.\"",
+        "timestamp": "2024-11-05T15:35:28.621000+00:00",
+        "message_id": "1303382185197441144"
+      }
+    ],
+    "total_uses": 4
+  },
+  "1290488320631115873": {
+    "username": "milesqgray",
+    "generations": [
+      {
+        "prompt": "@MilesQGray\nPrompt: The Great White Shark Movie in the Style of Japanese Ukiyo-e Art",
+        "timestamp": "2024-11-06T09:20:05.232000+00:00",
+        "message_id": "1303650103122202664"
+      },
+      {
+        "prompt": "@MilesQGray\nPrompt: Avatar character soaring through the beautiful landscapes of Yosemite National Park, with stunning cliffs, waterfalls, and lush greenery in the background. The scene features majestic mountains, clear skies, and vibrant natural colors, capturing a sense of freedom and wonder.",
+        "timestamp": "2024-10-23T05:14:24.944000+00:00",
+        "message_id": "1298514847754879011"
+      }
+    ],
+    "total_uses": 2
+  },
+  "1294212590569914478": {
+    "username": "roanne0792",
+    "generations": [
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A vibrant spring meadow filled with colorful wildflowers in bloom. Bees and butterflies float among the flowers, and a gentle breeze sways the tall grass. The sky is clear with a warm, golden sunlight enhancing the colors.",
+        "timestamp": "2024-11-06T02:25:23.744000+00:00",
+        "message_id": "1303545742597820449"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A futuristic city skyline at night, with skyscrapers covered in glowing neon lights, reflections shimmering on the nearby river, and flying cars zooming through the air against a deep indigo sky filled with stars.",
+        "timestamp": "2024-10-28T07:49:50.234000+00:00",
+        "message_id": "1300365900184158250"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A quiet winter landscape covered in fresh snow, with tall pine trees dusted in white, a frozen river reflecting the soft pink glow of the setting sun, and a small cabin with smoke rising from its chimney.",
+        "timestamp": "2024-10-25T02:04:43.197000+00:00",
+        "message_id": "1299191884979245117"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A tranquil garden during springtime, with cherry blossom trees in full bloom, petals gently falling onto a calm pond, and a traditional red bridge crossing over the water, with koi fish swimming below.",
+        "timestamp": "2024-10-23T03:10:40.645000+00:00",
+        "message_id": "1298483707988148269"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A powerful waterfall cascading down a cliffside in the middle of a lush jungle, surrounded by thick vines, ferns, and towering trees, with mist rising from the water, and birds flying above.",
+        "timestamp": "2024-10-23T03:10:17.512000+00:00",
+        "message_id": "1298483610961186861"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A vast desert with endless golden dunes, rippling under the heat of the sun, and in the middle, a small oasis with a crystal-clear pond, lush palm trees, and vibrant green vegetation contrasting with the barren sand.",
+        "timestamp": "2024-10-23T03:09:45.295000+00:00",
+        "message_id": "1298483475833425973"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A vast desert with endless golden dunes, rippling under the heat of the sun, and in the middle, a small oasis with a crystal-clear pond, lush palm trees, and vibrant green vegetation contrasting with the barren sand.",
+        "timestamp": "2024-10-23T03:02:15.321000+00:00",
+        "message_id": "1298481588505546802"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A peaceful countryside village with cobblestone streets, stone cottages covered in ivy, surrounded by green rolling hills, with golden wheat fields swaying under a bright afternoon sun.",
+        "timestamp": "2024-10-23T03:00:32.334000+00:00",
+        "message_id": "1298481156546629683"
+      }
+    ],
+    "total_uses": 8
+  },
+  "1248481220577198103": {
+    "username": "judith029078",
+    "generations": [
+      {
+        "prompt": "@Judith\nPrompt: In a dark clearing in the forest, illuminated only by the faint light of the moon, the spectral figure of La Llorona appears among the shadows of the trees. She is a barefoot woman, about 40 years old, floating lightly above the ground. Her dark, matted hair falls over her shoulders and partially covers her face, adding to her ghostly appearance. She wears an antique white dress from the 1700s, long and torn, with dirt stains, which sways gently in an invisible wind. Her skin is extremely pale, almost translucent, and her eyes, empty and dark, reflect an eternal suffering. His expression mixes a deep sadness with a chilling emptiness as he moves slowly, like a lifeless shadow, in the silent clearing.",
+        "timestamp": "2024-11-06T01:43:49.580000+00:00",
+        "message_id": "1303535281315512522"
+      },
+      {
+        "prompt": "@Judith\nPrompt: is a lonely country road, barely lit by the pale moonlight Suddenly, the young man, about 25 years old, thin, with a pale face and messy hair, dressed in a worn brown jacket and torn jeans, with a dark T-shirt underneath, stops, his body tenses. He hears a faint sobbing in the distance. His eyes, large and dark, reflect a growing fear. He clutches a metal cross around his neck, seeking calm. His breathing quickens and a tremor runs through his hands, which cling tightly to the cross, his only amulet of protection.",
+        "timestamp": "2024-11-06T00:17:10.315000+00:00",
+        "message_id": "1303513474017529906"
+      }
+    ],
+    "total_uses": 2
+  },
+  "821274163104186399": {
+    "username": "henchman_01",
+    "generations": [
+      {
+        "prompt": "@Henchman_01 (Chrome)\nPrompt: one boy running under the night rain, style pixar 3D, high quality, HD, an amusement park in the background filled with lights, the boy is smiling,",
+        "timestamp": "2024-11-05T20:09:19.931000+00:00",
+        "message_id": "1303451103106437142"
+      }
+    ],
+    "total_uses": 1
+  },
+  "1172567036522676285": {
+    "username": "281227231",
+    "generations": [
+      {
+        "prompt": "@LGX\nPrompt: There are all kinds of alien humanoid creatures in the picture. The picture style is combined with the top rendering effects of fantasy 5, Avatar, Transformers, Final Fantasy and Star Wars. It looks super realistic and beautiful. The architectural style is a structural type that has never been seen before. It has a very unique and innovative design concept, as well as some high-tech equipment and systems, as well as some exotic animals and plants, as well as some fluorescent blue water bodies, and the visua",
+        "timestamp": "2024-11-05T19:49:42.334000+00:00",
+        "message_id": "1303446163906629692"
+      },
+      {
+        "prompt": "@LGX\nPrompt: Women wear shiny silk dresses and stand in a room full of neon lights. The camera moves slowly up from her feet, showing her leg curves and upper body posture, creating a bottom-up perspective. The neon lights reflect on her skin, adding a fantastic effect, and the atmosphere is fashionable and sexy.",
+        "timestamp": "2024-11-04T21:56:51.457000+00:00",
+        "message_id": "1303115774902145117"
+      },
+      {
+        "prompt": "@LGX\nPrompt: Suddenly, alien creatures dug up a glowing \"alien object\" and scared them to jump back. Grandpa squinted carefully and looked at it: \"Isn't this the' local product' brought by your hometown?",
+        "timestamp": "2024-10-31T19:17:25.226000+00:00",
+        "message_id": "1301626099758796840"
+      },
+      {
+        "prompt": "@LGX\nPrompt: \"The archaeological team in the alien canyon accidentally discovered a group of terracotta warriors and horses in China. Suddenly, these terracotta warriors and horses magically woke up and interacted with alien creatures in the formation of ancient troops. Alien creatures are full of awe of these solemn terracotta warriors and horses and try to communicate with them. As a result, they find that these terracotta warriors and horses don't understand alien technology at all, and they may even be shocked by some gadgets of alien creatures. The collision between the ancient culture of terracotta warriors and horses and alien technology has created countless funny scenes. \"",
+        "timestamp": "2024-10-30T20:16:45.931000+00:00",
+        "message_id": "1301278646572421140"
+      }
+    ],
+    "total_uses": 4
   },
   "1007638760554516672": {
     "username": "theocage",
@@ -357,17 +592,6 @@
         "prompt": "@Zivfiany\nPrompt: Medium shot, the camera follows the elegant woman as she gently strokes the cat, her fingers moving through its thick fur while her expression remains serene",
         "timestamp": "2024-11-05T16:40:34.330000+00:00",
         "message_id": "1303398566928322652"
-      }
-    ],
-    "total_uses": 1
-  },
-  "1303354095746285578": {
-    "username": "cristian033088",
-    "generations": [
-      {
-        "prompt": "@Cristian\nPrompt: A man in the beach",
-        "timestamp": "2024-11-05T16:10:56.828000+00:00",
-        "message_id": "1303391111544443014"
       }
     ],
     "total_uses": 1
@@ -502,47 +726,6 @@
       }
     ],
     "total_uses": 1
-  },
-  "1289891613014753305": {
-    "username": "maazelrhymes",
-    "generations": [
-      {
-        "prompt": "@maazel@rhymes\nPrompt: hyper realistic sky view of New York in 1959",
-        "timestamp": "2024-11-05T09:26:33.888000+00:00",
-        "message_id": "1303289345398280235"
-      },
-      {
-        "prompt": "@maazel@rhymes\nPrompt: a rodeo rider. a rugged rodeo-cowboy, with a bushy beard and sun-weathered skin, rodeos confidently astride a massive, dinosaur, its scales a mottled earthy brown and mossy green, amidst a sparse desolate, and very dusty landscape; the cowboy's khaki attire, complete with cargo pants, a utility belt, and a fedora, is worn and dusty, with a few scattered pockets and pouches, giving him a look of a seasoned paleontologist; his eyes, a piercing blue, shine with a sense of wonder and discovery as he gazes out at the sprawling landscape; the dinosaur is determined to buck the rider off in this rodeo yet it's eyes, warm and intelligent, seem to hold a deep connection with its rider; the dinosaur has three clawed fingers on the hands, and three large toes on the feet; the mouth is open with teeth showing.",
-        "timestamp": "2024-11-05T08:05:37.344000+00:00",
-        "message_id": "1303268975576350813"
-      },
-      {
-        "prompt": "@maazel@rhymes\nPrompt: A lush tropical rainforest at sunset. Golden rays filter through the leaves, illuminating a crystal-clear waterfall. A majestic jaguar slowly approaches the water to drink. Photorealistic style with vibrant colors. Slow-moving camera, lateral tracking shot from left to right. 4K high resolution with cinematic lighting.",
-        "timestamp": "2024-11-05T05:55:15.500000+00:00",
-        "message_id": "1303236168384778270"
-      },
-      {
-        "prompt": "@maazel@rhymes\nPrompt: a taxi driver sitting in front of a train station located in Antwerp,Belgium",
-        "timestamp": "2024-10-30T17:48:41.030000+00:00",
-        "message_id": "1301241380596613215"
-      },
-      {
-        "prompt": "@maazel@rhymes\nPrompt: a massive robotic cyborg manatee floats above a neon cyberpunk cityscape, generating all the power to the city",
-        "timestamp": "2024-10-28T09:51:29.538000+00:00",
-        "message_id": "1300396515684257823"
-      },
-      {
-        "prompt": "@maazel@rhymes\nPrompt: A seaside harbor with bright sunlight and sparkling seawater, with many boats in the water. From an aerial view, the boats vary in size and color, some moving and some stationary. Fishing boats in the water suggest that this location might be a popular spot for docking fishing boats.",
-        "timestamp": "2024-10-24T16:55:31.250000+00:00",
-        "message_id": "1299053674496000122"
-      },
-      {
-        "prompt": "@maazel@rhymes\nPrompt: Aurora at a mountainous west virginia scenery during sunset, with beautiful autumn yellow leaves all over the mountain.",
-        "timestamp": "2024-10-23T04:49:02.826000+00:00",
-        "message_id": "1298508463529525268"
-      }
-    ],
-    "total_uses": 7
   },
   "1116969672345145454": {
     "username": "kishanbarai",
@@ -2997,47 +3180,6 @@
     ],
     "total_uses": 2
   },
-  "1294212590569914478": {
-    "username": "roanne0792",
-    "generations": [
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A futuristic city skyline at night, with skyscrapers covered in glowing neon lights, reflections shimmering on the nearby river, and flying cars zooming through the air against a deep indigo sky filled with stars.",
-        "timestamp": "2024-10-28T07:49:50.234000+00:00",
-        "message_id": "1300365900184158250"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A quiet winter landscape covered in fresh snow, with tall pine trees dusted in white, a frozen river reflecting the soft pink glow of the setting sun, and a small cabin with smoke rising from its chimney.",
-        "timestamp": "2024-10-25T02:04:43.197000+00:00",
-        "message_id": "1299191884979245117"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A tranquil garden during springtime, with cherry blossom trees in full bloom, petals gently falling onto a calm pond, and a traditional red bridge crossing over the water, with koi fish swimming below.",
-        "timestamp": "2024-10-23T03:10:40.645000+00:00",
-        "message_id": "1298483707988148269"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A powerful waterfall cascading down a cliffside in the middle of a lush jungle, surrounded by thick vines, ferns, and towering trees, with mist rising from the water, and birds flying above.",
-        "timestamp": "2024-10-23T03:10:17.512000+00:00",
-        "message_id": "1298483610961186861"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A vast desert with endless golden dunes, rippling under the heat of the sun, and in the middle, a small oasis with a crystal-clear pond, lush palm trees, and vibrant green vegetation contrasting with the barren sand.",
-        "timestamp": "2024-10-23T03:09:45.295000+00:00",
-        "message_id": "1298483475833425973"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A vast desert with endless golden dunes, rippling under the heat of the sun, and in the middle, a small oasis with a crystal-clear pond, lush palm trees, and vibrant green vegetation contrasting with the barren sand.",
-        "timestamp": "2024-10-23T03:02:15.321000+00:00",
-        "message_id": "1298481588505546802"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A peaceful countryside village with cobblestone streets, stone cottages covered in ivy, surrounded by green rolling hills, with golden wheat fields swaying under a bright afternoon sun.",
-        "timestamp": "2024-10-23T03:00:32.334000+00:00",
-        "message_id": "1298481156546629683"
-      }
-    ],
-    "total_uses": 7
-  },
   "1270356061890678866": {
     "username": "rhymes_ai_76790",
     "generations": [
@@ -3375,17 +3517,6 @@
       }
     ],
     "total_uses": 3
-  },
-  "1290488320631115873": {
-    "username": "milesqgray",
-    "generations": [
-      {
-        "prompt": "@MilesQGray\nPrompt: Avatar character soaring through the beautiful landscapes of Yosemite National Park, with stunning cliffs, waterfalls, and lush greenery in the background. The scene features majestic mountains, clear skies, and vibrant natural colors, capturing a sense of freedom and wonder.",
-        "timestamp": "2024-10-23T05:14:24.944000+00:00",
-        "message_id": "1298514847754879011"
-      }
-    ],
-    "total_uses": 1
   },
   "1264797430604497041": {
     "username": "nina_summer_",
