@@ -7,8 +7,8 @@ from collections import defaultdict
 
 # Discord bot配置
 TOKEN = os.getenv('DISCORD_TOKEN')
-CHANNEL_ID = 1298256937686798427  # 这里填入数字格式的频道ID
-ALLOWED_ADMIN_ID = "tim_aidev"  # 这里填入你的Discord用户ID
+CHANNEL_ID = os.getenv('CHANNEL_ID')
+ALLOWED_ADMIN_ID = os.getenv('ALLOWED_ADMIN_ID')
 
 class StatBot(discord.Client):
     def __init__(self):
