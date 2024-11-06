@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 import asyncio
 from collections import defaultdict
-
+import os
 # Discord bot配置
 TOKEN = os.getenv('DISCORD_TOKEN')
 CHANNEL_ID = os.getenv('CHANNEL_ID')
