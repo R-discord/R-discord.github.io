@@ -6,7 +6,7 @@ import asyncio
 from collections import defaultdict
 
 # Discord bot配置
-TOKEN = 'MTMwMzIzNTEzMDQ4NzM0MTA1Ng.GdP3ir.wqgwuaf6zPalqt4dCVUb8eDvqKJKANij91b1vg'
+TOKEN = os.getenv('DISCORD_TOKEN')
 CHANNEL_ID = 1298256937686798427  # 这里填入数字格式的频道ID
 ALLOWED_ADMIN_ID = "tim_aidev"  # 这里填入你的Discord用户ID
 
