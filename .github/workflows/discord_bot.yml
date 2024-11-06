@@ -2,13 +2,13 @@ name: Run Discord Bot
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # 每天午夜 00:00 北京时间（UTC 16:00）
+    - cron: '0 16 * * *'
   push:
     branches:
       - main
 
 permissions:
-  contents: write  # 确保 GITHUB_TOKEN 有推送权限
+  contents: write
 
 jobs:
   discord-bot:
@@ -16,10 +16,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4  # 更新为 v4 版本
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false # 添加这行
 
       - name: Set up Python
-        uses: actions/setup-python@v5  # 更新为 v5 版本
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -30,7 +32,7 @@ jobs:
 
       - name: Run the Discord bot
         run: |
-          python stats_bot.py || echo "Bot execution failed"
+          python stats_bot.py
         env:
           DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
           DISCORD_ADMIN_ID: ${{ secrets.DISCORD_ADMIN_ID }}
@@ -38,8 +40,10 @@ jobs:
 
       - name: Commit and push stats.json
         run: |
-          git config --global user.name 'haijian06'
-          git config --global user.email 'wanghaijian05@gmail.com'
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
           git add stats.json
-          git diff --cached --exit-code || git commit -m 'Update stats.json'  # 只有在 stats.json 变动时才提交
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git commit -m "Update stats.json" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
