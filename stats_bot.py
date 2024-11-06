@@ -7,7 +7,7 @@ from collections import defaultdict
 import os
 # Discord 
 TOKEN = os.getenv('DISCORD_TOKEN')
-CHANNEL_ID = os.getenv('CHANNEL_ID')
+CHANNEL_ID = int(os.getenv('CHANNEL_ID'))
 ALLOWED_ADMIN_ID = os.getenv('ALLOWED_ADMIN_ID')
 
 class StatBot(discord.Client):
