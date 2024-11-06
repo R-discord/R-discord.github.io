@@ -2,7 +2,7 @@ name: Run Discord Bot
 
 on:
   schedule:
-    - cron: '0 16 * * *'  
+    - cron: '0 16 * * *'  # 每天午夜 00:00 北京时间（UTC 16:00）
   push:
     branches:
       - main
@@ -16,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # 更新为 v4 版本
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # 更新为 v5 版本
         with:
           python-version: '3.10'
 
@@ -32,9 +32,9 @@ jobs:
         run: |
           python stats_bot.py || echo "Bot execution failed"
         env:
-          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}  # 从 GitHub Secrets 读取频道ID
-          DISCORD_ADMIN_ID: ${{ secrets.DISCORD_ADMIN_ID }}  # 从 GitHub Secrets 读取管理员ID
-          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}  # 从 GitHub Secrets 读取 Discord Token
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+          DISCORD_ADMIN_ID: ${{ secrets.DISCORD_ADMIN_ID }}
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
 
       - name: Commit and push stats.json
         run: |
