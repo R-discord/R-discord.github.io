@@ -7,15 +7,15 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
     <style>
         :root {
-            --bg-primary: #1a1b1e;
-            --bg-secondary: #2a2b30;
-            --bg-tertiary: #32333a;
-            --accent-color: #7289da;
-            --text-primary: #ffffff;
-            --text-secondary: #b9bbbe;
+            --bg-primary: #f8f9fa;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #ffffff;
+            --accent-color: #5865f2;
+            --text-primary: #2c3e50;
+            --text-secondary: #6c757d;
             --success-color: #43b581;
             --border-radius: 12px;
-            --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            --box-shadow: 0 2px 12px rgba(0,0,0,0.08);
         }
 
         * {
@@ -29,11 +29,11 @@
             background-color: var(--bg-primary);
             color: var(--text-primary);
             line-height: 1.5;
-            padding: 24px;
+            padding: 20px;
         }
 
         .dashboard {
-            max-width: 1400px;
+            max-width: 1200px;
             margin: 0 auto;
             display: grid;
             gap: 24px;
@@ -44,18 +44,13 @@
             background-color: var(--bg-secondary);
             border-radius: var(--border-radius);
             padding: 24px;
-            box-shadow: var(--card-shadow);
-            transition: transform 0.2s ease;
-        }
-
-        .card:hover {
-            transform: translateY(-2px);
+            box-shadow: var(--box-shadow);
         }
 
         .stats-summary {
             grid-column: 1 / -1;
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 24px;
         }
 
@@ -64,8 +59,8 @@
             padding: 24px;
             border-radius: var(--border-radius);
             text-align: center;
-            box-shadow: var(--card-shadow);
-            transition: transform 0.2s ease;
+            box-shadow: var(--box-shadow);
+            transition: transform 0.2s;
         }
 
         .stat-card:hover {
@@ -77,30 +72,16 @@
             font-weight: bold;
             color: var(--accent-color);
             margin: 12px 0;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
 
         .stat-label {
             color: var(--text-secondary);
-            font-size: 1em;
+            font-size: 0.95em;
             font-weight: 500;
-        }
-
-        .chart-container {
-            grid-column: 1 / -1;
-            height: 400px;
-            padding: 20px;
         }
 
         .user-list {
             grid-column: 1 / -1;
-            padding: 0;
-        }
-
-        .user-list h2 {
-            margin-bottom: 20px;
-            color: var(--text-primary);
-            font-size: 1.5em;
         }
 
         .user-card {
@@ -112,31 +93,32 @@
             justify-content: space-between;
             align-items: center;
             cursor: pointer;
-            transition: all 0.2s ease;
+            transition: all 0.2s;
+            box-shadow: var(--box-shadow);
         }
 
         .user-card:hover {
             transform: translateX(4px);
-            background-color: var(--bg-secondary);
+            box-shadow: var(--box-shadow);
         }
 
         .user-info {
             display: flex;
             align-items: center;
-            gap: 16px;
+            gap: 12px;
         }
 
         .user-avatar {
-            width: 48px;
-            height: 48px;
+            width: 44px;
+            height: 44px;
             background-color: var(--accent-color);
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
             font-weight: bold;
+            color: white;
             font-size: 1.2em;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
 
         .usage-stats {
@@ -154,22 +136,12 @@
             padding: 16px;
             background-color: var(--bg-primary);
             border-radius: var(--border-radius);
-            animation: slideDown 0.3s ease;
-        }
-
-        @keyframes slideDown {
-            from { opacity: 0; transform: translateY(-10px); }
-            to { opacity: 1; transform: translateY(0); }
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.05);
         }
 
         .prompt-item {
             padding: 12px;
-            border-bottom: 1px solid var(--bg-secondary);
-            transition: background-color 0.2s ease;
-        }
-
-        .prompt-item:hover {
-            background-color: var(--bg-secondary);
+            border-bottom: 1px solid rgba(0,0,0,0.05);
         }
 
         .prompt-item:last-child {
@@ -178,18 +150,28 @@
 
         .growth-positive {
             color: var(--success-color);
-            font-weight: 500;
         }
 
         .growth-negative {
             color: #f04747;
-            font-weight: 500;
+        }
+
+        .chart-container {
+            grid-column: 1 / -1;
+            height: 400px;
+            padding: 20px;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            color: var(--text-primary);
+            font-weight: 600;
         }
     </style>
 </head>
 <body>
-    <!-- HTML 结构保持不变 -->
     <div class="dashboard">
+        <!-- HTML结构保持不变 -->
         <div class="stats-summary">
             <div class="stat-card">
                 <div class="stat-label">总用户数</div>
@@ -310,7 +292,7 @@
                     userListEl.appendChild(container);
                 });
 
-                // Create usage trend chart with sorted dates
+                // Create usage trend chart with proper date sorting
                 const ctx = document.getElementById('usageChart').getContext('2d');
                 const allDates = new Set();
                 userList.forEach(user => {
@@ -319,10 +301,9 @@
                     });
                 });
 
-                const sortedDates = Array.from(allDates).sort((a, b) => a - b);
-                const dateLabels = sortedDates.map(timestamp => 
-                    new Date(timestamp).toLocaleDateString()
-                );
+                const dateLabels = Array.from(allDates)
+                    .sort((a, b) => a - b)
+                    .map(timestamp => new Date(timestamp).toLocaleDateString());
 
                 const usageData = dateLabels.map(date =>
                     userList.reduce((sum, user) =>
@@ -336,11 +317,10 @@
                         datasets: [{
                             label: '每日使用趋势',
                             data: usageData,
-                            borderColor: var(--accent-color),
-                            backgroundColor: 'rgba(114, 137, 218, 0.1)',
+                            borderColor: '#5865f2',
+                            backgroundColor: 'rgba(88, 101, 242, 0.1)',
                             fill: true,
-                            tension: 0.4,
-                            borderWidth: 2
+                            tension: 0.4
                         }]
                     },
                     options: {
@@ -355,24 +335,18 @@
                             y: {
                                 beginAtZero: true,
                                 grid: {
-                                    color: 'rgba(255, 255, 255, 0.05)'
+                                    color: 'rgba(0, 0, 0, 0.05)'
                                 },
                                 ticks: {
-                                    color: '#b9bbbe',
-                                    font: {
-                                        size: 12
-                                    }
+                                    color: var(--text-secondary)
                                 }
                             },
                             x: {
                                 grid: {
-                                    color: 'rgba(255, 255, 255, 0.05)'
+                                    color: 'rgba(0, 0, 0, 0.05)'
                                 },
                                 ticks: {
-                                    color: '#b9bbbe',
-                                    font: {
-                                        size: 12
-                                    }
+                                    color: var(--text-secondary)
                                 }
                             }
                         }
