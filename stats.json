@@ -1,7 +1,64 @@
 {
+  "887175271592128543": {
+    "username": "rodney2359",
+    "generations": [
+      {
+        "prompt": "@Rooster Creation is in queue.(Prompt: hadas hermosas en un bosque elfico hyperrealista HD cinematografico).Author: @Rooster",
+        "timestamp": "2024-11-15T01:18:02.743000+00:00",
+        "message_id": "1306790284201426995"
+      }
+    ],
+    "total_uses": 1
+  },
+  "1051673881536122970": {
+    "username": "piololu",
+    "generations": [
+      {
+        "prompt": "@piololu\nPrompt: a mystical floating island with waterfalls cascading into the sky, illustrated in a studio Ghibli-inspired anime style",
+        "timestamp": "2024-11-15T00:33:57.597000+00:00",
+        "message_id": "1306779189655109705"
+      },
+      {
+        "prompt": "@piololu\nPrompt: detailed cinematic dof render of an old dusty detailed CRT monitor on a wooden desk in a dim room with items around, messy dirty room. High detail hard surface render",
+        "timestamp": "2024-11-13T04:58:41.266000+00:00",
+        "message_id": "1306121034860204106"
+      },
+      {
+        "prompt": "@piololu\nPrompt: girl, (beautiful face, cute face, 18 years old), brunette, long straight hair, medieval dress, off shoulder, midriff, (tiny waist, flat stomach, narrow hips):1.4, inside cozy medieval cabin, soft lighting, smiling, blush, looking at viewer, realistic photography,",
+        "timestamp": "2024-11-09T03:33:25.906000+00:00",
+        "message_id": "1304650028022894628"
+      },
+      {
+        "prompt": "@piololu\nPrompt: Realistic access camera footage using a fisheye lens view shows zombies from The Walking Dead approaching the front door. The fisheye effect distorts the edges of the image, enhancing the eerie atmosphere as zombies approach with rotting skin, ragged clothes, and shambling steps. On the dim street outside, the shadows of nearby houses and street lamps were looming. The zombie hesitates, then leans down to peek through the crack in the door, its terrifying face filling the camera's field of view.",
+        "timestamp": "2024-11-07T04:27:12.666000+00:00",
+        "message_id": "1303938786304196688"
+      },
+      {
+        "prompt": "@piololu\nPrompt: The young boy in the 3D-rendered image shifts his weight from one foot to the other, his hands moving to his hips as his expression fluctuates between frustration and confusion. The soft, warm lighting continues to bathe the room, casting gentle shadows from the standing lamp and highlighting the soft rug's texture beneath him.",
+        "timestamp": "2024-11-07T03:33:09.460000+00:00",
+        "message_id": "1303925183312171059"
+      }
+    ],
+    "total_uses": 5
+  },
   "1066718948764168283": {
     "username": "ccastell23",
     "generations": [
+      {
+        "prompt": "@ccastell23\nPrompt: pequeñito mosquito en la flor del arbol del cacao",
+        "timestamp": "2024-11-15T00:26:15.647000+00:00",
+        "message_id": "1306777252096245811"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: mosquitos polinizando la flor del cacao",
+        "timestamp": "2024-11-15T00:08:41.990000+00:00",
+        "message_id": "1306772832738476126"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: mosquitos polinizando la flor mucílago",
+        "timestamp": "2024-11-15T00:02:35.570000+00:00",
+        "message_id": "1306771295861473360"
+      },
       {
         "prompt": "@ccastell23\nPrompt: en los campos de la judea de los tiempos biblicos un hombre y una mujer con ropas biblicas ven alejarse a un hombre blanco alto con pelo rubio y con ropa parecida a la de star trek que emana luz alejandose de ellos caminando.",
         "timestamp": "2024-11-14T14:01:13.449000+00:00",
@@ -58,7 +115,478 @@
         "message_id": "1304524960726913034"
       }
     ],
+    "total_uses": 14
+  },
+  "628979158265102387": {
+    "username": "_theverminator",
+    "generations": [
+      {
+        "prompt": "@TheVerminator\nPrompt: a cup of vinegar being poured onto a pile of baking soda. the explosive reaction sprays all over the place.",
+        "timestamp": "2024-11-14T21:48:59.854000+00:00",
+        "message_id": "1306737675512053822"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: A pterosaur flying next to an airplane, seen from the airplane's window. The window frame and part of the airplane wing are visible in the foreground, with the wing casting soft shadows on the glass. The pterosaur is soaring just outside, its wings spread wide and flapping, flying gracefully through a clear blue sky. The creature’s detailed features, including its long beak and leathery wings, contrast with the sleek, modern metal of the airplane. In the background, fluffy clouds stretch across the sky, emphasizing the height and vastness of the scene .",
+        "timestamp": "2024-11-14T21:42:41.080000+00:00",
+        "message_id": "1306736086818750505"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: a hip-hop group of santa's elves performing in a north pole dance contest",
+        "timestamp": "2024-11-14T21:39:41.745000+00:00",
+        "message_id": "1306735334633246720"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: santa driving his sleight like a fighter jet",
+        "timestamp": "2024-11-14T21:34:53.131000+00:00",
+        "message_id": "1306734124098125935"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: a spinning turbine composed of the dreams of the dead. the lighting is mystical and disturbing.",
+        "timestamp": "2024-11-14T21:20:43.557000+00:00",
+        "message_id": "1306730560726761605"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: Cartoon-style animation of a small commercial plane in flight from Los Angeles to Basel, Switzerland, over a colorful, animated map. The scene opens with an overhead shot showing the west coast of the U.S., zooming in as the plane takes off, then transitions to an aerial glide as the camera follows the plane crossing the animated globe or path line. Use bright, stylized clouds, and add a sweeping pan across the Atlantic, with map markers indicating major cities or oceans. The scene ends with a dynamic tracking shot as the plane approaches the Swiss Alps, with Basel in sight in the background. Lighthearted, cartoonish atmosphere, with soft, vibrant colors and gentle, playful animation of clouds moving past.",
+        "timestamp": "2024-11-12T22:05:24.056000+00:00",
+        "message_id": "1306017027823112304"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: Cartoon-style animation of a small commercial plane in flight from Basel, Switzerland, to Los Angeles, USA, over a colorful, animated map. The scene opens with an overhead shot above the Swiss Alps, zooming in as the plane departs Basel. Transition to an aerial glide following the plane across Europe and the Atlantic with a sweeping pan showing major cities and oceans along the path. The journey ends with a dynamic tracking shot as the plane approaches the U.S. west coast, descending towards Los Angeles with the iconic skyline in the distance. Soft, vibrant colors, stylized clouds, and a playful animation style create a lighthearted, cartoonish feel.",
+        "timestamp": "2024-11-12T22:04:19.362000+00:00",
+        "message_id": "1306016756476678164"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: ancient bacon ceremony",
+        "timestamp": "2024-11-09T09:38:53.018000+00:00",
+        "message_id": "1304741996996460619"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: A hauntingly surreal, hyper-realistic scene begins with a slow, drifting zoom on a spectral figure—a woman with a graceful human upper body that merges seamlessly into translucent, bioluminescent jellyfish tendrils in place of legs. Shot in cinematic IMAX quality, the camera captures her from a low, sweeping angle, emphasizing her otherworldly lower half cascading in delicate, pulsing filaments over a jagged rock. Each tendril moves gently, swaying and stretching in the cold, night breeze, as if alive, drifting rhythmically with the ocean’s unseen currents. Her spectral skin fades from human tones into ghostly blue and silver hues, her form illuminated by stark moonlight, casting an otherworldly glow on her body and tendrils that blend hauntingly into the dark waters below.  Her gaze remains vacant and forlorn as she looks out over the ocean, her eyes cast downward in a detached, timeless sorrow. Shadows cover part of her face, conveying ghostly serenity. The camera shifts slightly to capture the ethereal bioluminescence of her tendrils, enhanced by the harsh contrasts of moonlight and the mist that clings to the rocks. Surrounding her is a nearly black, oily water surface, reflecting the cold gleam of the moon, interrupted only by faint, distorted ripples of her shadowed reflection, creating the haunting illusion of shadowy figures drifting below. Dead, twisted trees line the rocky shore behind her, adding isolation and a sense of eerie foreboding.  Keywords: Ultra smooth coherent movement, shot with IMAX Camera, masterpiece quality, hyper detailed photorealism, ultra high definition, award-winning cinematography, extreme realism, cinematic crisp, vivid, emotional, cinematic hd photorealistic, realism.",
+        "timestamp": "2024-11-08T11:35:43.019000+00:00",
+        "message_id": "1304409011205967904"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: In a suspenseful, high-definition underwater scene, a massive hybrid creature—a terrifying combination of spider and octopus—descends upon a small, isolated submarine deep in the ocean. Shot with IMAX quality, the camera begins with a smooth, wide-angle dolly shot that reveals the submarine from above, dwarfed by the looming darkness. Emerging from the shadows, the creature’s massive, arachnid body with spiny, chitinous legs stretches outward, each leg moving with calculated, unnervingly smooth precision, while its octopus-like tentacles writhe and wrap around the submarine’s exterior with a chilling, hyper-detailed grip.  As the camera tilts upward, a high-angle close-up captures the details of the creature’s gelatinous, bioluminescent skin that shifts colors with eerie iridescence. Its eyes, clustered and cold, focus on the submarine as it clamps down, metallic groans echoing through the murky water. The tentacles pulse with each tightening grip, leaving suctioned imprints on the submarine's surface, while sharp spider legs brace against the vessel’s hull, amplifying the impending danger. Bubbles and sand particles drift around, heightening the scene’s claustrophobic tension as the deep sea trembles with the weight of the creature's fierce, predatory attack.  Keywords: Ultra smooth coherent movement, shot with IMAX Camera, masterpiece quality, hyper detailed photorealism, ultra high definition, award-winning cinematography, extreme realism, cinematic crisp, vivid, intense, cinematic hd photorealistic, realism.",
+        "timestamp": "2024-11-08T11:22:42.134000+00:00",
+        "message_id": "1304405735937015849"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: a ball that changes into a box, then into a pyramid that explodes. photorealistic.",
+        "timestamp": "2024-11-08T09:31:22.960000+00:00",
+        "message_id": "1304377721450795042"
+      }
+    ],
     "total_uses": 11
+  },
+  "1303105335380283554": {
+    "username": "andy_21498",
+    "generations": [
+      {
+        "prompt": "@Andy\nPrompt: A beautiful, large hourglass with delicate golden sand, standing in a dimly lit and elegant room. A stunning woman stands beside it, gazing at it with a serene and introspective expression. She is wearing a flowing, graceful dress, adding elegance to the scene. The background is softly blurred, emphasizing both the hourglass and the woman, creating a mystical and timeless atmosphere. The lighting is warm, with gentle shadows highlighting the intricate details of the hourglass and the woman's features",
+        "timestamp": "2024-11-14T20:54:44.407000+00:00",
+        "message_id": "1306724021177552907"
+      },
+      {
+        "prompt": "@Andy\nPrompt: In the Luminescent Forest, Elaia has long, golden hair that shines like threads of light. Her skin is pale, almost translucent, radiating a soft glow. Her eyes are a deep sky-blue, like the sky at dawn, and they light up when she gazes. She wears a light, ethereal tunic that flows with every breeze. Kaelen, tall, muscular, with dark hair that falls in loose waves over his shoulders, stands beside her. His eyes are a deep gray, like steel. His skin is tanned, but his veins and some marks on his body seem to absorb the light, giving him a mysterious aura. He wears dark, fitted clothing that blends with the shadows. They meet under the moonlight, Elaia enveloped in a soft glow, while Kaelen blends into the shadows. Their gazes lock in silence, and the forest seems to hold its breath around them, capturing the moment in a profound stillness, charged with tension.",
+        "timestamp": "2024-11-14T01:28:23.975000+00:00",
+        "message_id": "1306430501971824765"
+      },
+      {
+        "prompt": "@Andy\nPrompt: Create a cartoon-style video of the Tasmanian Devil (Taz) from Looney Tunes smiling alongside his daughter, Lizzy. They are in a messy room, which is completely disheveled because of the chaos they caused. Taz and Lizzy are standing happily in the middle of the room, with Taz grinning widely, showing his teeth. The room is scattered with items like books, broken furniture, and overturned objects, highlighting the playful destruction they caused. The atmosphere should be comical and lively, with exaggerated cartoonish details.",
+        "timestamp": "2024-11-14T00:59:08.789000+00:00",
+        "message_id": "1306423140187901993"
+      },
+      {
+        "prompt": "@Andy\nPrompt: Create a video of a woman with red hair walking on the beach during sunset, wearing a white dress. The scene should capture the warm, golden hues of the sunset, with soft waves gently crashing against the shore. The woman should be walking gracefully along the edge of the water, her white dress flowing in the breeze. The atmosphere should be peaceful and serene, evoking a sense of calm and beauty",
+        "timestamp": "2024-11-14T00:48:56.132000+00:00",
+        "message_id": "1306420570518192199"
+      }
+    ],
+    "total_uses": 4
+  },
+  "1305305641262387312": {
+    "username": "core.reisor",
+    "generations": [
+      {
+        "prompt": "@Core\nPrompt: only one super massive star explode",
+        "timestamp": "2024-11-14T20:50:54.289000+00:00",
+        "message_id": "1306723055992705046"
+      },
+      {
+        "prompt": "@Core\nPrompt: human brain in eureka moment",
+        "timestamp": "2024-11-14T18:08:45.123000+00:00",
+        "message_id": "1306682248912703498"
+      },
+      {
+        "prompt": "@Core\nPrompt: a black star crush the Earth planet",
+        "timestamp": "2024-11-14T02:06:48.687000+00:00",
+        "message_id": "1306440168634322985"
+      },
+      {
+        "prompt": "@Core\nPrompt: puppy dancing",
+        "timestamp": "2024-11-14T00:53:15.197000+00:00",
+        "message_id": "1306421657115557951"
+      },
+      {
+        "prompt": "@Core\nPrompt: poodle breed dog wearing pink princess tutu dress, modeling on a puppy catwalk",
+        "timestamp": "2024-11-13T00:05:06.873000+00:00",
+        "message_id": "1306047154741055561"
+      },
+      {
+        "prompt": "@Core\nPrompt: wendigo walking in the dark forest, very mist. Hd quality",
+        "timestamp": "2024-11-12T23:23:55.054000+00:00",
+        "message_id": "1306036787180732436"
+      },
+      {
+        "prompt": "@Core\nPrompt: Solar system traveling for the galaxy",
+        "timestamp": "2024-11-12T21:45:07.697000+00:00",
+        "message_id": "1306011926043824168"
+      }
+    ],
+    "total_uses": 7
+  },
+  "977031864848117781": {
+    "username": "king_black98",
+    "generations": [
+      {
+        "prompt": "@King-black98\nPrompt: Juan was a man dedicated to his gym routine. Every morning, without fail, he arrived at the gym at 6 a.m. to begin his workout. He was known for his discipline and kindness, always greeting everyone with a smile. 3d style",
+        "timestamp": "2024-11-14T20:44:57.825000+00:00",
+        "message_id": "1306721560874192906"
+      },
+      {
+        "prompt": "@King-black98\nPrompt: \"70mm photorealistic, high-definition IMAX, with dramatic head-centred lighting. A majestic eagle, Arion, with golden feathers and piercing eyes, glides gracefully over a high, rocky mountain landscape with distant snow-capped peaks. The sky is clear blue with a few scattered clouds. Intense sunlight illuminates Arion’s extended wings as they cut through the air. Below, vast landscapes stretch out with winding rivers and dense forests. Arion’s sharp gaze scans the scenery for prey, embodying the freedom of flight. Wide-angle shot capturing Arion soaring across the valley with the grandeur of the surrounding mountains.\"",
+        "timestamp": "2024-11-11T22:11:10.034000+00:00",
+        "message_id": "1305656091094552639"
+      },
+      {
+        "prompt": "@King-black98\nPrompt: \"70mm photorealistic, high-definition IMAX, with dramatic head-centered lighting, set in the African savanna at sunset. A powerful lion with a thick, slightly windswept mane stands tall, his golden fur glowing in the warm, amber light. His intense gaze falls on a small, trembling hare nearby. The hare crouches low, frozen in fear, its tiny body visibly shaking as it watches the lion, ready to flee. The scene captures a tense contrast between the massive, calm presence of the lion and the delicate, vulnerable figure of the hare. The background showcases dry, golden grass and scattered acacia trees casting long shadows, with the sky a blend of deep oranges and purples. The camera angle is low, emphasizing the size and dominance of the lion, while highlighting the vulnerability of the hare in the foreground, creating a dramatic, almost symbolic tableau of power and fragility.\"",
+        "timestamp": "2024-11-11T03:57:34.721000+00:00",
+        "message_id": "1305380880524640338"
+      },
+      {
+        "prompt": "@King-black98\nPrompt: lion and hare",
+        "timestamp": "2024-11-11T03:36:40.804000+00:00",
+        "message_id": "1305375621215555625"
+      },
+      {
+        "prompt": "@King-black98\nPrompt: animals in the african jungles",
+        "timestamp": "2024-11-11T03:27:13.077000+00:00",
+        "message_id": "1305373239996055574"
+      }
+    ],
+    "total_uses": 5
+  },
+  "501393790418944010": {
+    "username": "sness23",
+    "generations": [
+      {
+        "prompt": "@sness\nPrompt: A multicolored kitten hovers over a bunch of flowers like a bee",
+        "timestamp": "2024-11-14T19:29:27.075000+00:00",
+        "message_id": "1306702557531345008"
+      },
+      {
+        "prompt": "@sness\nPrompt: In an otherworldly cosmos, a hyperrealistic cat with iridescent fur hypnotically blinks, its eyes captivating and mesmerizing. Spirals of cosmic energy swirl around, casting an unforgettable spell. The camera slowly zooms in, capturing the enchanting gaze and slight head movements of this celestial feline, blinking like it's in love.",
+        "timestamp": "2024-11-14T19:27:07.868000+00:00",
+        "message_id": "1306701973654868079"
+      },
+      {
+        "prompt": "@sness\nPrompt: creepy chan as a dnd 5e warlock",
+        "timestamp": "2024-11-13T00:24:02.373000+00:00",
+        "message_id": "1306051917373378570"
+      },
+      {
+        "prompt": "@sness\nPrompt: Show a modern kitchen with a minimalist and elegant design. The cabinets are in neutral colors (matte white or light gray) with a clean finish and straight lines. The kitchen has natural light coming through a large window and is decorated with simple details like a small plant or subtle-colored bowls. Above the stove, there’s a modern stainless steel range hood, creating a clean and functional atmosphere",
+        "timestamp": "2024-11-12T06:56:22.111000+00:00",
+        "message_id": "1305788262325026828"
+      },
+      {
+        "prompt": "@sness\nPrompt: Enlightened Feline Sages in the Eternal Garden Prompt: \"Create an eternal, blooming garden bathed in golden sunlight. Within the garden, several enlightened cat sages sit beneath ancient, sprawling trees with luminous leaves. Each cat exudes a unique aura of wisdom and divinity, surrounded by subtle glows and floating petals. The environment feels timeless and sacred, highlighting the cats' roles as spiritual teachers.",
+        "timestamp": "2024-11-12T02:56:53.551000+00:00",
+        "message_id": "1305727996216213555"
+      },
+      {
+        "prompt": "@sness\nPrompt: the word \"ARIA\"",
+        "timestamp": "2024-10-31T20:35:19.618000+00:00",
+        "message_id": "1301645705579991070"
+      },
+      {
+        "prompt": "@sness\nPrompt: ARIA",
+        "timestamp": "2024-10-31T20:35:03.894000+00:00",
+        "message_id": "1301645639628623985"
+      },
+      {
+        "prompt": "@sness\nPrompt: the word \"ARIA\" zooming in",
+        "timestamp": "2024-10-31T20:34:58.730000+00:00",
+        "message_id": "1301645617969496118"
+      },
+      {
+        "prompt": "@sness\nPrompt: Transition to images of classical physics models, forcefields, and simulations. This can include diagrams of atoms, molecular structures, and early computer simulations to illustrate the limitations of traditional models.",
+        "timestamp": "2024-10-30T23:37:26.491000+00:00",
+        "message_id": "1301329148341387389"
+      },
+      {
+        "prompt": "@sness\nPrompt: Start with a dynamic and uplifting montage that sets the tone for the video. Showcase futuristic cityscapes with flying cars, smart cities, and advanced robots working seamlessly with humans. Include AI-driven interfaces and holographic displays to emphasize the integration of technology in everyday life.",
+        "timestamp": "2024-10-30T23:29:08.997000+00:00",
+        "message_id": "1301327061700448258"
+      },
+      {
+        "prompt": "@sness\nPrompt: A collage of hands from different backgrounds coming together, holding a glowing molecular structure.",
+        "timestamp": "2024-10-30T23:28:31.633000+00:00",
+        "message_id": "1301326904984600597"
+      },
+      {
+        "prompt": "@sness\nPrompt: Protein structures morphing, a robotic arm assembling molecular components.",
+        "timestamp": "2024-10-30T23:28:22.451000+00:00",
+        "message_id": "1301326866472239177"
+      },
+      {
+        "prompt": "@sness\nPrompt: Molecular structures, AI-generated protein models, and robotic arms in a lab.",
+        "timestamp": "2024-10-30T21:21:25.173000+00:00",
+        "message_id": "1301294917292789931"
+      },
+      {
+        "prompt": "@sness\nPrompt: Images of classical physics models, forcefields, and simulations.",
+        "timestamp": "2024-10-30T21:21:17.128000+00:00",
+        "message_id": "1301294883549741096"
+      },
+      {
+        "prompt": "@sness\nPrompt: A montage of futuristic cityscapes, advanced robots, and AI-driven interfaces.",
+        "timestamp": "2024-10-30T21:21:12.545000+00:00",
+        "message_id": "1301294864327114763"
+      },
+      {
+        "prompt": "@sness\nPrompt: A synthetic biology project to engineer a new antibiotic, with a background of a medical research setting, where proteins and molecules interact in real-time holographic projections, emphasizing the potential for disease control",
+        "timestamp": "2024-10-30T20:42:41.028000+00:00",
+        "message_id": "1301285169122119761"
+      },
+      {
+        "prompt": "@sness\nPrompt: A lab with synthetic biology posters and charts, including a diagram of a synthetic gene circuit, with scientists observing the interactions of proteins and molecules through augmented reality glasses, illustrating the ethical considerations and future implications of the work",
+        "timestamp": "2024-10-30T20:42:33.274000+00:00",
+        "message_id": "1301285136599613451"
+      },
+      {
+        "prompt": "@sness\nPrompt: A scientist working on a synthetic organism in a biolab, with a background of a hospital setting, where proteins and molecules interact in real-time holographic projections, emphasizing the potential for medical breakthroughs.",
+        "timestamp": "2024-10-30T20:15:02.068000+00:00",
+        "message_id": "1301278210939424834"
+      },
+      {
+        "prompt": "@sness\nPrompt: \"A lab with synthetic biology equipment and tools, including a microfluidic chip for precise fluid handling, where proteins and molecules interact in real-time holographic projections, showcasing the miniaturization and automation in the field.",
+        "timestamp": "2024-10-30T20:14:50.076000+00:00",
+        "message_id": "1301278160641327179"
+      },
+      {
+        "prompt": "@sness\nPrompt: A synthetic biology project to engineer a biofuel-producing algae, with a background of a smart farm and solar panels, where proteins and molecules interact in real-time holographic projections, highlighting the potential for sustainable energy solutions.\"",
+        "timestamp": "2024-10-30T18:52:41.701000+00:00",
+        "message_id": "1301257489538355241"
+      },
+      {
+        "prompt": "@sness\nPrompt: A lab with synthetic biology posters and charts, including a diagram of a synthetic gene circuit, with scientists observing the interactions of proteins and molecules through augmented reality glasses, illustrating the educational and research aspects of the field.",
+        "timestamp": "2024-10-30T17:32:55.379000+00:00",
+        "message_id": "1301237414248972319"
+      },
+      {
+        "prompt": "@sness\nPrompt: A scientist working on a synthetic organism in a biolab, surrounded by advanced imaging equipment and bioreactors, as proteins and molecules interact in real-time holographic projections, emphasizing the complexity and potential of synthetic biology.",
+        "timestamp": "2024-10-30T17:32:46.084000+00:00",
+        "message_id": "1301237375262916630"
+      },
+      {
+        "prompt": "@sness\nPrompt: A lab with synthetic biology equipment and tools, including a centrifuge and PCR machines, where proteins and molecules interact in real-time holographic projections, highlighting the precision required for genetic engineering.",
+        "timestamp": "2024-10-30T16:56:42.358000+00:00",
+        "message_id": "1301228299938304126"
+      },
+      {
+        "prompt": "@sness\nPrompt: A synthetic organism with a glowing pattern indicating genetic modification, with scientists observing the process through augmented reality glasses, representing the intersection of synthetic biology and bioart.",
+        "timestamp": "2024-10-30T16:56:30.376000+00:00",
+        "message_id": "1301228249682022404"
+      },
+      {
+        "prompt": "@sness\nPrompt: A scientist extracting DNA from a sample in a synthetic biology lab, with a background of advanced sequencing machines, where proteins and molecules interact in real-time holographic projections, showcasing the foundational techniques in the field.",
+        "timestamp": "2024-10-30T16:56:19.779000+00:00",
+        "message_id": "1301228205234978926"
+      },
+      {
+        "prompt": "@sness\nPrompt: protein structure of a kinase in action cleaving a phosphate group",
+        "timestamp": "2024-10-30T16:55:50.623000+00:00",
+        "message_id": "1301228082945851466"
+      },
+      {
+        "prompt": "@sness\nPrompt: A lab with bioreactors producing synthetic proteins, with a focus on the scale-up process from small-scale research to large-scale production, as proteins and molecules interact in real-time holographic projections.",
+        "timestamp": "2024-10-30T15:34:53.806000+00:00",
+        "message_id": "1301207711978881034"
+      },
+      {
+        "prompt": "@sness\nPrompt: A synthetic biology workshop with a variety of tools and equipment, including a 3D printer for custom labware, as proteins and molecules interact in the foreground, highlighting the innovation and creativity in the field.  Female researchers talking",
+        "timestamp": "2024-10-30T09:23:45.308000+00:00",
+        "message_id": "1301114311128645715"
+      },
+      {
+        "prompt": "@sness\nPrompt: Bobcat jumps over a river with a single leap",
+        "timestamp": "2024-10-30T09:23:01.030000+00:00",
+        "message_id": "1301114125413388298"
+      },
+      {
+        "prompt": "@sness\nPrompt: A female scientist in a high-tech lab, surrounded by holographic displays of molecular structures, meticulously editing a DNA strand with CRISPR tools, as proteins float in the air, illustrating the molecular mechanics of synthetic biology.",
+        "timestamp": "2024-10-30T09:04:43.927000+00:00",
+        "message_id": "1301109523829882880"
+      },
+      {
+        "prompt": "@sness\nPrompt: A female biohacker in a makeshift lab, surrounded by DIY genetic engineering tools and a petri dish with genetically modified bacteria, illustrating the democratization of synthetic biology and the DIY bio movement.",
+        "timestamp": "2024-10-30T09:04:31.022000+00:00",
+        "message_id": "1301109469702520836"
+      },
+      {
+        "prompt": "@sness\nPrompt: A scientist in a high-tech lab, surrounded by holographic displays of molecular structures, meticulously editing a DNA strand with CRISPR tools, as proteins float in the air, illustrating the molecular mechanics of synthetic biology.",
+        "timestamp": "2024-10-30T08:49:22.363000+00:00",
+        "message_id": "1301105658510311506"
+      },
+      {
+        "prompt": "@sness\nPrompt: A biohacker in a makeshift lab, surrounded by DIY genetic engineering tools and a petri dish with genetically modified bacteria, illustrating the democratization of synthetic biology and the DIY bio movement.",
+        "timestamp": "2024-10-30T08:47:05.160000+00:00",
+        "message_id": "1301105083039088714"
+      },
+      {
+        "prompt": "@sness\nPrompt: neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. featuring female researcher",
+        "timestamp": "2024-10-30T08:41:18.541000+00:00",
+        "message_id": "1301103629213896705"
+      },
+      {
+        "prompt": "@sness\nPrompt: A scientist in a high-tech lab meticulously working on CRISPR gene-editing technology, with a focus on a petri dish containing genetically modified bacteria that glow under UV light, symbolizing the precision and potential of synthetic biology in manipulating life at the molecular level.\"",
+        "timestamp": "2024-10-30T08:40:42.947000+00:00",
+        "message_id": "1301103479921705002"
+      },
+      {
+        "prompt": "@sness\nPrompt: A synthetic biology project to engineer a new enzyme.",
+        "timestamp": "2024-10-30T07:59:48.071000+00:00",
+        "message_id": "1301093183425347596"
+      },
+      {
+        "prompt": "@sness\nPrompt: A synthetic biology project to engineer a bioluminescent plant.",
+        "timestamp": "2024-10-30T07:59:35.365000+00:00",
+        "message_id": "1301093130132656180"
+      },
+      {
+        "prompt": "@sness\nPrompt: neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. featuring female asian researcher",
+        "timestamp": "2024-10-30T07:57:03.901000+00:00",
+        "message_id": "1301092494846722058"
+      },
+      {
+        "prompt": "@sness\nPrompt: Show a cute cat in a tiny kitchen, wearing a chef's hat, and cooking its favorite fish",
+        "timestamp": "2024-10-30T02:27:21.051000+00:00",
+        "message_id": "1301009519559704627"
+      },
+      {
+        "prompt": "@sness\nPrompt: Depict a futuristic laboratory setting where advanced AI algorithms analyze vast datasets of genetic information, identifying potential cancer biomarkers.",
+        "timestamp": "2024-10-30T02:21:20.980000+00:00",
+        "message_id": "1301008009312604231"
+      },
+      {
+        "prompt": "@sness\nPrompt: neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. featuring female ebony researcher",
+        "timestamp": "2024-10-30T02:20:48.350000+00:00",
+        "message_id": "1301007872452329576"
+      },
+      {
+        "prompt": "@sness\nPrompt: neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. The overall mood should be one of optimism and breakthrough, capturing the essence of a transformative moment in medical research",
+        "timestamp": "2024-10-30T02:03:28.585000+00:00",
+        "message_id": "1301003511361966163"
+      },
+      {
+        "prompt": "@sness\nPrompt: virtual reality and artificial intelligence to cure cancer. female ebony researcher.",
+        "timestamp": "2024-10-30T02:02:31.934000+00:00",
+        "message_id": "1301003273750184007"
+      },
+      {
+        "prompt": "@sness\nPrompt: how synthetic biologists using CRISPR-Cas9 technology to engineer custom-designed nanobots, which are programmed to target and destroy cancer cells with unprecedented precision. Illustrate the nanobots navigating through a detailed, microscopic view of a human body, homing in on malignant tumors.",
+        "timestamp": "2024-10-30T01:48:56.220000+00:00",
+        "message_id": "1300999852397822014"
+      },
+      {
+        "prompt": "@sness\nPrompt: images of scientists in a molecular biology and synthetic biology lab using virtual reality and artificial intelligence to create new antibodies to fight cancer",
+        "timestamp": "2024-10-30T01:48:17.117000+00:00",
+        "message_id": "1300999688387952660"
+      },
+      {
+        "prompt": "@sness\nPrompt: images of scientists in a molecular biology and synthetic biology lab using virtual reality and artificial intelligence to create new drugs",
+        "timestamp": "2024-10-30T01:31:14.558000+00:00",
+        "message_id": "1300995399464517723"
+      },
+      {
+        "prompt": "@sness\nPrompt: \"Create a visually stunning and conceptually rich image that represents the cutting-edge intersection of artificial intelligence and synthetic biology in the fight against cancer. Depict a futuristic laboratory setting where advanced AI algorithms analyze vast datasets of genetic information, identifying potential cancer biomarkers.",
+        "timestamp": "2024-10-30T01:30:13.376000+00:00",
+        "message_id": "1300995142848876565"
+      },
+      {
+        "prompt": "@sness\nPrompt: \"Create a visually stunning and conceptually rich image that represents the cutting-edge intersection of artificial intelligence and synthetic biology in the fight against cancer. Depict a futuristic laboratory setting where advanced AI algorithms analyze vast datasets of genetic information, identifying potential cancer biomarkers. Show synthetic biologists using CRISPR-Cas9 technology to engineer custom-designed nanobots, which are programmed to target and destroy cancer cells with unprecedented precision. Illustrate the nanobots navigating through a detailed, microscopic view of a human body, homing in on malignant tumors. Include elements of neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. The overall mood should be one of optimism and breakthrough, capturing the essence of a transformative moment in medical research.\"",
+        "timestamp": "2024-10-29T21:08:05.363000+00:00",
+        "message_id": "1300929174780903454"
+      },
+      {
+        "prompt": "@sness\nPrompt: a scientifically accurate model of neurons releasing neurotransmitters",
+        "timestamp": "2024-10-29T21:06:03.080000+00:00",
+        "message_id": "1300928661888831642"
+      },
+      {
+        "prompt": "@sness\nPrompt: in the synaptic cleft between two neurons showing neurotransmitters being sent from one neuron to the other. scientific visualization.",
+        "timestamp": "2024-10-29T16:28:09.994000+00:00",
+        "message_id": "1300858729897660489"
+      },
+      {
+        "prompt": "@sness\nPrompt: ancient rome, a street scene with noblemen",
+        "timestamp": "2024-10-28T00:18:01.525000+00:00",
+        "message_id": "1300252198017437716"
+      },
+      {
+        "prompt": "@sness\nPrompt: cyberpunk",
+        "timestamp": "2024-10-27T23:46:16.081000+00:00",
+        "message_id": "1300244206006308949"
+      },
+      {
+        "prompt": "@sness\nPrompt: Create an intricate and surreal image in the style of Hieronymus Bosch, symbolically depicting the enigmatic and shadowy nature of financial dark pools, filled with bizarre figures and bewildering scenes.",
+        "timestamp": "2024-10-27T17:10:37.811000+00:00",
+        "message_id": "1300144640485359780"
+      },
+      {
+        "prompt": "@sness\nPrompt: cats in spacesuits",
+        "timestamp": "2024-10-27T10:58:54.138000+00:00",
+        "message_id": "1300051092100612136"
+      },
+      {
+        "prompt": "@sness\nPrompt: cats floating in a space station",
+        "timestamp": "2024-10-27T09:35:24.938000+00:00",
+        "message_id": "1300030081992753175"
+      },
+      {
+        "prompt": "@sness\nPrompt: happy white cat with a ballon in the hand",
+        "timestamp": "2024-10-27T00:13:19.550000+00:00",
+        "message_id": "1299888627462967379"
+      },
+      {
+        "prompt": "@sness\nPrompt: a happy white cat In the morning and dressed up and go to work with a balloon in hand",
+        "timestamp": "2024-10-27T00:07:41.250000+00:00",
+        "message_id": "1299887208530055189"
+      },
+      {
+        "prompt": "@sness\nPrompt: Create an epic fantasy battle scene with a massive, fearsome dragon swooping down from a dusky sky in the background, while a brave and diverse group of adventurers—including a knight, elf archer, wizard, dwarf warrior, and rogue—stand ready to fight amidst crumbling ruins and overgrown vegetation, all bathed in the dramatic glow of a fiery sunset sky, capturing the tension, heroism, and impending danger of their confrontation.",
+        "timestamp": "2024-10-26T22:59:55.697000+00:00",
+        "message_id": "1299870156364976250"
+      },
+      {
+        "prompt": "@sness\nPrompt: Create an epic fantasy battle scene with a massive, fearsome dragon looming against a dusky sky in the background, while a brave and diverse group of adventurers—including a knight, elf archer, wizard, dwarf warrior, and rogue—stand ready to fight amidst crumbling ruins and overgrown vegetation, all bathed in the dramatic glow of a fiery sunset sky, capturing the tension, heroism, and impending danger of their confrontation.",
+        "timestamp": "2024-10-26T22:53:58.226000+00:00",
+        "message_id": "1299868657022799993"
+      }
+    ],
+    "total_uses": 59
+  },
+  "1304186247308382341": {
+    "username": "juancho_59386",
+    "generations": [
+      {
+        "prompt": "@Juancho\nPrompt: (masterpiece), (inside a gloomy torture chamber, stone walls, flagstone floor, dim lighting), (((cinematic quality))), (Realistic), (Movie lighting), (action scene), (real people), (three angry, muscular men, shirtless, camouflage military pants, black combat boots, grab a woman by the arms and hold her upright, they grab her tightly by the arms), she can't break free from the three men who are grabbing her), (another man, with his back to the camera, is facing her, grabs her by the blouse and hits her in the stomach), (beautiful woman, actress, Lynda Carter, 24 years old, perfect body, wavy black hair, long-sleeved red blouse that is quite open, long, tight white pants, red boots, golden tiara on her forehead, silver bracelets on both wrists, no belt, grabbed, helpless, scared, screaming in fear and pain), (camera slowly pulls back and shows the size of the torture cell),",
+        "timestamp": "2024-11-14T18:11:51.321000+00:00",
+        "message_id": "1306683029883981955"
+      }
+    ],
+    "total_uses": 1
   },
   "628742526777688075": {
     "username": "wizka_",
@@ -275,58 +803,6 @@
       }
     ],
     "total_uses": 4
-  },
-  "1305305641262387312": {
-    "username": "core.reisor",
-    "generations": [
-      {
-        "prompt": "@Core\nPrompt: a black star crush the Earth planet",
-        "timestamp": "2024-11-14T02:06:48.687000+00:00",
-        "message_id": "1306440168634322985"
-      },
-      {
-        "prompt": "@Core\nPrompt: puppy dancing",
-        "timestamp": "2024-11-14T00:53:15.197000+00:00",
-        "message_id": "1306421657115557951"
-      },
-      {
-        "prompt": "@Core\nPrompt: poodle breed dog wearing pink princess tutu dress, modeling on a puppy catwalk",
-        "timestamp": "2024-11-13T00:05:06.873000+00:00",
-        "message_id": "1306047154741055561"
-      },
-      {
-        "prompt": "@Core\nPrompt: wendigo walking in the dark forest, very mist. Hd quality",
-        "timestamp": "2024-11-12T23:23:55.054000+00:00",
-        "message_id": "1306036787180732436"
-      },
-      {
-        "prompt": "@Core\nPrompt: Solar system traveling for the galaxy",
-        "timestamp": "2024-11-12T21:45:07.697000+00:00",
-        "message_id": "1306011926043824168"
-      }
-    ],
-    "total_uses": 5
-  },
-  "1303105335380283554": {
-    "username": "andy_21498",
-    "generations": [
-      {
-        "prompt": "@Andy\nPrompt: In the Luminescent Forest, Elaia has long, golden hair that shines like threads of light. Her skin is pale, almost translucent, radiating a soft glow. Her eyes are a deep sky-blue, like the sky at dawn, and they light up when she gazes. She wears a light, ethereal tunic that flows with every breeze. Kaelen, tall, muscular, with dark hair that falls in loose waves over his shoulders, stands beside her. His eyes are a deep gray, like steel. His skin is tanned, but his veins and some marks on his body seem to absorb the light, giving him a mysterious aura. He wears dark, fitted clothing that blends with the shadows. They meet under the moonlight, Elaia enveloped in a soft glow, while Kaelen blends into the shadows. Their gazes lock in silence, and the forest seems to hold its breath around them, capturing the moment in a profound stillness, charged with tension.",
-        "timestamp": "2024-11-14T01:28:23.975000+00:00",
-        "message_id": "1306430501971824765"
-      },
-      {
-        "prompt": "@Andy\nPrompt: Create a cartoon-style video of the Tasmanian Devil (Taz) from Looney Tunes smiling alongside his daughter, Lizzy. They are in a messy room, which is completely disheveled because of the chaos they caused. Taz and Lizzy are standing happily in the middle of the room, with Taz grinning widely, showing his teeth. The room is scattered with items like books, broken furniture, and overturned objects, highlighting the playful destruction they caused. The atmosphere should be comical and lively, with exaggerated cartoonish details.",
-        "timestamp": "2024-11-14T00:59:08.789000+00:00",
-        "message_id": "1306423140187901993"
-      },
-      {
-        "prompt": "@Andy\nPrompt: Create a video of a woman with red hair walking on the beach during sunset, wearing a white dress. The scene should capture the warm, golden hues of the sunset, with soft waves gently crashing against the shore. The woman should be walking gracefully along the edge of the water, her white dress flowing in the breeze. The atmosphere should be peaceful and serene, evoking a sense of calm and beauty",
-        "timestamp": "2024-11-14T00:48:56.132000+00:00",
-        "message_id": "1306420570518192199"
-      }
-    ],
-    "total_uses": 3
   },
   "1300555771297267853": {
     "username": "pepe06216",
@@ -1080,32 +1556,6 @@
     ],
     "total_uses": 71
   },
-  "1051673881536122970": {
-    "username": "piololu",
-    "generations": [
-      {
-        "prompt": "@piololu\nPrompt: detailed cinematic dof render of an old dusty detailed CRT monitor on a wooden desk in a dim room with items around, messy dirty room. High detail hard surface render",
-        "timestamp": "2024-11-13T04:58:41.266000+00:00",
-        "message_id": "1306121034860204106"
-      },
-      {
-        "prompt": "@piololu\nPrompt: girl, (beautiful face, cute face, 18 years old), brunette, long straight hair, medieval dress, off shoulder, midriff, (tiny waist, flat stomach, narrow hips):1.4, inside cozy medieval cabin, soft lighting, smiling, blush, looking at viewer, realistic photography,",
-        "timestamp": "2024-11-09T03:33:25.906000+00:00",
-        "message_id": "1304650028022894628"
-      },
-      {
-        "prompt": "@piololu\nPrompt: Realistic access camera footage using a fisheye lens view shows zombies from The Walking Dead approaching the front door. The fisheye effect distorts the edges of the image, enhancing the eerie atmosphere as zombies approach with rotting skin, ragged clothes, and shambling steps. On the dim street outside, the shadows of nearby houses and street lamps were looming. The zombie hesitates, then leans down to peek through the crack in the door, its terrifying face filling the camera's field of view.",
-        "timestamp": "2024-11-07T04:27:12.666000+00:00",
-        "message_id": "1303938786304196688"
-      },
-      {
-        "prompt": "@piololu\nPrompt: The young boy in the 3D-rendered image shifts his weight from one foot to the other, his hands moving to his hips as his expression fluctuates between frustration and confusion. The soft, warm lighting continues to bathe the room, casting gentle shadows from the standing lamp and highlighting the soft rug's texture beneath him.",
-        "timestamp": "2024-11-07T03:33:09.460000+00:00",
-        "message_id": "1303925183312171059"
-      }
-    ],
-    "total_uses": 4
-  },
   "1289891613014753305": {
     "username": "maazelrhymes",
     "generations": [
@@ -1199,297 +1649,6 @@
     ],
     "total_uses": 1
   },
-  "501393790418944010": {
-    "username": "sness23",
-    "generations": [
-      {
-        "prompt": "@sness\nPrompt: creepy chan as a dnd 5e warlock",
-        "timestamp": "2024-11-13T00:24:02.373000+00:00",
-        "message_id": "1306051917373378570"
-      },
-      {
-        "prompt": "@sness\nPrompt: Show a modern kitchen with a minimalist and elegant design. The cabinets are in neutral colors (matte white or light gray) with a clean finish and straight lines. The kitchen has natural light coming through a large window and is decorated with simple details like a small plant or subtle-colored bowls. Above the stove, there’s a modern stainless steel range hood, creating a clean and functional atmosphere",
-        "timestamp": "2024-11-12T06:56:22.111000+00:00",
-        "message_id": "1305788262325026828"
-      },
-      {
-        "prompt": "@sness\nPrompt: Enlightened Feline Sages in the Eternal Garden Prompt: \"Create an eternal, blooming garden bathed in golden sunlight. Within the garden, several enlightened cat sages sit beneath ancient, sprawling trees with luminous leaves. Each cat exudes a unique aura of wisdom and divinity, surrounded by subtle glows and floating petals. The environment feels timeless and sacred, highlighting the cats' roles as spiritual teachers.",
-        "timestamp": "2024-11-12T02:56:53.551000+00:00",
-        "message_id": "1305727996216213555"
-      },
-      {
-        "prompt": "@sness\nPrompt: the word \"ARIA\"",
-        "timestamp": "2024-10-31T20:35:19.618000+00:00",
-        "message_id": "1301645705579991070"
-      },
-      {
-        "prompt": "@sness\nPrompt: ARIA",
-        "timestamp": "2024-10-31T20:35:03.894000+00:00",
-        "message_id": "1301645639628623985"
-      },
-      {
-        "prompt": "@sness\nPrompt: the word \"ARIA\" zooming in",
-        "timestamp": "2024-10-31T20:34:58.730000+00:00",
-        "message_id": "1301645617969496118"
-      },
-      {
-        "prompt": "@sness\nPrompt: Transition to images of classical physics models, forcefields, and simulations. This can include diagrams of atoms, molecular structures, and early computer simulations to illustrate the limitations of traditional models.",
-        "timestamp": "2024-10-30T23:37:26.491000+00:00",
-        "message_id": "1301329148341387389"
-      },
-      {
-        "prompt": "@sness\nPrompt: Start with a dynamic and uplifting montage that sets the tone for the video. Showcase futuristic cityscapes with flying cars, smart cities, and advanced robots working seamlessly with humans. Include AI-driven interfaces and holographic displays to emphasize the integration of technology in everyday life.",
-        "timestamp": "2024-10-30T23:29:08.997000+00:00",
-        "message_id": "1301327061700448258"
-      },
-      {
-        "prompt": "@sness\nPrompt: A collage of hands from different backgrounds coming together, holding a glowing molecular structure.",
-        "timestamp": "2024-10-30T23:28:31.633000+00:00",
-        "message_id": "1301326904984600597"
-      },
-      {
-        "prompt": "@sness\nPrompt: Protein structures morphing, a robotic arm assembling molecular components.",
-        "timestamp": "2024-10-30T23:28:22.451000+00:00",
-        "message_id": "1301326866472239177"
-      },
-      {
-        "prompt": "@sness\nPrompt: Molecular structures, AI-generated protein models, and robotic arms in a lab.",
-        "timestamp": "2024-10-30T21:21:25.173000+00:00",
-        "message_id": "1301294917292789931"
-      },
-      {
-        "prompt": "@sness\nPrompt: Images of classical physics models, forcefields, and simulations.",
-        "timestamp": "2024-10-30T21:21:17.128000+00:00",
-        "message_id": "1301294883549741096"
-      },
-      {
-        "prompt": "@sness\nPrompt: A montage of futuristic cityscapes, advanced robots, and AI-driven interfaces.",
-        "timestamp": "2024-10-30T21:21:12.545000+00:00",
-        "message_id": "1301294864327114763"
-      },
-      {
-        "prompt": "@sness\nPrompt: A synthetic biology project to engineer a new antibiotic, with a background of a medical research setting, where proteins and molecules interact in real-time holographic projections, emphasizing the potential for disease control",
-        "timestamp": "2024-10-30T20:42:41.028000+00:00",
-        "message_id": "1301285169122119761"
-      },
-      {
-        "prompt": "@sness\nPrompt: A lab with synthetic biology posters and charts, including a diagram of a synthetic gene circuit, with scientists observing the interactions of proteins and molecules through augmented reality glasses, illustrating the ethical considerations and future implications of the work",
-        "timestamp": "2024-10-30T20:42:33.274000+00:00",
-        "message_id": "1301285136599613451"
-      },
-      {
-        "prompt": "@sness\nPrompt: A scientist working on a synthetic organism in a biolab, with a background of a hospital setting, where proteins and molecules interact in real-time holographic projections, emphasizing the potential for medical breakthroughs.",
-        "timestamp": "2024-10-30T20:15:02.068000+00:00",
-        "message_id": "1301278210939424834"
-      },
-      {
-        "prompt": "@sness\nPrompt: \"A lab with synthetic biology equipment and tools, including a microfluidic chip for precise fluid handling, where proteins and molecules interact in real-time holographic projections, showcasing the miniaturization and automation in the field.",
-        "timestamp": "2024-10-30T20:14:50.076000+00:00",
-        "message_id": "1301278160641327179"
-      },
-      {
-        "prompt": "@sness\nPrompt: A synthetic biology project to engineer a biofuel-producing algae, with a background of a smart farm and solar panels, where proteins and molecules interact in real-time holographic projections, highlighting the potential for sustainable energy solutions.\"",
-        "timestamp": "2024-10-30T18:52:41.701000+00:00",
-        "message_id": "1301257489538355241"
-      },
-      {
-        "prompt": "@sness\nPrompt: A lab with synthetic biology posters and charts, including a diagram of a synthetic gene circuit, with scientists observing the interactions of proteins and molecules through augmented reality glasses, illustrating the educational and research aspects of the field.",
-        "timestamp": "2024-10-30T17:32:55.379000+00:00",
-        "message_id": "1301237414248972319"
-      },
-      {
-        "prompt": "@sness\nPrompt: A scientist working on a synthetic organism in a biolab, surrounded by advanced imaging equipment and bioreactors, as proteins and molecules interact in real-time holographic projections, emphasizing the complexity and potential of synthetic biology.",
-        "timestamp": "2024-10-30T17:32:46.084000+00:00",
-        "message_id": "1301237375262916630"
-      },
-      {
-        "prompt": "@sness\nPrompt: A lab with synthetic biology equipment and tools, including a centrifuge and PCR machines, where proteins and molecules interact in real-time holographic projections, highlighting the precision required for genetic engineering.",
-        "timestamp": "2024-10-30T16:56:42.358000+00:00",
-        "message_id": "1301228299938304126"
-      },
-      {
-        "prompt": "@sness\nPrompt: A synthetic organism with a glowing pattern indicating genetic modification, with scientists observing the process through augmented reality glasses, representing the intersection of synthetic biology and bioart.",
-        "timestamp": "2024-10-30T16:56:30.376000+00:00",
-        "message_id": "1301228249682022404"
-      },
-      {
-        "prompt": "@sness\nPrompt: A scientist extracting DNA from a sample in a synthetic biology lab, with a background of advanced sequencing machines, where proteins and molecules interact in real-time holographic projections, showcasing the foundational techniques in the field.",
-        "timestamp": "2024-10-30T16:56:19.779000+00:00",
-        "message_id": "1301228205234978926"
-      },
-      {
-        "prompt": "@sness\nPrompt: protein structure of a kinase in action cleaving a phosphate group",
-        "timestamp": "2024-10-30T16:55:50.623000+00:00",
-        "message_id": "1301228082945851466"
-      },
-      {
-        "prompt": "@sness\nPrompt: A lab with bioreactors producing synthetic proteins, with a focus on the scale-up process from small-scale research to large-scale production, as proteins and molecules interact in real-time holographic projections.",
-        "timestamp": "2024-10-30T15:34:53.806000+00:00",
-        "message_id": "1301207711978881034"
-      },
-      {
-        "prompt": "@sness\nPrompt: A synthetic biology workshop with a variety of tools and equipment, including a 3D printer for custom labware, as proteins and molecules interact in the foreground, highlighting the innovation and creativity in the field.  Female researchers talking",
-        "timestamp": "2024-10-30T09:23:45.308000+00:00",
-        "message_id": "1301114311128645715"
-      },
-      {
-        "prompt": "@sness\nPrompt: Bobcat jumps over a river with a single leap",
-        "timestamp": "2024-10-30T09:23:01.030000+00:00",
-        "message_id": "1301114125413388298"
-      },
-      {
-        "prompt": "@sness\nPrompt: A female scientist in a high-tech lab, surrounded by holographic displays of molecular structures, meticulously editing a DNA strand with CRISPR tools, as proteins float in the air, illustrating the molecular mechanics of synthetic biology.",
-        "timestamp": "2024-10-30T09:04:43.927000+00:00",
-        "message_id": "1301109523829882880"
-      },
-      {
-        "prompt": "@sness\nPrompt: A female biohacker in a makeshift lab, surrounded by DIY genetic engineering tools and a petri dish with genetically modified bacteria, illustrating the democratization of synthetic biology and the DIY bio movement.",
-        "timestamp": "2024-10-30T09:04:31.022000+00:00",
-        "message_id": "1301109469702520836"
-      },
-      {
-        "prompt": "@sness\nPrompt: A scientist in a high-tech lab, surrounded by holographic displays of molecular structures, meticulously editing a DNA strand with CRISPR tools, as proteins float in the air, illustrating the molecular mechanics of synthetic biology.",
-        "timestamp": "2024-10-30T08:49:22.363000+00:00",
-        "message_id": "1301105658510311506"
-      },
-      {
-        "prompt": "@sness\nPrompt: A biohacker in a makeshift lab, surrounded by DIY genetic engineering tools and a petri dish with genetically modified bacteria, illustrating the democratization of synthetic biology and the DIY bio movement.",
-        "timestamp": "2024-10-30T08:47:05.160000+00:00",
-        "message_id": "1301105083039088714"
-      },
-      {
-        "prompt": "@sness\nPrompt: neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. featuring female researcher",
-        "timestamp": "2024-10-30T08:41:18.541000+00:00",
-        "message_id": "1301103629213896705"
-      },
-      {
-        "prompt": "@sness\nPrompt: A scientist in a high-tech lab meticulously working on CRISPR gene-editing technology, with a focus on a petri dish containing genetically modified bacteria that glow under UV light, symbolizing the precision and potential of synthetic biology in manipulating life at the molecular level.\"",
-        "timestamp": "2024-10-30T08:40:42.947000+00:00",
-        "message_id": "1301103479921705002"
-      },
-      {
-        "prompt": "@sness\nPrompt: A synthetic biology project to engineer a new enzyme.",
-        "timestamp": "2024-10-30T07:59:48.071000+00:00",
-        "message_id": "1301093183425347596"
-      },
-      {
-        "prompt": "@sness\nPrompt: A synthetic biology project to engineer a bioluminescent plant.",
-        "timestamp": "2024-10-30T07:59:35.365000+00:00",
-        "message_id": "1301093130132656180"
-      },
-      {
-        "prompt": "@sness\nPrompt: neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. featuring female asian researcher",
-        "timestamp": "2024-10-30T07:57:03.901000+00:00",
-        "message_id": "1301092494846722058"
-      },
-      {
-        "prompt": "@sness\nPrompt: Show a cute cat in a tiny kitchen, wearing a chef's hat, and cooking its favorite fish",
-        "timestamp": "2024-10-30T02:27:21.051000+00:00",
-        "message_id": "1301009519559704627"
-      },
-      {
-        "prompt": "@sness\nPrompt: Depict a futuristic laboratory setting where advanced AI algorithms analyze vast datasets of genetic information, identifying potential cancer biomarkers.",
-        "timestamp": "2024-10-30T02:21:20.980000+00:00",
-        "message_id": "1301008009312604231"
-      },
-      {
-        "prompt": "@sness\nPrompt: neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. featuring female ebony researcher",
-        "timestamp": "2024-10-30T02:20:48.350000+00:00",
-        "message_id": "1301007872452329576"
-      },
-      {
-        "prompt": "@sness\nPrompt: neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. The overall mood should be one of optimism and breakthrough, capturing the essence of a transformative moment in medical research",
-        "timestamp": "2024-10-30T02:03:28.585000+00:00",
-        "message_id": "1301003511361966163"
-      },
-      {
-        "prompt": "@sness\nPrompt: virtual reality and artificial intelligence to cure cancer. female ebony researcher.",
-        "timestamp": "2024-10-30T02:02:31.934000+00:00",
-        "message_id": "1301003273750184007"
-      },
-      {
-        "prompt": "@sness\nPrompt: how synthetic biologists using CRISPR-Cas9 technology to engineer custom-designed nanobots, which are programmed to target and destroy cancer cells with unprecedented precision. Illustrate the nanobots navigating through a detailed, microscopic view of a human body, homing in on malignant tumors.",
-        "timestamp": "2024-10-30T01:48:56.220000+00:00",
-        "message_id": "1300999852397822014"
-      },
-      {
-        "prompt": "@sness\nPrompt: images of scientists in a molecular biology and synthetic biology lab using virtual reality and artificial intelligence to create new antibodies to fight cancer",
-        "timestamp": "2024-10-30T01:48:17.117000+00:00",
-        "message_id": "1300999688387952660"
-      },
-      {
-        "prompt": "@sness\nPrompt: images of scientists in a molecular biology and synthetic biology lab using virtual reality and artificial intelligence to create new drugs",
-        "timestamp": "2024-10-30T01:31:14.558000+00:00",
-        "message_id": "1300995399464517723"
-      },
-      {
-        "prompt": "@sness\nPrompt: \"Create a visually stunning and conceptually rich image that represents the cutting-edge intersection of artificial intelligence and synthetic biology in the fight against cancer. Depict a futuristic laboratory setting where advanced AI algorithms analyze vast datasets of genetic information, identifying potential cancer biomarkers.",
-        "timestamp": "2024-10-30T01:30:13.376000+00:00",
-        "message_id": "1300995142848876565"
-      },
-      {
-        "prompt": "@sness\nPrompt: \"Create a visually stunning and conceptually rich image that represents the cutting-edge intersection of artificial intelligence and synthetic biology in the fight against cancer. Depict a futuristic laboratory setting where advanced AI algorithms analyze vast datasets of genetic information, identifying potential cancer biomarkers. Show synthetic biologists using CRISPR-Cas9 technology to engineer custom-designed nanobots, which are programmed to target and destroy cancer cells with unprecedented precision. Illustrate the nanobots navigating through a detailed, microscopic view of a human body, homing in on malignant tumors. Include elements of neural networks and machine learning interfaces that guide the synthetic biology tools, symbolizing the collaborative effort between AI and biology. The scene should convey a sense of hope and innovation, with a balance of high-tech equipment and organic elements, highlighting the merging of technology and life sciences. The overall mood should be one of optimism and breakthrough, capturing the essence of a transformative moment in medical research.\"",
-        "timestamp": "2024-10-29T21:08:05.363000+00:00",
-        "message_id": "1300929174780903454"
-      },
-      {
-        "prompt": "@sness\nPrompt: a scientifically accurate model of neurons releasing neurotransmitters",
-        "timestamp": "2024-10-29T21:06:03.080000+00:00",
-        "message_id": "1300928661888831642"
-      },
-      {
-        "prompt": "@sness\nPrompt: in the synaptic cleft between two neurons showing neurotransmitters being sent from one neuron to the other. scientific visualization.",
-        "timestamp": "2024-10-29T16:28:09.994000+00:00",
-        "message_id": "1300858729897660489"
-      },
-      {
-        "prompt": "@sness\nPrompt: ancient rome, a street scene with noblemen",
-        "timestamp": "2024-10-28T00:18:01.525000+00:00",
-        "message_id": "1300252198017437716"
-      },
-      {
-        "prompt": "@sness\nPrompt: cyberpunk",
-        "timestamp": "2024-10-27T23:46:16.081000+00:00",
-        "message_id": "1300244206006308949"
-      },
-      {
-        "prompt": "@sness\nPrompt: Create an intricate and surreal image in the style of Hieronymus Bosch, symbolically depicting the enigmatic and shadowy nature of financial dark pools, filled with bizarre figures and bewildering scenes.",
-        "timestamp": "2024-10-27T17:10:37.811000+00:00",
-        "message_id": "1300144640485359780"
-      },
-      {
-        "prompt": "@sness\nPrompt: cats in spacesuits",
-        "timestamp": "2024-10-27T10:58:54.138000+00:00",
-        "message_id": "1300051092100612136"
-      },
-      {
-        "prompt": "@sness\nPrompt: cats floating in a space station",
-        "timestamp": "2024-10-27T09:35:24.938000+00:00",
-        "message_id": "1300030081992753175"
-      },
-      {
-        "prompt": "@sness\nPrompt: happy white cat with a ballon in the hand",
-        "timestamp": "2024-10-27T00:13:19.550000+00:00",
-        "message_id": "1299888627462967379"
-      },
-      {
-        "prompt": "@sness\nPrompt: a happy white cat In the morning and dressed up and go to work with a balloon in hand",
-        "timestamp": "2024-10-27T00:07:41.250000+00:00",
-        "message_id": "1299887208530055189"
-      },
-      {
-        "prompt": "@sness\nPrompt: Create an epic fantasy battle scene with a massive, fearsome dragon swooping down from a dusky sky in the background, while a brave and diverse group of adventurers—including a knight, elf archer, wizard, dwarf warrior, and rogue—stand ready to fight amidst crumbling ruins and overgrown vegetation, all bathed in the dramatic glow of a fiery sunset sky, capturing the tension, heroism, and impending danger of their confrontation.",
-        "timestamp": "2024-10-26T22:59:55.697000+00:00",
-        "message_id": "1299870156364976250"
-      },
-      {
-        "prompt": "@sness\nPrompt: Create an epic fantasy battle scene with a massive, fearsome dragon looming against a dusky sky in the background, while a brave and diverse group of adventurers—including a knight, elf archer, wizard, dwarf warrior, and rogue—stand ready to fight amidst crumbling ruins and overgrown vegetation, all bathed in the dramatic glow of a fiery sunset sky, capturing the tension, heroism, and impending danger of their confrontation.",
-        "timestamp": "2024-10-26T22:53:58.226000+00:00",
-        "message_id": "1299868657022799993"
-      }
-    ],
-    "total_uses": 57
-  },
   "1304891828314837093": {
     "username": "pclapdoctor_58213",
     "generations": [
@@ -1541,42 +1700,6 @@
       }
     ],
     "total_uses": 1
-  },
-  "628979158265102387": {
-    "username": "_theverminator",
-    "generations": [
-      {
-        "prompt": "@TheVerminator\nPrompt: Cartoon-style animation of a small commercial plane in flight from Los Angeles to Basel, Switzerland, over a colorful, animated map. The scene opens with an overhead shot showing the west coast of the U.S., zooming in as the plane takes off, then transitions to an aerial glide as the camera follows the plane crossing the animated globe or path line. Use bright, stylized clouds, and add a sweeping pan across the Atlantic, with map markers indicating major cities or oceans. The scene ends with a dynamic tracking shot as the plane approaches the Swiss Alps, with Basel in sight in the background. Lighthearted, cartoonish atmosphere, with soft, vibrant colors and gentle, playful animation of clouds moving past.",
-        "timestamp": "2024-11-12T22:05:24.056000+00:00",
-        "message_id": "1306017027823112304"
-      },
-      {
-        "prompt": "@TheVerminator\nPrompt: Cartoon-style animation of a small commercial plane in flight from Basel, Switzerland, to Los Angeles, USA, over a colorful, animated map. The scene opens with an overhead shot above the Swiss Alps, zooming in as the plane departs Basel. Transition to an aerial glide following the plane across Europe and the Atlantic with a sweeping pan showing major cities and oceans along the path. The journey ends with a dynamic tracking shot as the plane approaches the U.S. west coast, descending towards Los Angeles with the iconic skyline in the distance. Soft, vibrant colors, stylized clouds, and a playful animation style create a lighthearted, cartoonish feel.",
-        "timestamp": "2024-11-12T22:04:19.362000+00:00",
-        "message_id": "1306016756476678164"
-      },
-      {
-        "prompt": "@TheVerminator\nPrompt: ancient bacon ceremony",
-        "timestamp": "2024-11-09T09:38:53.018000+00:00",
-        "message_id": "1304741996996460619"
-      },
-      {
-        "prompt": "@TheVerminator\nPrompt: A hauntingly surreal, hyper-realistic scene begins with a slow, drifting zoom on a spectral figure—a woman with a graceful human upper body that merges seamlessly into translucent, bioluminescent jellyfish tendrils in place of legs. Shot in cinematic IMAX quality, the camera captures her from a low, sweeping angle, emphasizing her otherworldly lower half cascading in delicate, pulsing filaments over a jagged rock. Each tendril moves gently, swaying and stretching in the cold, night breeze, as if alive, drifting rhythmically with the ocean’s unseen currents. Her spectral skin fades from human tones into ghostly blue and silver hues, her form illuminated by stark moonlight, casting an otherworldly glow on her body and tendrils that blend hauntingly into the dark waters below.  Her gaze remains vacant and forlorn as she looks out over the ocean, her eyes cast downward in a detached, timeless sorrow. Shadows cover part of her face, conveying ghostly serenity. The camera shifts slightly to capture the ethereal bioluminescence of her tendrils, enhanced by the harsh contrasts of moonlight and the mist that clings to the rocks. Surrounding her is a nearly black, oily water surface, reflecting the cold gleam of the moon, interrupted only by faint, distorted ripples of her shadowed reflection, creating the haunting illusion of shadowy figures drifting below. Dead, twisted trees line the rocky shore behind her, adding isolation and a sense of eerie foreboding.  Keywords: Ultra smooth coherent movement, shot with IMAX Camera, masterpiece quality, hyper detailed photorealism, ultra high definition, award-winning cinematography, extreme realism, cinematic crisp, vivid, emotional, cinematic hd photorealistic, realism.",
-        "timestamp": "2024-11-08T11:35:43.019000+00:00",
-        "message_id": "1304409011205967904"
-      },
-      {
-        "prompt": "@TheVerminator\nPrompt: In a suspenseful, high-definition underwater scene, a massive hybrid creature—a terrifying combination of spider and octopus—descends upon a small, isolated submarine deep in the ocean. Shot with IMAX quality, the camera begins with a smooth, wide-angle dolly shot that reveals the submarine from above, dwarfed by the looming darkness. Emerging from the shadows, the creature’s massive, arachnid body with spiny, chitinous legs stretches outward, each leg moving with calculated, unnervingly smooth precision, while its octopus-like tentacles writhe and wrap around the submarine’s exterior with a chilling, hyper-detailed grip.  As the camera tilts upward, a high-angle close-up captures the details of the creature’s gelatinous, bioluminescent skin that shifts colors with eerie iridescence. Its eyes, clustered and cold, focus on the submarine as it clamps down, metallic groans echoing through the murky water. The tentacles pulse with each tightening grip, leaving suctioned imprints on the submarine's surface, while sharp spider legs brace against the vessel’s hull, amplifying the impending danger. Bubbles and sand particles drift around, heightening the scene’s claustrophobic tension as the deep sea trembles with the weight of the creature's fierce, predatory attack.  Keywords: Ultra smooth coherent movement, shot with IMAX Camera, masterpiece quality, hyper detailed photorealism, ultra high definition, award-winning cinematography, extreme realism, cinematic crisp, vivid, intense, cinematic hd photorealistic, realism.",
-        "timestamp": "2024-11-08T11:22:42.134000+00:00",
-        "message_id": "1304405735937015849"
-      },
-      {
-        "prompt": "@TheVerminator\nPrompt: a ball that changes into a box, then into a pyramid that explodes. photorealistic.",
-        "timestamp": "2024-11-08T09:31:22.960000+00:00",
-        "message_id": "1304377721450795042"
-      }
-    ],
-    "total_uses": 6
   },
   "1255107423866195989": {
     "username": "elpal_34266",
@@ -3526,32 +3649,6 @@
       }
     ],
     "total_uses": 1
-  },
-  "977031864848117781": {
-    "username": "king_black98",
-    "generations": [
-      {
-        "prompt": "@King-black98\nPrompt: \"70mm photorealistic, high-definition IMAX, with dramatic head-centred lighting. A majestic eagle, Arion, with golden feathers and piercing eyes, glides gracefully over a high, rocky mountain landscape with distant snow-capped peaks. The sky is clear blue with a few scattered clouds. Intense sunlight illuminates Arion’s extended wings as they cut through the air. Below, vast landscapes stretch out with winding rivers and dense forests. Arion’s sharp gaze scans the scenery for prey, embodying the freedom of flight. Wide-angle shot capturing Arion soaring across the valley with the grandeur of the surrounding mountains.\"",
-        "timestamp": "2024-11-11T22:11:10.034000+00:00",
-        "message_id": "1305656091094552639"
-      },
-      {
-        "prompt": "@King-black98\nPrompt: \"70mm photorealistic, high-definition IMAX, with dramatic head-centered lighting, set in the African savanna at sunset. A powerful lion with a thick, slightly windswept mane stands tall, his golden fur glowing in the warm, amber light. His intense gaze falls on a small, trembling hare nearby. The hare crouches low, frozen in fear, its tiny body visibly shaking as it watches the lion, ready to flee. The scene captures a tense contrast between the massive, calm presence of the lion and the delicate, vulnerable figure of the hare. The background showcases dry, golden grass and scattered acacia trees casting long shadows, with the sky a blend of deep oranges and purples. The camera angle is low, emphasizing the size and dominance of the lion, while highlighting the vulnerability of the hare in the foreground, creating a dramatic, almost symbolic tableau of power and fragility.\"",
-        "timestamp": "2024-11-11T03:57:34.721000+00:00",
-        "message_id": "1305380880524640338"
-      },
-      {
-        "prompt": "@King-black98\nPrompt: lion and hare",
-        "timestamp": "2024-11-11T03:36:40.804000+00:00",
-        "message_id": "1305375621215555625"
-      },
-      {
-        "prompt": "@King-black98\nPrompt: animals in the african jungles",
-        "timestamp": "2024-11-11T03:27:13.077000+00:00",
-        "message_id": "1305373239996055574"
-      }
-    ],
-    "total_uses": 4
   },
   "842033136560242708": {
     "username": "yatharth123_sharma",
