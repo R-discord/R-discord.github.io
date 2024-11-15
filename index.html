@@ -7,16 +7,14 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
     <style>
         :root {
-            --bg-primary: #2c2f33;
-            --bg-secondary: #23272a;
-            --bg-tertiary: #1e2124;
-            --accent-color: #7289da;
+            --bg-primary: #36393f;
+            --bg-secondary: #2f3136;
+            --bg-tertiary: #202225;
+            --accent-color: #5865f2;
             --text-primary: #ffffff;
-            --text-secondary: #99aab5;
+            --text-secondary: #b9bbbe;
             --success-color: #43b581;
-            --error-color: #f04747;
-            --border-radius: 10px;
-            --transition-speed: 0.3s;
+            --border-radius: 8px;
         }
 
         * {
@@ -26,39 +24,33 @@
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             background-color: var(--bg-primary);
             color: var(--text-primary);
-            line-height: 1.6;
-            padding: 30px;
+            line-height: 1.5;
+            padding: 20px;
         }
 
         .dashboard {
-            max-width: 1400px;
+            max-width: 1200px;
             margin: 0 auto;
             display: grid;
-            gap: 25px;
+            gap: 20px;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         }
 
         .card {
             background-color: var(--bg-secondary);
             border-radius: var(--border-radius);
-            padding: 25px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-            transition: transform var(--transition-speed), box-shadow var(--transition-speed);
-        }
-
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
 
         .stats-summary {
             grid-column: 1 / -1;
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-            gap: 25px;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
         }
 
         .stat-card {
@@ -66,75 +58,55 @@
             padding: 20px;
             border-radius: var(--border-radius);
             text-align: center;
-            transition: background-color var(--transition-speed);
-        }
-
-        .stat-card:hover {
-            background-color: #2e3338;
         }
 
         .stat-value {
-            font-size: 2.5em;
-            font-weight: 700;
+            font-size: 2em;
+            font-weight: bold;
             color: var(--accent-color);
-            margin: 15px 0;
+            margin: 10px 0;
         }
 
         .stat-label {
             color: var(--text-secondary);
-            font-size: 1em;
+            font-size: 0.9em;
         }
 
         .user-list {
             grid-column: 1 / -1;
         }
 
-        .user-list h2 {
-            margin-bottom: 15px;
-            font-size: 1.5em;
-            color: var(--text-primary);
-        }
-
         .user-card {
             background-color: var(--bg-tertiary);
-            padding: 18px;
+            padding: 15px;
             border-radius: var(--border-radius);
-            margin-bottom: 12px;
+            margin-bottom: 10px;
             display: flex;
             justify-content: space-between;
             align-items: center;
             cursor: pointer;
-            transition: background-color var(--transition-speed);
-        }
-
-        .user-card:hover {
-            background-color: #2e3338;
         }
 
         .user-info {
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
         }
 
         .user-avatar {
-            width: 45px;
-            height: 45px;
+            width: 40px;
+            height: 40px;
             background-color: var(--accent-color);
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
             font-weight: bold;
-            color: #ffffff;
-            font-size: 1.2em;
         }
 
         .usage-stats {
             display: flex;
-            flex-direction: column;
-            align-items: flex-end;
-            gap: 5px;
+            gap: 20px;
         }
 
         .usage-stat {
@@ -144,29 +116,14 @@
         .prompt-list {
             display: none;
             margin-top: 10px;
-            padding: 12px;
+            padding: 10px;
             background-color: var(--bg-primary);
             border-radius: var(--border-radius);
-            max-height: 300px;
-            overflow-y: auto;
-            transition: max-height var(--transition-speed), opacity var(--transition-speed);
-            opacity: 0;
-        }
-
-        .prompt-list.show {
-            display: block;
-            max-height: 1000px;
-            opacity: 1;
         }
 
         .prompt-item {
             padding: 10px;
             border-bottom: 1px solid var(--bg-secondary);
-            transition: background-color var(--transition-speed);
-        }
-
-        .prompt-item:hover {
-            background-color: #2e3338;
         }
 
         .prompt-item:last-child {
@@ -175,50 +132,15 @@
 
         .growth-positive {
             color: var(--success-color);
-            font-weight: bold;
         }
 
         .growth-negative {
-            color: var(--error-color);
-            font-weight: bold;
+            color: #f04747;
         }
 
         .chart-container {
             grid-column: 1 / -1;
-            height: 400px;
-        }
-
-        canvas {
-            background-color: var(--bg-secondary);
-            border-radius: var(--border-radius);
-            padding: 15px;
-        }
-
-        /* Scrollbar Styling for Prompt List */
-        .prompt-list::-webkit-scrollbar {
-            width: 8px;
-        }
-
-        .prompt-list::-webkit-scrollbar-track {
-            background: var(--bg-tertiary);
-        }
-
-        .prompt-list::-webkit-scrollbar-thumb {
-            background-color: var(--accent-color);
-            border-radius: 4px;
-        }
-
-        /* Responsive Adjustments */
-        @media (max-width: 768px) {
-            .stats-summary {
-                grid-template-columns: 1fr 1fr;
-            }
-        }
-
-        @media (max-width: 480px) {
-            .stats-summary {
-                grid-template-columns: 1fr;
-            }
+            height: 300px;
         }
     </style>
 </head>
@@ -251,28 +173,18 @@
     </div>
 
     <script>
-        // Helper function to format date to YYYY-MM-DD
-        function formatDate(date) {
-            const d = new Date(date);
-            const year = d.getFullYear();
-            const month = String(d.getMonth() + 1).padStart(2, '0');
-            const day = String(d.getDate()).padStart(2, '0');
-            return `${year}-${month}-${day}`;
-        }
-
         function calculateDailyStats(generations) {
             const dailyStats = {};
             generations.forEach(gen => {
-                const date = formatDate(gen.timestamp);
+                const date = new Date(gen.timestamp).toLocaleDateString();
                 dailyStats[date] = (dailyStats[date] || 0) + 1;
             });
             return dailyStats;
         }
 
         function getGrowthRate(today, yesterday) {
-            if (!yesterday) return 'N/A';
-            const rate = ((today - yesterday) / yesterday * 100).toFixed(1);
-            return rate;
+            if (!yesterday) return 100;
+            return ((today - yesterday) / yesterday * 100).toFixed(1);
         }
 
         fetch('stats.json')
@@ -281,10 +193,8 @@
                 const totalUsers = Object.keys(data).length;
                 let totalPrompts = 0;
                 let todayPrompts = 0;
-                const today = formatDate(new Date());
-                const yesterdayDateObj = new Date();
-                yesterdayDateObj.setDate(yesterdayDateObj.getDate() - 1);
-                const yesterday = formatDate(yesterdayDateObj);
+                const today = new Date().toLocaleDateString();
+                const yesterday = new Date(Date.now() - 86400000).toLocaleDateString();
 
                 // Transform data for user ranking
                 const userList = Object.entries(data).map(([userId, userData]) => {
@@ -310,26 +220,18 @@
                 const yesterdayTotal = userList.reduce((sum, user) => sum + user.yesterdayUses, 0);
                 const growth = getGrowthRate(todayPrompts, yesterdayTotal);
                 const growthEl = document.getElementById('promptGrowth');
-                if (growth !== 'N/A') {
-                    growthEl.textContent = `${growth > 0 ? '+' : ''}${growth}% vs 昨日`;
-                    growthEl.className = `stat-growth ${growth >= 0 ? 'growth-positive' : 'growth-negative'}`;
-                } else {
-                    growthEl.textContent = '无昨日数据';
-                    growthEl.className = 'stat-growth';
-                }
+                growthEl.textContent = `${growth > 0 ? '+' : ''}${growth}% vs 昨日`;
+                growthEl.className = `stat-growth ${growth >= 0 ? 'growth-positive' : 'growth-negative'}`;
 
                 // Render user list
                 const userListEl = document.getElementById('userList');
                 userList.forEach(user => {
-                    const growth = user.yesterdayUses > 0 ? getGrowthRate(user.todayUses, user.yesterdayUses) : 'N/A';
-                    const growthClass = growth === 'N/A' ? '' : (growth >= 0 ? 'growth-positive' : 'growth-negative');
-                    const growthText = growth === 'N/A' ? '无数据' : `${growth > 0 ? '+' : ''}${growth}%`;
-
+                    const growth = getGrowthRate(user.todayUses, user.yesterdayUses);
                     const userCard = document.createElement('div');
                     userCard.className = 'user-card';
                     userCard.innerHTML = `
                         <div class="user-info">
-                            <div class="user-avatar">${user.username.charAt(0).toUpperCase()}</div>
+                            <div class="user-avatar">${user.username[0].toUpperCase()}</div>
                             <div>
                                 <div>${user.username}</div>
                                 <div class="stat-label">总使用: ${user.totalUses}</div>
@@ -338,8 +240,8 @@
                         <div class="usage-stats">
                             <div class="usage-stat">
                                 <div>今日: ${user.todayUses}</div>
-                                <div class="${growthClass}">
-                                    ${growthText}
+                                <div class="${growth >= 0 ? 'growth-positive' : 'growth-negative'}">
+                                    ${growth > 0 ? '+' : ''}${growth}%
                                 </div>
                             </div>
                         </div>
@@ -357,7 +259,8 @@
 
                     // Toggle prompt list visibility
                     userCard.addEventListener('click', () => {
-                        promptList.classList.toggle('show');
+                        const isVisible = promptList.style.display === 'block';
+                        promptList.style.display = isVisible ? 'none' : 'block';
                     });
 
                     const container = document.createElement('div');
@@ -371,11 +274,11 @@
                 const allDates = new Set();
                 userList.forEach(user => {
                     user.generations.forEach(gen => {
-                        allDates.add(formatDate(gen.timestamp));
+                        allDates.add(new Date(gen.timestamp).toLocaleDateString());
                     });
                 });
 
-                const dateLabels = Array.from(allDates).sort((a, b) => new Date(a) - new Date(b));
+                const dateLabels = Array.from(allDates).sort();
                 const usageData = dateLabels.map(date =>
                     userList.reduce((sum, user) =>
                         sum + (calculateDailyStats(user.generations)[date] || 0), 0)
@@ -388,14 +291,10 @@
                         datasets: [{
                             label: '每日使用趋势',
                             data: usageData,
-                            borderColor: var(--accent-color),
-                            backgroundColor: 'rgba(114, 137, 218, 0.2)',
+                            borderColor: '#5865f2',
+                            backgroundColor: 'rgba(88, 101, 242, 0.1)',
                             fill: true,
-                            tension: 0.4,
-                            pointBackgroundColor: var(--accent-color),
-                            pointBorderColor: '#fff',
-                            pointHoverBackgroundColor: '#fff',
-                            pointHoverBorderColor: var(--accent-color)
+                            tension: 0.4
                         }]
                     },
                     options: {
@@ -404,13 +303,6 @@
                         plugins: {
                             legend: {
                                 display: false
-                            },
-                            tooltip: {
-                                backgroundColor: var(--bg-secondary),
-                                titleColor: var(--text-primary),
-                                bodyColor: var(--text-primary),
-                                borderColor: var(--accent-color),
-                                borderWidth: 1
                             }
                         },
                         scales: {
@@ -420,7 +312,7 @@
                                     color: 'rgba(255, 255, 255, 0.1)'
                                 },
                                 ticks: {
-                                    color: var(--text-secondary)
+                                    color: '#b9bbbe'
                                 }
                             },
                             x: {
@@ -428,9 +320,7 @@
                                     color: 'rgba(255, 255, 255, 0.1)'
                                 },
                                 ticks: {
-                                    color: var(--text-secondary),
-                                    maxRotation: 45,
-                                    minRotation: 45
+                                    color: '#b9bbbe'
                                 }
                             }
                         }
@@ -439,7 +329,7 @@
             })
             .catch(error => {
                 console.error('Error loading statistics:', error);
-                document.body.innerHTML = '<p style="color: var(--error-color); padding: 20px; text-align: center;">无法加载统计数据！</p>';
+                document.body.innerHTML = '<p style="color: #f04747; padding: 20px;">Failed to load statistics!</p>';
             });
     </script>
 </body>
