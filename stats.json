@@ -1,320 +1,48 @@
 {
-  "311379211954814977": {
-    "username": "acid.riven",
+  "342807201766965266": {
+    "username": "nigh061tmare",
     "generations": [
       {
-        "prompt": "@riven\nPrompt: A post-apocalyptic world scorched by an unrelenting sun, where the Earth's surface has turned to ash and desert. The intense heat has cracked the ground, dried up oceans, and destroyed all plant and animal life. Skyscrapers are melted and warped, and the sky glows with an eerie red-orange hue, filled with swirling dust storms. The remnants of humanity hide deep underground in shadowy shelters, surviving on artificial light and water. The air is thick with heatwaves, and the horizon shows no sign of relief—only endless barren wastelands under the burning eye of an eternal sun.",
-        "timestamp": "2024-11-15T16:07:58.570000+00:00",
-        "message_id": "1307014242532327516"
+        "prompt": "@「🐾」Nigh061tmare\nPrompt: A lion in the African savannah stalking a gazelle.",
+        "timestamp": "2024-11-16T15:27:43.569000+00:00",
+        "message_id": "1307366501149311103"
       }
     ],
     "total_uses": 1
-  },
-  "295897036258279424": {
-    "username": "hoe_maker",
-    "generations": [
-      {
-        "prompt": "@Al\nPrompt: a hybrid animal of a lion head and scorpion body walking in mars",
-        "timestamp": "2024-11-15T13:05:56.369000+00:00",
-        "message_id": "1306968431500984350"
-      }
-    ],
-    "total_uses": 1
-  },
-  "786913951866159135": {
-    "username": "nareshmassboy",
-    "generations": [
-      {
-        "prompt": "@Ruffian Ragu\nPrompt: create one beautiful river covered with trees create 16:9",
-        "timestamp": "2024-11-15T12:42:17.719000+00:00",
-        "message_id": "1306962481251614751"
-      },
-      {
-        "prompt": "@Ruffian Ragu\nPrompt: create a dragon fight scene green and black color dragon",
-        "timestamp": "2024-11-11T19:50:59.881000+00:00",
-        "message_id": "1305620816356179979"
-      },
-      {
-        "prompt": "@Ruffian Ragu\nPrompt: dragon flying scene the girl curious and happily riding in the dragon",
-        "timestamp": "2024-11-11T18:36:10.943000+00:00",
-        "message_id": "1305601988385570897"
-      }
-    ],
-    "total_uses": 3
-  },
-  "628742526777688075": {
-    "username": "wizka_",
-    "generations": [
-      {
-        "prompt": "@wizkha\nPrompt: Un retrato heroico de Wojtek el oso soldado, de pie erguido junto a una bandera polaca ondeando al viento. Lleva un gorro militar y está rodeado por medallas brillantes colgando de su cuello, con un atardecer épico detrás de él.",
-        "timestamp": "2024-11-15T11:56:50.853000+00:00",
-        "message_id": "1306951043946647592"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Un hospital oscuro y anticuado de los años 70, con una monja de pie en una esquina, rodeada de sombras. Tiene una expresión ambigua, sosteniendo una bandeja médica. El ambiente debe transmitir misterio y peligro, con colores apagados y luces tenues.",
-        "timestamp": "2024-11-14T12:39:43.843000+00:00",
-        "message_id": "1306599447983030293"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Haz a un hombre de unos 40 años furioso viendo a su telefono",
-        "timestamp": "2024-11-13T23:18:27.238000+00:00",
-        "message_id": "1306397800086507534"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Un título de aspecto burlón y un hombre molesto en una sala de juicio. El título está sobre el brazo del comediante, mirando directamente al hombre enojado, mientras el tribunal observa. Fondo dramático con una iluminación suave que contrasta a los personajes.",
-        "timestamp": "2024-11-13T21:02:07.867000+00:00",
-        "message_id": "1306363493318135820"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: un mono en un laboratorio en el cual estan haciendo experimentos con él",
-        "timestamp": "2024-11-12T01:17:32.404000+00:00",
-        "message_id": "1305702993353637900"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: un mono en un laboratorio en el cual estan haciendo experimentos con el",
-        "timestamp": "2024-11-12T01:09:55.494000+00:00",
-        "message_id": "1305701076934332427"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Imagen de una pizarra de laboratorio con gráficos y dibujos anatómicos de animales, el esbozo de un cerebro y cabeza de mono, con notas y fórmulas escritas a mano en un estilo desordenado. La atmósfera debe parecer tensa e intrigante, destacando el enfoque obsesivo de White.",
-        "timestamp": "2024-11-12T01:04:00.096000+00:00",
-        "message_id": "1305699586287079498"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Primer plano del rostro del mono después de la cirugía, con los ojos abiertos y enfocando algo, pero con el cuerpo visiblemente inmóvil. La imagen está en un tono gris y muestra el contraste entre la conciencia del animal y su incapacidad para moverse.",
-        "timestamp": "2024-11-12T00:40:19.973000+00:00",
-        "message_id": "1305693629859369045"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: un buzo profesaional temblando de frio",
-        "timestamp": "2024-11-11T14:04:48.491000+00:00",
-        "message_id": "1305533694831890437"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Un buzo profesional trabajando bajo el agua en una plataforma petrolera, usando equipo de buceo industrial y herramientas de reparación. La estructura de metal de la plataforma está en el fondo, mientras el buzo realiza mantenimiento bajo condiciones de baja visibilidad.",
-        "timestamp": "2024-11-11T12:50:55.280000+00:00",
-        "message_id": "1305515100597125242"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: A fighter celebrating a win in an octagon, with a face full of bruises and cuts, but with a satisfied smile. The lights shine down on him, focusing on him as the crowd applauds in the background, capturing the intensity and emotion of the moment.",
-        "timestamp": "2024-11-10T17:39:41.293000+00:00",
-        "message_id": "1305225383297286188"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Create a 9:16 video of a woman standing exhausted and reflective after cleaning a crime scene. She wears wrinkled protective gear—gloves and a coverall—and holds a cleaning tool loosely at her side. The background is blurred but hints at the recently cleaned area, with subtle details like empty cleaning supplies and a disinfected, quiet room visible in the distance. The lighting is soft and muted, with cool tones that capture a somber and emotional atmosphere. The camera slowly zooms in on her tired expression, emphasizing the physical and emotional weight of her work.",
-        "timestamp": "2024-11-09T14:23:30.719000+00:00",
-        "message_id": "1304813626066206741"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Generate an video of a woman looking exhausted and reflective, standing in a dimly lit room after cleaning a crime scene. She wears protective gear—like gloves and a coverall slightly wrinkled from the day’s work—and holds a cleaning tool in one hand. In the background, blurred and distant, faint signs of the cleaned-up scene are visible, such as empty cleaning supplies or a disinfected, quiet area. The lighting is soft, with a muted, slightly cool color palette to convey a somber and emotional atmosphere, capturing the weight of her work.",
-        "timestamp": "2024-11-09T14:08:39.223000+00:00",
-        "message_id": "1304809886860841021"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Create a realistic and somber scene showing a family cleaning up a crime scene together. The family members wear protective clothing, such as gloves, masks, and coveralls, and work together with serious, focused expressions. The setting is a dimly lit room with faint signs of previous distress, like overturned furniture or items out of place, but no graphic details. The background should feel quiet and reflective, capturing a sense of unity and resilience as they carefully and respectfully clean the space, providing closure and support for one another.",
-        "timestamp": "2024-11-09T13:49:25.258000+00:00",
-        "message_id": "1304805046780956773"
-      },
-      {
-        "prompt": "@wizkha\nPrompt: Generate a video of a man with a surprised and exaggerated expression, as if he's just seen something shocking or hilarious. The background should be humorous, like a room filled with oversized rubber ducks, random cartoonish objects, or a wall covered in funny memes. Use bright and playful colors for a comedic effect, and add subtle animations in the background, like a rubber duck squeaking or a funny character peeking out, to make the scene feel lively and whimsical",
-        "timestamp": "2024-11-09T13:35:53.563000+00:00",
-        "message_id": "1304801642285236286"
-      }
-    ],
-    "total_uses": 15
-  },
-  "1066718948764168283": {
-    "username": "ccastell23",
-    "generations": [
-      {
-        "prompt": "@ccastell23\nPrompt: abejorro en una flor",
-        "timestamp": "2024-11-15T10:53:32.941000+00:00",
-        "message_id": "1306935114349150279"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: plantacion de cacaotal o varias plantas de cacao con tallos de platano en el suelo",
-        "timestamp": "2024-11-15T01:28:31.490000+00:00",
-        "message_id": "1306792921357619230"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: pequeñito mosquito en la flor del arbol del cacao",
-        "timestamp": "2024-11-15T00:26:15.647000+00:00",
-        "message_id": "1306777252096245811"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: mosquitos polinizando la flor del cacao",
-        "timestamp": "2024-11-15T00:08:41.990000+00:00",
-        "message_id": "1306772832738476126"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: mosquitos polinizando la flor mucílago",
-        "timestamp": "2024-11-15T00:02:35.570000+00:00",
-        "message_id": "1306771295861473360"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: en los campos de la judea de los tiempos biblicos un hombre y una mujer con ropas biblicas ven alejarse a un hombre blanco alto con pelo rubio y con ropa parecida a la de star trek que emana luz alejandose de ellos caminando.",
-        "timestamp": "2024-11-14T14:01:13.449000+00:00",
-        "message_id": "1306619956477038655"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: en los campos de judea de los tiempos biblicos un hombre y una mujer con ropas biblicas ven alejarse a un hombre blanco alto con pelo rubio y ropa parecida a la de star trek que emana luz alejandose de ellos caminando",
-        "timestamp": "2024-11-14T13:15:39.079000+00:00",
-        "message_id": "1306608487698268170"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: en los campos de judea de los tiempos biblicos un hombre y una mujer con ropas biblicas ven alejarse a un hombre blanco alto con pelo rubio y ropa parecida a la de star trek que emana luz alejandose de ellos caminando.",
-        "timestamp": "2024-11-14T13:10:13.284000+00:00",
-        "message_id": "1306607121214738526"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: sansón, el personaje biblico siendo visto desde una vista tipo drone.",
-        "timestamp": "2024-11-13T15:23:08.803000+00:00",
-        "message_id": "1306278185100644392"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: varios libros viejos en un estante de una biblioteca.",
-        "timestamp": "2024-11-10T20:52:58.978000+00:00",
-        "message_id": "1305274027513872475"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: Create a compelling video exploring the mysterious text known as 'The Letter of Pilate to Tiberius Caesar.' Begin with an atmospheric introduction describing how, in recent decades, this letter has surfaced, purportedly written by the Roman governor Pontius Pilate himself. Narrate the historical background, delving into Pilate’s role in Judea and his alleged firsthand account of events involving Jesus of Nazareth. Include visuals of ancient parchment, Roman symbols, and reenactments or illustrations of key scenes. Conclude by questioning the letter’s authenticity and its impact on our understanding of history.",
-        "timestamp": "2024-11-10T16:01:07.217000+00:00",
-        "message_id": "1305200577864536074"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: arqueologos analizando supuestos escritos encontrados.",
-        "timestamp": "2024-11-10T14:59:23.193000+00:00",
-        "message_id": "1305185042061852715"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: Create a photorealistic 4K video of an extraterrestrial spacecraft hovering in the sky, showing the underside of the ship with a distinct symbol: | O |. The spacecraft has a sleek, metallic surface with intricate details, glowing softly in places, and the symbol is illuminated subtly in the center of the lower section. The scene is set against a clear, deep blue sky with a few scattered clouds, and sunlight reflects off the ship’s surface. The camera gradually zooms in, capturing the details of the craft and its mysterious symbol. The atmosphere should evoke awe and mystery, with realistic lighting, shadows, and textures.",
-        "timestamp": "2024-11-09T11:26:38.481000+00:00",
-        "message_id": "1304769115113656370"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: Kabala judia",
-        "timestamp": "2024-11-09T01:55:58.460000+00:00",
-        "message_id": "1304625502056742983"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: personas en un salon en donde sus cuerpos son transparentes.",
-        "timestamp": "2024-11-08T20:04:02.333000+00:00",
-        "message_id": "1304536934600806644"
-      },
-      {
-        "prompt": "@ccastell23\nPrompt: Jesus of nazaret talking with his disciples",
-        "timestamp": "2024-11-08T19:16:27.539000+00:00",
-        "message_id": "1304524960726913034"
-      }
-    ],
-    "total_uses": 16
-  },
-  "1294212590569914478": {
-    "username": "roanne0792",
-    "generations": [
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: Create a futuristic cityscape at dawn with towering skyscrapers made of glass and metal, shimmering in the early morning light. Flying cars zoom between buildings, and digital billboards flash with colorful advertisements. The vibe is high-tech and optimistic, as the city wakes up to a new day.",
-        "timestamp": "2024-11-15T08:30:24.055000+00:00",
-        "message_id": "1306899089950113836"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: Depict a tropical beach at sunset, with waves gently lapping against the shore. Palm trees sway lightly in the breeze, and the sky is painted in hues of pink, orange, and purple. The setting is serene and picturesque, evoking a feeling of relaxation and escape.",
-        "timestamp": "2024-11-15T07:20:33.054000+00:00",
-        "message_id": "1306881511617990708"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: Show a cozy, candle-lit café on a rainy evening, with warm lights glowing through the windows. Raindrops fall outside, and steam rises from cups of coffee on tables, creating a sense of warmth and comfort. The ambiance is calm, inviting, and perfect for relaxation.",
-        "timestamp": "2024-11-15T05:37:56.862000+00:00",
-        "message_id": "1306855690677260319"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: Create a serene morning scene by a lakeside, where gentle sunlight filters through mist over calm water. Birds fly across the sky, and soft ripples move slowly on the lake surface. The colors are soft and pastel, evoking a peaceful and tranquil atmosphere.",
-        "timestamp": "2024-11-14T09:04:26.571000+00:00",
-        "message_id": "1306545269017415691"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A vibrant spring meadow filled with colorful wildflowers in bloom. Bees and butterflies float among the flowers, and a gentle breeze sways the tall grass. The sky is clear with a warm, golden sunlight enhancing the colors.",
-        "timestamp": "2024-11-06T02:25:23.744000+00:00",
-        "message_id": "1303545742597820449"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A futuristic city skyline at night, with skyscrapers covered in glowing neon lights, reflections shimmering on the nearby river, and flying cars zooming through the air against a deep indigo sky filled with stars.",
-        "timestamp": "2024-10-28T07:49:50.234000+00:00",
-        "message_id": "1300365900184158250"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A quiet winter landscape covered in fresh snow, with tall pine trees dusted in white, a frozen river reflecting the soft pink glow of the setting sun, and a small cabin with smoke rising from its chimney.",
-        "timestamp": "2024-10-25T02:04:43.197000+00:00",
-        "message_id": "1299191884979245117"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A tranquil garden during springtime, with cherry blossom trees in full bloom, petals gently falling onto a calm pond, and a traditional red bridge crossing over the water, with koi fish swimming below.",
-        "timestamp": "2024-10-23T03:10:40.645000+00:00",
-        "message_id": "1298483707988148269"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A powerful waterfall cascading down a cliffside in the middle of a lush jungle, surrounded by thick vines, ferns, and towering trees, with mist rising from the water, and birds flying above.",
-        "timestamp": "2024-10-23T03:10:17.512000+00:00",
-        "message_id": "1298483610961186861"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A vast desert with endless golden dunes, rippling under the heat of the sun, and in the middle, a small oasis with a crystal-clear pond, lush palm trees, and vibrant green vegetation contrasting with the barren sand.",
-        "timestamp": "2024-10-23T03:09:45.295000+00:00",
-        "message_id": "1298483475833425973"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A vast desert with endless golden dunes, rippling under the heat of the sun, and in the middle, a small oasis with a crystal-clear pond, lush palm trees, and vibrant green vegetation contrasting with the barren sand.",
-        "timestamp": "2024-10-23T03:02:15.321000+00:00",
-        "message_id": "1298481588505546802"
-      },
-      {
-        "prompt": "@Roanne@rhymes\nPrompt: A peaceful countryside village with cobblestone streets, stone cottages covered in ivy, surrounded by green rolling hills, with golden wheat fields swaying under a bright afternoon sun.",
-        "timestamp": "2024-10-23T03:00:32.334000+00:00",
-        "message_id": "1298481156546629683"
-      }
-    ],
-    "total_uses": 12
-  },
-  "1303982176164909148": {
-    "username": "osguma05",
-    "generations": [
-      {
-        "prompt": "@Oscar\nPrompt: un arbol moviendo suavemente sus hojas gracias al viento, en un atardecer en la playa",
-        "timestamp": "2024-11-15T06:33:22.093000+00:00",
-        "message_id": "1306869637706682378"
-      }
-    ],
-    "total_uses": 1
-  },
-  "1062884846709522472": {
-    "username": "juancampos8240",
-    "generations": [
-      {
-        "prompt": "@Juan Campos\nPrompt: un aguila con una serpiente en la boca que llega a posarse en un nopal en medio de un lago",
-        "timestamp": "2024-11-15T02:53:27.849000+00:00",
-        "message_id": "1306814297036427386"
-      },
-      {
-        "prompt": "@Juan Campos\nPrompt: Create a highly realistic video of a sunken city deep beneath the ocean, resembling a lost Atlantis. The city is a blend of ancient and futuristic design, with weathered statues, grand columns, and stone structures intertwined with advanced, decaying technology, like a partially submerged spaceship. The ruins are covered with corals, seaweed, and marine life, adding an eerie yet majestic beauty to the scene. Sunlight filters through the water, casting a mystical glow over the city, giving a sense of mystery and ancient history lost in time",
-        "timestamp": "2024-11-11T20:47:19.938000+00:00",
-        "message_id": "1305634993342517353"
-      },
-      {
-        "prompt": "@Juan Campos\nPrompt: Create an image of a Mexican boy with a face full of hope and wonder, gazing at a television screen showing images of delicious food. The boy’s expression reflects joy and anticipation as he watches, with the warm glow of the TV lighting up his face. The scene should capture a feeling of innocence and dreams, with a cozy and inviting atmosphere",
-        "timestamp": "2024-11-11T20:34:50.968000+00:00",
-        "message_id": "1305631851934650399"
-      },
-      {
-        "prompt": "@Juan Campos\nPrompt: Create an anime-style video featuring ‘Carnes Asadas Victor,’ a bustling taco stand. The stand is lively with people lining up for more tacos, and a rich, delicious aroma fills the air. The owner, a blonde man wearing a cap, is at the grill preparing tacos in large quantities with skill and enthusiasm. The scene feels like a Japanese anime, with exaggerated expressions of joy and excitement from the customers as they eagerly wait for their food.",
-        "timestamp": "2024-11-11T19:15:57.058000+00:00",
-        "message_id": "1305611996477132801"
-      }
-    ],
-    "total_uses": 4
   },
   "567398140492382208": {
     "username": "milm_",
     "generations": [
+      {
+        "prompt": "@milm\nPrompt: Iconic beautiful european diva singing on stage of a theatre with mesmerizing stage charisma and electrifying vocal prowess. She wears a pink 18th Century styled Rococo Silk lace Dress and white 18th Century styled Rococo wig. Skinny fit body, detailed facial features, in the background classical orchestra playing on violin wearing elegant tuxedo, stunning colorful stage lights, cinematic lighting, cinematic muted colors.",
+        "timestamp": "2024-11-16T13:03:44.943000+00:00",
+        "message_id": "1307330268125728778"
+      },
+      {
+        "prompt": "@milm\nPrompt: Iconic beautiful european diva singing on stage of a theatre with mesmerizing stage charisma and electrifying vocal prowess. She wears a pink 18th Century styled Rococo Silk lace Dress and white 18th Century styled Rococo decorated wig. Skinny fit body, detailed facial features, detailed skin, stunning colorful stage lights, in the background classical orchestra playing on violin wearing elegant tuxedo. ((Photographic, realistic,  cinematic)). Vintage filter, cinematic colors, natural colors, cinematic lighting. Lifelike textures, best quality, film grains,cinestill 8k, epic detailed, 35mm film, analog camera shot",
+        "timestamp": "2024-11-16T12:52:47.790000+00:00",
+        "message_id": "1307327511826534410"
+      },
+      {
+        "prompt": "@milm\nPrompt: ((Cinematic movie style)):A 25-year-old Afro-American female skateboarder glides smoothly across the iconic Brooklyn Bridge at night, her silhouette cutting sharply against the backdrop of the city skyline. Her long black rasta hair, tied in a sleek ponytail under the black baseball cap, sways rhythmically as she moves with fluid grace, creating a dynamic contrast with her all-black ensemble a black short stretch mini skirt and a solid black cropped tank spaghetti strap cami top, paired with black Converse Chuck Taylors and black baseball cap. The camera begins low, capturing her from a frontal three-quarter angle, tracking her swift motion as she pushes off with her right foot. The lens then elevates slightly, following the curvature of the bridge cables. As she gains speed, her movements are ultra-smooth and coherent, showcasing the fluidity and control in her skatboarding, with each push and glide seamlessly transitioning into the next. Camera Direction: The IMAX camera starts from a low-tracking dolly shot at ground level, positioned before and slightly to the left of her, moving backward in sync with her skateboard. The camera subtly pans upward to reveal the expansive Brooklyn Bridge in the background, blending her figure with the urban environment. Her ponytail's movement and the bounce of her mini skirt are highlighted by the soft bounce of the IMAX lens, capturing ultra-smooth, cinematic motion with hyper-detailed photorealism, vivid contrast, and rich textures. The shot culminates with a wide-angle view of the bridge, with her form framed against the vibrant New York night.",
+        "timestamp": "2024-11-16T12:46:29.944000+00:00",
+        "message_id": "1307325927025545236"
+      },
+      {
+        "prompt": "@milm\nPrompt: Traversal camera movement, middle ground camera view. Cinematic shot of an Iconic beautiful european diva singing on stage of a theatre with mesmerizing stage charisma and electrifying vocal prowess. She wears a pink 18th Century styled Rococo Silk lace Dress and white 18th Century styled Rococo decorated wig. Skinny fit body, detailed facial features, detailed skin, stunning colorful stage lights, in the background classical orchestra playing on violin wearing elegant tuxedo. ((Photographic, realistic,  cinematic)). Vintage filter, cinematic colors, natural colors, cinematic lighting. Lifelike textures, best quality, film grains,cinestill 8k, epic detailed, 35mm film, analog camera shot",
+        "timestamp": "2024-11-16T12:44:20.180000+00:00",
+        "message_id": "1307325382755749908"
+      },
+      {
+        "prompt": "@milm\nPrompt: Iconic beautiful diva singing on stage of a theatre with mesmerizing stage charisma and electrifying vocal prowess, beautifully articulating mouth movement. She wears a pink 18th Century styled Rococo Silk lace Dress and white 18th Century styled Rococo wig. Skinny fit body, detailed facial features, detailed skin, stunning colorful stage lights, in the background classical orchestra playing on violin wearing elegant tuxedo. Photographic, realistic,  cinematic)). Vintage filter, cinematic colors, natural colors, cinematic lighting. Lifelike textures, best quality, film grains,cinestill 8k, epic detailed, 35mm film, analog camera shot.",
+        "timestamp": "2024-11-16T12:36:48.787000+00:00",
+        "message_id": "1307323489476149299"
+      },
+      {
+        "prompt": "@milm\nPrompt: ((Cinematic movie style)): In first person view flying over a bustling contemporary megacity of New York at night. Cinematic effects, soft tones.The video clip is shot with a keen attention to the aesthetic qualities, ensuring that each frame is a testament to the visual grandeur of the urban. The cityscape alive with activity, stunning neon signs becomes a mesmerizing blur of lights, further intensifying the palpable sense of urgency and the tension of the high-speed pursuit. The video clip is shot with a keen attention to the aesthetic qualities, ensuring that each frame is a testament to the visual grandeur of the urban chase. ((photorealistic, cinematic, realistic)), Wide-angle lens, mind-blowing details, dynamic composition, sharp focus, depth of field, ultrarealistic detailed lighting, volumetric lighting, cinematic lighting, cinestill, 35mm film, analog shot,  8k, hdr.",
+        "timestamp": "2024-11-15T23:12:19.011000+00:00",
+        "message_id": "1307121031361728603"
+      },
       {
         "prompt": "@milm\nPrompt: Low angle camera view from below. Cinematic shot of a night club environment where people are dancing dynamically to music. People wearing colorful glowing neon accessories.Traversal camera movement. Stunning colorful stage lights and laser beams with colorful smoke spreads around the dancing people. Perfect faces, rule of third, ((detailed facial features)), (finely detailed skins), real human skins, skin pores, highly detailed hairs, real human hands with five fingers. Neutral colors ,cinematic lighting, contrast lighting, soft front light ,dramatic lighting, dappled light on face, backlight on hair, realistic volumetric lighting. Realistic , cinematic, photorealism, cinestill. Ultra high res, hyper detailed, vintage filter, sfumato, chiaroscuro, intricate details, amazing fine details, lifelike textures, sharp focus, depth of field, movie styled, cinestill. Best shadows, best quality,, hdr, uhd, 8k, 35 mm film, analog camera shot.",
         "timestamp": "2024-11-15T01:36:59.838000+00:00",
@@ -581,53 +309,179 @@
         "message_id": "1304021489175101442"
       }
     ],
-    "total_uses": 53
+    "total_uses": 59
   },
-  "887175271592128543": {
-    "username": "rodney2359",
+  "1066718948764168283": {
+    "username": "ccastell23",
     "generations": [
       {
-        "prompt": "@Rooster\nPrompt: hadas hermosas en un bosque elfico hyperrealista HD cinematografico",
-        "timestamp": "2024-11-15T01:18:02.743000+00:00",
-        "message_id": "1306790284201426995"
+        "prompt": "@ccastell23\nPrompt: jesús de nazaret dentro de una sinagoga de pueblo en los tiempos biblicos dando un sermón en el humilde pulpito, a su alrededor los aldeanos y discipulos.",
+        "timestamp": "2024-11-16T12:40:25.368000+00:00",
+        "message_id": "1307324397882703914"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: Inside a biblical-era synagogue, dimly lit by flickering oil lamps, a group of Jesus of Nazareth's followers huddle together. Their faces are filled with anxiety and despair, some arguing and gesturing frantically. Outside the stone walls, snow gently falls, visible through a small, frosted window. Amid the chaos, Jesus stands in serene contrast, his calm demeanor radiating peace. His gaze is steady, and he raises a hand to quiet the turmoil. The atmosphere shifts subtly as his presence begins to reassure the crowd, the tension easing momentarily. The scene captures the raw human emotions of fear and faith juxtaposed in a moment of spiritual guidance.\"  This description conveys the emotions, setting, and symbolism of the scene for a visually compelling and impactful video.",
+        "timestamp": "2024-11-16T00:34:04.792000+00:00",
+        "message_id": "1307141607698727033"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: Did you know that Jesus, the peaceful teacher, once faced mockery and violence at the hands of a group of rebellious youths in a synagogue? Imagine a tense moment where faith meets conflict, and the calm resolve of the Son of Man is put to the test amidst a storm of taunts and aggression.",
+        "timestamp": "2024-11-15T21:35:19.717000+00:00",
+        "message_id": "1307096623473491991"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: abejorro en una flor",
+        "timestamp": "2024-11-15T10:53:32.941000+00:00",
+        "message_id": "1306935114349150279"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: plantacion de cacaotal o varias plantas de cacao con tallos de platano en el suelo",
+        "timestamp": "2024-11-15T01:28:31.490000+00:00",
+        "message_id": "1306792921357619230"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: pequeñito mosquito en la flor del arbol del cacao",
+        "timestamp": "2024-11-15T00:26:15.647000+00:00",
+        "message_id": "1306777252096245811"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: mosquitos polinizando la flor del cacao",
+        "timestamp": "2024-11-15T00:08:41.990000+00:00",
+        "message_id": "1306772832738476126"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: mosquitos polinizando la flor mucílago",
+        "timestamp": "2024-11-15T00:02:35.570000+00:00",
+        "message_id": "1306771295861473360"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: en los campos de la judea de los tiempos biblicos un hombre y una mujer con ropas biblicas ven alejarse a un hombre blanco alto con pelo rubio y con ropa parecida a la de star trek que emana luz alejandose de ellos caminando.",
+        "timestamp": "2024-11-14T14:01:13.449000+00:00",
+        "message_id": "1306619956477038655"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: en los campos de judea de los tiempos biblicos un hombre y una mujer con ropas biblicas ven alejarse a un hombre blanco alto con pelo rubio y ropa parecida a la de star trek que emana luz alejandose de ellos caminando",
+        "timestamp": "2024-11-14T13:15:39.079000+00:00",
+        "message_id": "1306608487698268170"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: en los campos de judea de los tiempos biblicos un hombre y una mujer con ropas biblicas ven alejarse a un hombre blanco alto con pelo rubio y ropa parecida a la de star trek que emana luz alejandose de ellos caminando.",
+        "timestamp": "2024-11-14T13:10:13.284000+00:00",
+        "message_id": "1306607121214738526"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: sansón, el personaje biblico siendo visto desde una vista tipo drone.",
+        "timestamp": "2024-11-13T15:23:08.803000+00:00",
+        "message_id": "1306278185100644392"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: varios libros viejos en un estante de una biblioteca.",
+        "timestamp": "2024-11-10T20:52:58.978000+00:00",
+        "message_id": "1305274027513872475"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: Create a compelling video exploring the mysterious text known as 'The Letter of Pilate to Tiberius Caesar.' Begin with an atmospheric introduction describing how, in recent decades, this letter has surfaced, purportedly written by the Roman governor Pontius Pilate himself. Narrate the historical background, delving into Pilate’s role in Judea and his alleged firsthand account of events involving Jesus of Nazareth. Include visuals of ancient parchment, Roman symbols, and reenactments or illustrations of key scenes. Conclude by questioning the letter’s authenticity and its impact on our understanding of history.",
+        "timestamp": "2024-11-10T16:01:07.217000+00:00",
+        "message_id": "1305200577864536074"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: arqueologos analizando supuestos escritos encontrados.",
+        "timestamp": "2024-11-10T14:59:23.193000+00:00",
+        "message_id": "1305185042061852715"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: Create a photorealistic 4K video of an extraterrestrial spacecraft hovering in the sky, showing the underside of the ship with a distinct symbol: | O |. The spacecraft has a sleek, metallic surface with intricate details, glowing softly in places, and the symbol is illuminated subtly in the center of the lower section. The scene is set against a clear, deep blue sky with a few scattered clouds, and sunlight reflects off the ship’s surface. The camera gradually zooms in, capturing the details of the craft and its mysterious symbol. The atmosphere should evoke awe and mystery, with realistic lighting, shadows, and textures.",
+        "timestamp": "2024-11-09T11:26:38.481000+00:00",
+        "message_id": "1304769115113656370"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: Kabala judia",
+        "timestamp": "2024-11-09T01:55:58.460000+00:00",
+        "message_id": "1304625502056742983"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: personas en un salon en donde sus cuerpos son transparentes.",
+        "timestamp": "2024-11-08T20:04:02.333000+00:00",
+        "message_id": "1304536934600806644"
+      },
+      {
+        "prompt": "@ccastell23\nPrompt: Jesus of nazaret talking with his disciples",
+        "timestamp": "2024-11-08T19:16:27.539000+00:00",
+        "message_id": "1304524960726913034"
+      }
+    ],
+    "total_uses": 19
+  },
+  "786913951866159135": {
+    "username": "nareshmassboy",
+    "generations": [
+      {
+        "prompt": "@Ruffian Ragu\nPrompt: Create a destiny pixar style consistent character animation image of Moss dragon Breathing Fire on Flood Waters\nCreate perfect image back camera view\n\nPrompt: Moss, a large dragon with shimmering emerald scales and golden eyes. Moss’s textured scales glisten in the faint light, and his warm eyes reflect gentle intelligence hovers above the village, releasing a stream of fire that evaporates the floodwaters, creating a cloud of steam. A young girl named Aria, around six, soft, golden curls that fall to her shoulders, with a slight natural wave and large blue eyes, wearing a simple blue cotton dress with short sleeves, reaching her knees, with a slightly worn, rustic texture, watches from his back, focused and determined. Warm firelight against the stormy backdrop creates a scene of heroism with Pixar-like character consistency.",
+        "timestamp": "2024-11-16T11:07:23.473000+00:00",
+        "message_id": "1307300985718444049"
+      },
+      {
+        "prompt": "@Ruffian Ragu\nPrompt: \"A cinematic, Destiny-Pixar style animated scene of a vibrant village celebration. The setting includes colorful decorations, joyous villagers dancing, children playing, and families sharing food under bright lanterns. The art style combines the dramatic lighting and rich textures of Destiny with the warm, lively charm of Pixar. The atmosphere is festive with lush greenery, rustic houses, and a serene river running through the village. The villagers wear traditional, detailed attire, radiating happiness and unity.\"",
+        "timestamp": "2024-11-16T10:43:35.540000+00:00",
+        "message_id": "1307294996533219403"
+      },
+      {
+        "prompt": "@Ruffian Ragu\nPrompt: create a destiny pixar style realistic animation video Village Storm Clouds Gathering\n\nVoiceover: \"Dark clouds gathered over the village, and worry spread among its people as thunder rumbled from afar.",
+        "timestamp": "2024-11-16T08:46:53.555000+00:00",
+        "message_id": "1307265628079390793"
+      },
+      {
+        "prompt": "@Ruffian Ragu\nPrompt: Create a destiny pixar style consistent character animation image of Moss Breathing Fire on Flood Waters\n\nPrompt: Moss, a large dragon with shimmering emerald scales and golden eyes. Moss’s textured scales glisten in the faint light, and his warm eyes reflect gentle intelligence hovers above the village, releasing a stream of fire that evaporates the floodwaters, creating a cloud of steam. A young girl named Aria, around six, soft, golden curls that fall to her shoulders, with a slight natural wave and large blue eyes, wearing a simple blue cotton dress with short sleeves, reaching her knees, with a slightly worn, rustic texture, watches from his back, focused and determined. Warm firelight against the stormy backdrop creates a scene of heroism with Pixar-like character consistency.",
+        "timestamp": "2024-11-15T21:33:17.051000+00:00",
+        "message_id": "1307096108975132745"
+      },
+      {
+        "prompt": "@Ruffian Ragu\nPrompt: destiny pixar style village surround with dark clouds create a Pixar style realistic animation video",
+        "timestamp": "2024-11-15T20:43:10.677000+00:00",
+        "message_id": "1307083499328507964"
+      },
+      {
+        "prompt": "@Ruffian Ragu\nPrompt: create one beautiful river covered with trees create 16:9",
+        "timestamp": "2024-11-15T12:42:17.719000+00:00",
+        "message_id": "1306962481251614751"
+      },
+      {
+        "prompt": "@Ruffian Ragu\nPrompt: create a dragon fight scene green and black color dragon",
+        "timestamp": "2024-11-11T19:50:59.881000+00:00",
+        "message_id": "1305620816356179979"
+      },
+      {
+        "prompt": "@Ruffian Ragu\nPrompt: dragon flying scene the girl curious and happily riding in the dragon",
+        "timestamp": "2024-11-11T18:36:10.943000+00:00",
+        "message_id": "1305601988385570897"
+      }
+    ],
+    "total_uses": 8
+  },
+  "937552840484864030": {
+    "username": "leons.kennedy3433",
+    "generations": [
+      {
+        "prompt": "@No Thanks, Bro!\nPrompt: A video of a family of four walking down the busy streets of New York",
+        "timestamp": "2024-11-16T09:08:31.371000+00:00",
+        "message_id": "1307271071514492980"
       }
     ],
     "total_uses": 1
   },
-  "1051673881536122970": {
-    "username": "piololu",
-    "generations": [
-      {
-        "prompt": "@piololu\nPrompt: a mystical floating island with waterfalls cascading into the sky, illustrated in a studio Ghibli-inspired anime style",
-        "timestamp": "2024-11-15T00:33:57.597000+00:00",
-        "message_id": "1306779189655109705"
-      },
-      {
-        "prompt": "@piololu\nPrompt: detailed cinematic dof render of an old dusty detailed CRT monitor on a wooden desk in a dim room with items around, messy dirty room. High detail hard surface render",
-        "timestamp": "2024-11-13T04:58:41.266000+00:00",
-        "message_id": "1306121034860204106"
-      },
-      {
-        "prompt": "@piololu\nPrompt: girl, (beautiful face, cute face, 18 years old), brunette, long straight hair, medieval dress, off shoulder, midriff, (tiny waist, flat stomach, narrow hips):1.4, inside cozy medieval cabin, soft lighting, smiling, blush, looking at viewer, realistic photography,",
-        "timestamp": "2024-11-09T03:33:25.906000+00:00",
-        "message_id": "1304650028022894628"
-      },
-      {
-        "prompt": "@piololu\nPrompt: Realistic access camera footage using a fisheye lens view shows zombies from The Walking Dead approaching the front door. The fisheye effect distorts the edges of the image, enhancing the eerie atmosphere as zombies approach with rotting skin, ragged clothes, and shambling steps. On the dim street outside, the shadows of nearby houses and street lamps were looming. The zombie hesitates, then leans down to peek through the crack in the door, its terrifying face filling the camera's field of view.",
-        "timestamp": "2024-11-07T04:27:12.666000+00:00",
-        "message_id": "1303938786304196688"
-      },
-      {
-        "prompt": "@piololu\nPrompt: The young boy in the 3D-rendered image shifts his weight from one foot to the other, his hands moving to his hips as his expression fluctuates between frustration and confusion. The soft, warm lighting continues to bathe the room, casting gentle shadows from the standing lamp and highlighting the soft rug's texture beneath him.",
-        "timestamp": "2024-11-07T03:33:09.460000+00:00",
-        "message_id": "1303925183312171059"
-      }
-    ],
-    "total_uses": 5
-  },
   "628979158265102387": {
     "username": "_theverminator",
     "generations": [
+      {
+        "prompt": "@TheVerminator\nPrompt: rider's terrifying pov in runaway rollercoaster. midday. sunny. crowded amusement park. the rollercoaster speeds along uncontrolled.",
+        "timestamp": "2024-11-16T00:43:13.471000+00:00",
+        "message_id": "1307143909025124412"
+      },
+      {
+        "prompt": "@TheVerminator\nPrompt: rider's pov in runaway rollercoaster. midday. sunny. crowded amusement park.",
+        "timestamp": "2024-11-16T00:24:31.407000+00:00",
+        "message_id": "1307139202747465841"
+      },
       {
         "prompt": "@TheVerminator\nPrompt: a cup of vinegar being poured onto a pile of baking soda. the explosive reaction sprays all over the place.",
         "timestamp": "2024-11-14T21:48:59.854000+00:00",
@@ -684,7 +538,416 @@
         "message_id": "1304377721450795042"
       }
     ],
-    "total_uses": 11
+    "total_uses": 13
+  },
+  "433204656773005322": {
+    "username": "mario_222",
+    "generations": [
+      {
+        "prompt": "@Mario\nPrompt: aerial footage of Egypt Giza pyramids",
+        "timestamp": "2024-11-16T00:42:37.169000+00:00",
+        "message_id": "1307143756763500565"
+      },
+      {
+        "prompt": "@Mario Creation is in queue.(Prompt: Spanish conqueror crying under a tree after being defeated).Author: @Mario",
+        "timestamp": "2024-11-14T07:46:08.666000+00:00",
+        "message_id": "1306525564575809617"
+      }
+    ],
+    "total_uses": 2
+  },
+  "435085808613982228": {
+    "username": "rexel092",
+    "generations": [
+      {
+        "prompt": "@deivid092\nPrompt: atardecer en ciudad con el cielo despejado.",
+        "timestamp": "2024-11-15T23:37:35.950000+00:00",
+        "message_id": "1307127393865170944"
+      }
+    ],
+    "total_uses": 1
+  },
+  "425361619590316032": {
+    "username": "magopepo",
+    "generations": [
+      {
+        "prompt": "@elmagopepo\nPrompt: Prompt: A playful and charming Pixar-style 3D cow is joyfully dancing salsa, showing off its lively personality. The cow has a cartoonish, exaggerated style with large, expressive eyes and a big smile. It wears colorful, patched denim overalls with straps and a striped t-shirt, full of vibrant colors like red, blue, yellow, and green. The cow’s hooves move in rhythm to the salsa music, and its posture is dynamic and energetic. The background features a fun, lively dance floor, with a warm and upbeat atmosphere. The cow’s design is cute, with a round, smooth body, and the overall image radiates a playful and whimsical vibe, capturing the essence of Pixar-style animation.",
+        "timestamp": "2024-11-15T23:05:39.918000+00:00",
+        "message_id": "1307119357444227177"
+      },
+      {
+        "prompt": "@elmagopepo\nPrompt: una vaca estilo pixart 3d esta bailando salsa, la baca va vestida con unos baqueros con tirantes llenos de parches de colores y una camiseta a rallas",
+        "timestamp": "2024-11-15T21:53:39.696000+00:00",
+        "message_id": "1307101237120077887"
+      },
+      {
+        "prompt": "@elmagopepo\nPrompt: Un niño con pantalones cortos verdes y camisetas a rayas rojas y blancas , ojos grandes estilo dibujo 2d de disney esta lavandose las manos en un cubo con agua que esta sobre el lomo de una cabra blanca que esta mirando con cara de loca , el fono puede verse motanas con colores",
+        "timestamp": "2024-11-10T15:14:26.345000+00:00",
+        "message_id": "1305188830156161118"
+      },
+      {
+        "prompt": "@elmagopepo\nPrompt: Mesi with his Argentina shirt playing with a child, in the background is the humble soccer field of a town, the ground is out of focus highlighting the characters, the style is from Pixar",
+        "timestamp": "2024-11-10T13:28:54.977000+00:00",
+        "message_id": "1305162274474033185"
+      },
+      {
+        "prompt": "@elmagopepo\nPrompt: \"A friendly Disney-style cow dancing salsa on two legs with energy and joy. The cow has a vibrant outfit with colorful suspenders and patches in bright colors, creating a playful and modern look. The cow is smiling widely, showing pure happiness as it dances to the rhythm of the music. It has large, expressive eyes and a dynamic dance posture, one leg lifted mid-spin, showing off its salsa moves. The background features a lively dance floor with colorful lights, enhancing the festive atmosphere. The cow's personality shines through, with its ears and tail bouncing with each movement. The patches on its body are scattered in fun patterns, giving the cow a creative and cheerful vibe, as if it’s the life of the party.\"",
+        "timestamp": "2024-11-10T12:30:54.433000+00:00",
+        "message_id": "1305147676014153779"
+      },
+      {
+        "prompt": "@elmagopepo\nPrompt: \"Una vaca estilo Pixar, animada y amigable, bailando salsa en dos patas con mucha energía y alegría. La vaca tiene un atuendo vibrante, con tirantes coloridos y parches de colores brillantes que cubren su cuerpo en patrones juguetones y modernos. Su expresión es de pura felicidad, con una gran sonrisa y ojos brillantes que reflejan su entusiasmo mientras disfruta de la música. Está en una postura dinámica de baile, levantando un pie mientras gira, mostrando destreza y estilo en sus movimientos. El fondo es una pista de baile iluminada y llena de vida, con luces de colores que resaltan la atmósfera festiva. La vaca tiene una apariencia amigable y cálida, con orejas y cola en movimiento, transmitiendo la sensación de diversión total. Los parches de colores en su cuerpo están colocados de manera artística, haciendo que el atuendo se vea único y alegre. La vaca parece ser el alma de la fiesta, disfrutando del ritmo con cada paso.\"",
+        "timestamp": "2024-11-10T12:15:48.329000+00:00",
+        "message_id": "1305143875538649158"
+      },
+      {
+        "prompt": "@elmagopepo\nPrompt: \"Una vaca estilo Pixar, animada y amigable, bailando salsa en dos patas con mucha energía y alegría. La vaca tiene un atuendo vibrante, con tirantes coloridos y parches de colores brillantes que cubren su cuerpo en patrones juguetones y modernos. Su expresión es de pura felicidad, con una gran sonrisa y ojos brillantes que reflejan su entusiasmo mientras disfruta de la música. Está en una postura dinámica de baile, levantando un pie mientras gira, mostrando destreza y estilo en sus movimientos. El fondo es una pista de baile iluminada y llena de vida, con luces de colores que resaltan la atmósfera festiva. La vaca tiene una apariencia amigable y cálida, con orejas y cola en movimiento, transmitiendo la sensación de diversión total. Los parches de colores en su cuerpo están colocados de manera artística, haciendo que el atuendo se vea único y alegre. La vaca parece ser el alma de la fiesta, disfrutando del ritmo con cada paso.\"",
+        "timestamp": "2024-11-10T12:14:58.436000+00:00",
+        "message_id": "1305143666272374784"
+      },
+      {
+        "prompt": "@elmagopepo\nPrompt: \"Una vaca estilo Pixar, con una apariencia amigable y encantadora, bailando salsa con mucha energía y gracia. La vaca tiene un atuendo alegre con tirantes coloridos y parches de colores brillantes en su cuerpo, creando un estilo único y moderno. Su expresión es sonriente, transmitiendo diversión y felicidad, mientras se mueve al ritmo de la música. El fondo muestra una pista de baile vibrante, iluminada y llena de vida. La vaca tiene detalles de personalidad, con ojos grandes y brillantes, y una postura dinámica como si estuviera disfrutando de la fiesta. Los parches de colores en su cuerpo están dispersos en patrones divertidos, haciendo que el conjunto se vea juguetón y creativo.\"",
+        "timestamp": "2024-11-10T11:52:10.924000+00:00",
+        "message_id": "1305137930511056949"
+      },
+      {
+        "prompt": "@elmagopepo\nPrompt: Un niño esta abrazando a su mama, el dibujo es estilo pixar, el fondo es un parque infantil fuer defoco , los que se destacan en l escen es el niño y su mdre , estan rodedos de un alo angelical de luces de color",
+        "timestamp": "2024-11-10T11:43:22.659000+00:00",
+        "message_id": "1305135714807058452"
+      }
+    ],
+    "total_uses": 9
+  },
+  "1303982176164909148": {
+    "username": "osguma05",
+    "generations": [
+      {
+        "prompt": "@Oscar\nPrompt: A cinematic, high-resolution view of Earth rotating slowly in the vastness of space, seen from a stationary perspective in the universe. The planet's surface is detailed, with continents, oceans, and cloud formations visible under soft, ambient sunlight, creating subtle highlights and shadows as Earth turns. The background is a deep, star-filled cosmos, adding a sense of depth and wonder. The scene is tranquil, with Earth's rotation creating a slow, mesmerizing effect that emphasizes the beauty and stillness of space.",
+        "timestamp": "2024-11-15T22:12:15.072000+00:00",
+        "message_id": "1307105915346092094"
+      },
+      {
+        "prompt": "@Oscar\nPrompt: un arbol moviendo suavemente sus hojas gracias al viento, en un atardecer en la playa",
+        "timestamp": "2024-11-15T06:33:22.093000+00:00",
+        "message_id": "1306869637706682378"
+      }
+    ],
+    "total_uses": 2
+  },
+  "297373777313136641": {
+    "username": "sirfalquian",
+    "generations": [
+      {
+        "prompt": "@SirFalquian\nPrompt: FPV, dynamic motion: A representation of the multiverse featuring two identical cities, one on the ground and the other reflected in the sky. Camera Movement: Rapidly穿梭 between the two realms, blurring the lines between reality and reflection. Additional details: As the camera zips through, the mirrored cityscapes create a disorienting, kaleidoscopic effect, highlighting the infinite possibilities of the multiverse.",
+        "timestamp": "2024-11-15T19:10:06.210000+00:00",
+        "message_id": "1307060076376490004"
+      },
+      {
+        "prompt": "@SirFalquian\nPrompt: Wide angle, dynamic motion: A vast array of marbles in motion, each encapsulating a miniature universe within. Camera Movement: Slowly pans across the collection, capturing the intricate details. Additional details: Each marble reflects a unique cosmic scene, with swirling galaxies and celestial bodies, as they subtly rotate and interact with one another.",
+        "timestamp": "2024-11-15T18:58:11.960000+00:00",
+        "message_id": "1307057080594731129"
+      },
+      {
+        "prompt": "@SirFalquian\nPrompt: Overhead, slow motion: A cosmic sphere containing the universe, set against a backdrop of a starry space. The stars move towards the camera while the sphere rotates gently. Additional details: Nebulae and galaxies swirl within the sphere, creating a mesmerizing effect.",
+        "timestamp": "2024-11-15T18:56:56.980000+00:00",
+        "message_id": "1307056766105944064"
+      },
+      {
+        "prompt": "@SirFalquian\nPrompt: Overhead, slow motion: A cosmic sphere containing the universe, set against a backdrop of a starry space. The stars move towards the camera while the sphere rotates gently. Additional details: Nebulae and galaxies swirl within the sphere, creating a mesmerizing effect.",
+        "timestamp": "2024-11-15T18:45:18.393000+00:00",
+        "message_id": "1307053836019433542"
+      },
+      {
+        "prompt": "@SirFalquian\nPrompt: Wide angle, slow motion: A fiery orb levitates in the air, casting an eerie glow over the surrounding darkness. Camera Movement: Rotates around the fireball, capturing its mesmerizing dance. Additional details: The flames flicker and pulse with an otherworldly rhythm, as if alive, and the air around it seems to warp and distort from the intense heat.",
+        "timestamp": "2024-11-11T17:14:59.262000+00:00",
+        "message_id": "1305581555074469911"
+      },
+      {
+        "prompt": "@SirFalquian\nPrompt: Medium close up, dynamic motion: A bonfire burning intensely in the forest. Camera Movement: Circle around the flames, capturing the heat and sparks. Additional details: Smoke billows into the night sky, and the surrounding trees cast long, eerie shadows. Embers float upwards, and the fire crackles and pops, illuminating the darkness.",
+        "timestamp": "2024-11-10T18:58:51.728000+00:00",
+        "message_id": "1305245308065808489"
+      },
+      {
+        "prompt": "@SirFalquian\nPrompt: High angle, slow motion: The sun's surface, viewed up close, with its boiling plasma and intricate solar flares. Camera Movement: Slowly zoom in to capture the immense scale and dynamic activity. Additional details: Intense heat waves distort the view, and the vibrant colors of the corona stand out against the blackness of space.",
+        "timestamp": "2024-11-10T18:52:19.354000+00:00",
+        "message_id": "1305243662329974804"
+      },
+      {
+        "prompt": "@SirFalquian\nPrompt: el sol brillando en el espacio estrellado como si fuera una gran bola de fuego. la camara se mueve lentamente hacia el sol. al fondo se ven las estrellas y las galaxias lejanas",
+        "timestamp": "2024-11-10T17:58:55.159000+00:00",
+        "message_id": "1305230222961938475"
+      },
+      {
+        "prompt": "@SirFalquian\nPrompt: el sol brillando en el espacio como si fuera una gran bola de fuego. la camara se mueve lentamente hacia el sol",
+        "timestamp": "2024-11-10T17:52:21.284000+00:00",
+        "message_id": "1305228570930581575"
+      }
+    ],
+    "total_uses": 9
+  },
+  "826893036302237764": {
+    "username": "danimedinaa",
+    "generations": [
+      {
+        "prompt": "@Danii\nPrompt: un leon en la luna",
+        "timestamp": "2024-11-15T18:05:38.154000+00:00",
+        "message_id": "1307043852573741086"
+      }
+    ],
+    "total_uses": 1
+  },
+  "1302886658005532723": {
+    "username": "alemza12",
+    "generations": [
+      {
+        "prompt": "@alemza\nPrompt: In a magical underwater setting, three spheres float in perfect alignment, each radiating a unique color: blue, green, and red. The spheres reflect off each other and on the surface of the crystalline water as they drift gently with the light current. Small bubbles emerge and surround the spheres, creating a dreamy atmosphere. As they move slowly, the spheres shift the tone of the environment, casting bright color flashes that dance through the water. The interplay of light and shadows transforms the background into a living kaleidoscope, intensifying the sense of magic and serenity",
+        "timestamp": "2024-11-15T17:24:27.144000+00:00",
+        "message_id": "1307033488406478993"
+      }
+    ],
+    "total_uses": 1
+  },
+  "311379211954814977": {
+    "username": "acid.riven",
+    "generations": [
+      {
+        "prompt": "@riven\nPrompt: A post-apocalyptic world scorched by an unrelenting sun, where the Earth's surface has turned to ash and desert. The intense heat has cracked the ground, dried up oceans, and destroyed all plant and animal life. Skyscrapers are melted and warped, and the sky glows with an eerie red-orange hue, filled with swirling dust storms. The remnants of humanity hide deep underground in shadowy shelters, surviving on artificial light and water. The air is thick with heatwaves, and the horizon shows no sign of relief—only endless barren wastelands under the burning eye of an eternal sun in 9:16 resolution.",
+        "timestamp": "2024-11-15T17:21:38.419000+00:00",
+        "message_id": "1307032780722409593"
+      },
+      {
+        "prompt": "@riven\nPrompt: A post-apocalyptic world scorched by an unrelenting sun, where the Earth's surface has turned to ash and desert. The intense heat has cracked the ground, dried up oceans, and destroyed all plant and animal life. Skyscrapers are melted and warped, and the sky glows with an eerie red-orange hue, filled with swirling dust storms. The remnants of humanity hide deep underground in shadowy shelters, surviving on artificial light and water. The air is thick with heatwaves, and the horizon shows no sign of relief—only endless barren wastelands under the burning eye of an eternal sun.",
+        "timestamp": "2024-11-15T16:07:58.570000+00:00",
+        "message_id": "1307014242532327516"
+      }
+    ],
+    "total_uses": 2
+  },
+  "295897036258279424": {
+    "username": "hoe_maker",
+    "generations": [
+      {
+        "prompt": "@Al\nPrompt: a hybrid animal of a lion head and scorpion body walking in mars",
+        "timestamp": "2024-11-15T13:05:56.369000+00:00",
+        "message_id": "1306968431500984350"
+      }
+    ],
+    "total_uses": 1
+  },
+  "628742526777688075": {
+    "username": "wizka_",
+    "generations": [
+      {
+        "prompt": "@wizkha\nPrompt: Un retrato heroico de Wojtek el oso soldado, de pie erguido junto a una bandera polaca ondeando al viento. Lleva un gorro militar y está rodeado por medallas brillantes colgando de su cuello, con un atardecer épico detrás de él.",
+        "timestamp": "2024-11-15T11:56:50.853000+00:00",
+        "message_id": "1306951043946647592"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Un hospital oscuro y anticuado de los años 70, con una monja de pie en una esquina, rodeada de sombras. Tiene una expresión ambigua, sosteniendo una bandeja médica. El ambiente debe transmitir misterio y peligro, con colores apagados y luces tenues.",
+        "timestamp": "2024-11-14T12:39:43.843000+00:00",
+        "message_id": "1306599447983030293"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Haz a un hombre de unos 40 años furioso viendo a su telefono",
+        "timestamp": "2024-11-13T23:18:27.238000+00:00",
+        "message_id": "1306397800086507534"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Un título de aspecto burlón y un hombre molesto en una sala de juicio. El título está sobre el brazo del comediante, mirando directamente al hombre enojado, mientras el tribunal observa. Fondo dramático con una iluminación suave que contrasta a los personajes.",
+        "timestamp": "2024-11-13T21:02:07.867000+00:00",
+        "message_id": "1306363493318135820"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: un mono en un laboratorio en el cual estan haciendo experimentos con él",
+        "timestamp": "2024-11-12T01:17:32.404000+00:00",
+        "message_id": "1305702993353637900"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: un mono en un laboratorio en el cual estan haciendo experimentos con el",
+        "timestamp": "2024-11-12T01:09:55.494000+00:00",
+        "message_id": "1305701076934332427"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Imagen de una pizarra de laboratorio con gráficos y dibujos anatómicos de animales, el esbozo de un cerebro y cabeza de mono, con notas y fórmulas escritas a mano en un estilo desordenado. La atmósfera debe parecer tensa e intrigante, destacando el enfoque obsesivo de White.",
+        "timestamp": "2024-11-12T01:04:00.096000+00:00",
+        "message_id": "1305699586287079498"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Primer plano del rostro del mono después de la cirugía, con los ojos abiertos y enfocando algo, pero con el cuerpo visiblemente inmóvil. La imagen está en un tono gris y muestra el contraste entre la conciencia del animal y su incapacidad para moverse.",
+        "timestamp": "2024-11-12T00:40:19.973000+00:00",
+        "message_id": "1305693629859369045"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: un buzo profesaional temblando de frio",
+        "timestamp": "2024-11-11T14:04:48.491000+00:00",
+        "message_id": "1305533694831890437"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Un buzo profesional trabajando bajo el agua en una plataforma petrolera, usando equipo de buceo industrial y herramientas de reparación. La estructura de metal de la plataforma está en el fondo, mientras el buzo realiza mantenimiento bajo condiciones de baja visibilidad.",
+        "timestamp": "2024-11-11T12:50:55.280000+00:00",
+        "message_id": "1305515100597125242"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: A fighter celebrating a win in an octagon, with a face full of bruises and cuts, but with a satisfied smile. The lights shine down on him, focusing on him as the crowd applauds in the background, capturing the intensity and emotion of the moment.",
+        "timestamp": "2024-11-10T17:39:41.293000+00:00",
+        "message_id": "1305225383297286188"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Create a 9:16 video of a woman standing exhausted and reflective after cleaning a crime scene. She wears wrinkled protective gear—gloves and a coverall—and holds a cleaning tool loosely at her side. The background is blurred but hints at the recently cleaned area, with subtle details like empty cleaning supplies and a disinfected, quiet room visible in the distance. The lighting is soft and muted, with cool tones that capture a somber and emotional atmosphere. The camera slowly zooms in on her tired expression, emphasizing the physical and emotional weight of her work.",
+        "timestamp": "2024-11-09T14:23:30.719000+00:00",
+        "message_id": "1304813626066206741"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Generate an video of a woman looking exhausted and reflective, standing in a dimly lit room after cleaning a crime scene. She wears protective gear—like gloves and a coverall slightly wrinkled from the day’s work—and holds a cleaning tool in one hand. In the background, blurred and distant, faint signs of the cleaned-up scene are visible, such as empty cleaning supplies or a disinfected, quiet area. The lighting is soft, with a muted, slightly cool color palette to convey a somber and emotional atmosphere, capturing the weight of her work.",
+        "timestamp": "2024-11-09T14:08:39.223000+00:00",
+        "message_id": "1304809886860841021"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Create a realistic and somber scene showing a family cleaning up a crime scene together. The family members wear protective clothing, such as gloves, masks, and coveralls, and work together with serious, focused expressions. The setting is a dimly lit room with faint signs of previous distress, like overturned furniture or items out of place, but no graphic details. The background should feel quiet and reflective, capturing a sense of unity and resilience as they carefully and respectfully clean the space, providing closure and support for one another.",
+        "timestamp": "2024-11-09T13:49:25.258000+00:00",
+        "message_id": "1304805046780956773"
+      },
+      {
+        "prompt": "@wizkha\nPrompt: Generate a video of a man with a surprised and exaggerated expression, as if he's just seen something shocking or hilarious. The background should be humorous, like a room filled with oversized rubber ducks, random cartoonish objects, or a wall covered in funny memes. Use bright and playful colors for a comedic effect, and add subtle animations in the background, like a rubber duck squeaking or a funny character peeking out, to make the scene feel lively and whimsical",
+        "timestamp": "2024-11-09T13:35:53.563000+00:00",
+        "message_id": "1304801642285236286"
+      }
+    ],
+    "total_uses": 15
+  },
+  "1294212590569914478": {
+    "username": "roanne0792",
+    "generations": [
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: Create a futuristic cityscape at dawn with towering skyscrapers made of glass and metal, shimmering in the early morning light. Flying cars zoom between buildings, and digital billboards flash with colorful advertisements. The vibe is high-tech and optimistic, as the city wakes up to a new day.",
+        "timestamp": "2024-11-15T08:30:24.055000+00:00",
+        "message_id": "1306899089950113836"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: Depict a tropical beach at sunset, with waves gently lapping against the shore. Palm trees sway lightly in the breeze, and the sky is painted in hues of pink, orange, and purple. The setting is serene and picturesque, evoking a feeling of relaxation and escape.",
+        "timestamp": "2024-11-15T07:20:33.054000+00:00",
+        "message_id": "1306881511617990708"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: Show a cozy, candle-lit café on a rainy evening, with warm lights glowing through the windows. Raindrops fall outside, and steam rises from cups of coffee on tables, creating a sense of warmth and comfort. The ambiance is calm, inviting, and perfect for relaxation.",
+        "timestamp": "2024-11-15T05:37:56.862000+00:00",
+        "message_id": "1306855690677260319"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: Create a serene morning scene by a lakeside, where gentle sunlight filters through mist over calm water. Birds fly across the sky, and soft ripples move slowly on the lake surface. The colors are soft and pastel, evoking a peaceful and tranquil atmosphere.",
+        "timestamp": "2024-11-14T09:04:26.571000+00:00",
+        "message_id": "1306545269017415691"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A vibrant spring meadow filled with colorful wildflowers in bloom. Bees and butterflies float among the flowers, and a gentle breeze sways the tall grass. The sky is clear with a warm, golden sunlight enhancing the colors.",
+        "timestamp": "2024-11-06T02:25:23.744000+00:00",
+        "message_id": "1303545742597820449"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A futuristic city skyline at night, with skyscrapers covered in glowing neon lights, reflections shimmering on the nearby river, and flying cars zooming through the air against a deep indigo sky filled with stars.",
+        "timestamp": "2024-10-28T07:49:50.234000+00:00",
+        "message_id": "1300365900184158250"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A quiet winter landscape covered in fresh snow, with tall pine trees dusted in white, a frozen river reflecting the soft pink glow of the setting sun, and a small cabin with smoke rising from its chimney.",
+        "timestamp": "2024-10-25T02:04:43.197000+00:00",
+        "message_id": "1299191884979245117"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A tranquil garden during springtime, with cherry blossom trees in full bloom, petals gently falling onto a calm pond, and a traditional red bridge crossing over the water, with koi fish swimming below.",
+        "timestamp": "2024-10-23T03:10:40.645000+00:00",
+        "message_id": "1298483707988148269"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A powerful waterfall cascading down a cliffside in the middle of a lush jungle, surrounded by thick vines, ferns, and towering trees, with mist rising from the water, and birds flying above.",
+        "timestamp": "2024-10-23T03:10:17.512000+00:00",
+        "message_id": "1298483610961186861"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A vast desert with endless golden dunes, rippling under the heat of the sun, and in the middle, a small oasis with a crystal-clear pond, lush palm trees, and vibrant green vegetation contrasting with the barren sand.",
+        "timestamp": "2024-10-23T03:09:45.295000+00:00",
+        "message_id": "1298483475833425973"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A vast desert with endless golden dunes, rippling under the heat of the sun, and in the middle, a small oasis with a crystal-clear pond, lush palm trees, and vibrant green vegetation contrasting with the barren sand.",
+        "timestamp": "2024-10-23T03:02:15.321000+00:00",
+        "message_id": "1298481588505546802"
+      },
+      {
+        "prompt": "@Roanne@rhymes\nPrompt: A peaceful countryside village with cobblestone streets, stone cottages covered in ivy, surrounded by green rolling hills, with golden wheat fields swaying under a bright afternoon sun.",
+        "timestamp": "2024-10-23T03:00:32.334000+00:00",
+        "message_id": "1298481156546629683"
+      }
+    ],
+    "total_uses": 12
+  },
+  "1062884846709522472": {
+    "username": "juancampos8240",
+    "generations": [
+      {
+        "prompt": "@Juan Campos\nPrompt: un aguila con una serpiente en la boca que llega a posarse en un nopal en medio de un lago",
+        "timestamp": "2024-11-15T02:53:27.849000+00:00",
+        "message_id": "1306814297036427386"
+      },
+      {
+        "prompt": "@Juan Campos\nPrompt: Create a highly realistic video of a sunken city deep beneath the ocean, resembling a lost Atlantis. The city is a blend of ancient and futuristic design, with weathered statues, grand columns, and stone structures intertwined with advanced, decaying technology, like a partially submerged spaceship. The ruins are covered with corals, seaweed, and marine life, adding an eerie yet majestic beauty to the scene. Sunlight filters through the water, casting a mystical glow over the city, giving a sense of mystery and ancient history lost in time",
+        "timestamp": "2024-11-11T20:47:19.938000+00:00",
+        "message_id": "1305634993342517353"
+      },
+      {
+        "prompt": "@Juan Campos\nPrompt: Create an image of a Mexican boy with a face full of hope and wonder, gazing at a television screen showing images of delicious food. The boy’s expression reflects joy and anticipation as he watches, with the warm glow of the TV lighting up his face. The scene should capture a feeling of innocence and dreams, with a cozy and inviting atmosphere",
+        "timestamp": "2024-11-11T20:34:50.968000+00:00",
+        "message_id": "1305631851934650399"
+      },
+      {
+        "prompt": "@Juan Campos\nPrompt: Create an anime-style video featuring ‘Carnes Asadas Victor,’ a bustling taco stand. The stand is lively with people lining up for more tacos, and a rich, delicious aroma fills the air. The owner, a blonde man wearing a cap, is at the grill preparing tacos in large quantities with skill and enthusiasm. The scene feels like a Japanese anime, with exaggerated expressions of joy and excitement from the customers as they eagerly wait for their food.",
+        "timestamp": "2024-11-11T19:15:57.058000+00:00",
+        "message_id": "1305611996477132801"
+      }
+    ],
+    "total_uses": 4
+  },
+  "887175271592128543": {
+    "username": "rodney2359",
+    "generations": [
+      {
+        "prompt": "@Rooster\nPrompt: hadas hermosas en un bosque elfico hyperrealista HD cinematografico",
+        "timestamp": "2024-11-15T01:18:02.743000+00:00",
+        "message_id": "1306790284201426995"
+      }
+    ],
+    "total_uses": 1
+  },
+  "1051673881536122970": {
+    "username": "piololu",
+    "generations": [
+      {
+        "prompt": "@piololu\nPrompt: a mystical floating island with waterfalls cascading into the sky, illustrated in a studio Ghibli-inspired anime style",
+        "timestamp": "2024-11-15T00:33:57.597000+00:00",
+        "message_id": "1306779189655109705"
+      },
+      {
+        "prompt": "@piololu\nPrompt: detailed cinematic dof render of an old dusty detailed CRT monitor on a wooden desk in a dim room with items around, messy dirty room. High detail hard surface render",
+        "timestamp": "2024-11-13T04:58:41.266000+00:00",
+        "message_id": "1306121034860204106"
+      },
+      {
+        "prompt": "@piololu\nPrompt: girl, (beautiful face, cute face, 18 years old), brunette, long straight hair, medieval dress, off shoulder, midriff, (tiny waist, flat stomach, narrow hips):1.4, inside cozy medieval cabin, soft lighting, smiling, blush, looking at viewer, realistic photography,",
+        "timestamp": "2024-11-09T03:33:25.906000+00:00",
+        "message_id": "1304650028022894628"
+      },
+      {
+        "prompt": "@piololu\nPrompt: Realistic access camera footage using a fisheye lens view shows zombies from The Walking Dead approaching the front door. The fisheye effect distorts the edges of the image, enhancing the eerie atmosphere as zombies approach with rotting skin, ragged clothes, and shambling steps. On the dim street outside, the shadows of nearby houses and street lamps were looming. The zombie hesitates, then leans down to peek through the crack in the door, its terrifying face filling the camera's field of view.",
+        "timestamp": "2024-11-07T04:27:12.666000+00:00",
+        "message_id": "1303938786304196688"
+      },
+      {
+        "prompt": "@piololu\nPrompt: The young boy in the 3D-rendered image shifts his weight from one foot to the other, his hands moving to his hips as his expression fluctuates between frustration and confusion. The soft, warm lighting continues to bathe the room, casting gentle shadows from the standing lamp and highlighting the soft rug's texture beneath him.",
+        "timestamp": "2024-11-07T03:33:09.460000+00:00",
+        "message_id": "1303925183312171059"
+      }
+    ],
+    "total_uses": 5
   },
   "1303105335380283554": {
     "username": "andy_21498",
@@ -1147,17 +1410,6 @@
       }
     ],
     "total_uses": 2
-  },
-  "433204656773005322": {
-    "username": "mario_222",
-    "generations": [
-      {
-        "prompt": "@Mario Creation is in queue.(Prompt: Spanish conqueror crying under a tree after being defeated).Author: @Mario",
-        "timestamp": "2024-11-14T07:46:08.666000+00:00",
-        "message_id": "1306525564575809617"
-      }
-    ],
-    "total_uses": 1
   },
   "1305346453920813117": {
     "username": "energetic_tiger_47058",
@@ -4055,37 +4307,6 @@
     ],
     "total_uses": 13
   },
-  "297373777313136641": {
-    "username": "sirfalquian",
-    "generations": [
-      {
-        "prompt": "@SirFalquian\nPrompt: Wide angle, slow motion: A fiery orb levitates in the air, casting an eerie glow over the surrounding darkness. Camera Movement: Rotates around the fireball, capturing its mesmerizing dance. Additional details: The flames flicker and pulse with an otherworldly rhythm, as if alive, and the air around it seems to warp and distort from the intense heat.",
-        "timestamp": "2024-11-11T17:14:59.262000+00:00",
-        "message_id": "1305581555074469911"
-      },
-      {
-        "prompt": "@SirFalquian\nPrompt: Medium close up, dynamic motion: A bonfire burning intensely in the forest. Camera Movement: Circle around the flames, capturing the heat and sparks. Additional details: Smoke billows into the night sky, and the surrounding trees cast long, eerie shadows. Embers float upwards, and the fire crackles and pops, illuminating the darkness.",
-        "timestamp": "2024-11-10T18:58:51.728000+00:00",
-        "message_id": "1305245308065808489"
-      },
-      {
-        "prompt": "@SirFalquian\nPrompt: High angle, slow motion: The sun's surface, viewed up close, with its boiling plasma and intricate solar flares. Camera Movement: Slowly zoom in to capture the immense scale and dynamic activity. Additional details: Intense heat waves distort the view, and the vibrant colors of the corona stand out against the blackness of space.",
-        "timestamp": "2024-11-10T18:52:19.354000+00:00",
-        "message_id": "1305243662329974804"
-      },
-      {
-        "prompt": "@SirFalquian\nPrompt: el sol brillando en el espacio estrellado como si fuera una gran bola de fuego. la camara se mueve lentamente hacia el sol. al fondo se ven las estrellas y las galaxias lejanas",
-        "timestamp": "2024-11-10T17:58:55.159000+00:00",
-        "message_id": "1305230222961938475"
-      },
-      {
-        "prompt": "@SirFalquian\nPrompt: el sol brillando en el espacio como si fuera una gran bola de fuego. la camara se mueve lentamente hacia el sol",
-        "timestamp": "2024-11-10T17:52:21.284000+00:00",
-        "message_id": "1305228570930581575"
-      }
-    ],
-    "total_uses": 5
-  },
   "1094317428948881508": {
     "username": "andrux_senpai",
     "generations": [
@@ -4326,47 +4547,6 @@
       }
     ],
     "total_uses": 1
-  },
-  "425361619590316032": {
-    "username": "magopepo",
-    "generations": [
-      {
-        "prompt": "@elmagopepo\nPrompt: Un niño con pantalones cortos verdes y camisetas a rayas rojas y blancas , ojos grandes estilo dibujo 2d de disney esta lavandose las manos en un cubo con agua que esta sobre el lomo de una cabra blanca que esta mirando con cara de loca , el fono puede verse motanas con colores",
-        "timestamp": "2024-11-10T15:14:26.345000+00:00",
-        "message_id": "1305188830156161118"
-      },
-      {
-        "prompt": "@elmagopepo\nPrompt: Mesi with his Argentina shirt playing with a child, in the background is the humble soccer field of a town, the ground is out of focus highlighting the characters, the style is from Pixar",
-        "timestamp": "2024-11-10T13:28:54.977000+00:00",
-        "message_id": "1305162274474033185"
-      },
-      {
-        "prompt": "@elmagopepo\nPrompt: \"A friendly Disney-style cow dancing salsa on two legs with energy and joy. The cow has a vibrant outfit with colorful suspenders and patches in bright colors, creating a playful and modern look. The cow is smiling widely, showing pure happiness as it dances to the rhythm of the music. It has large, expressive eyes and a dynamic dance posture, one leg lifted mid-spin, showing off its salsa moves. The background features a lively dance floor with colorful lights, enhancing the festive atmosphere. The cow's personality shines through, with its ears and tail bouncing with each movement. The patches on its body are scattered in fun patterns, giving the cow a creative and cheerful vibe, as if it’s the life of the party.\"",
-        "timestamp": "2024-11-10T12:30:54.433000+00:00",
-        "message_id": "1305147676014153779"
-      },
-      {
-        "prompt": "@elmagopepo\nPrompt: \"Una vaca estilo Pixar, animada y amigable, bailando salsa en dos patas con mucha energía y alegría. La vaca tiene un atuendo vibrante, con tirantes coloridos y parches de colores brillantes que cubren su cuerpo en patrones juguetones y modernos. Su expresión es de pura felicidad, con una gran sonrisa y ojos brillantes que reflejan su entusiasmo mientras disfruta de la música. Está en una postura dinámica de baile, levantando un pie mientras gira, mostrando destreza y estilo en sus movimientos. El fondo es una pista de baile iluminada y llena de vida, con luces de colores que resaltan la atmósfera festiva. La vaca tiene una apariencia amigable y cálida, con orejas y cola en movimiento, transmitiendo la sensación de diversión total. Los parches de colores en su cuerpo están colocados de manera artística, haciendo que el atuendo se vea único y alegre. La vaca parece ser el alma de la fiesta, disfrutando del ritmo con cada paso.\"",
-        "timestamp": "2024-11-10T12:15:48.329000+00:00",
-        "message_id": "1305143875538649158"
-      },
-      {
-        "prompt": "@elmagopepo\nPrompt: \"Una vaca estilo Pixar, animada y amigable, bailando salsa en dos patas con mucha energía y alegría. La vaca tiene un atuendo vibrante, con tirantes coloridos y parches de colores brillantes que cubren su cuerpo en patrones juguetones y modernos. Su expresión es de pura felicidad, con una gran sonrisa y ojos brillantes que reflejan su entusiasmo mientras disfruta de la música. Está en una postura dinámica de baile, levantando un pie mientras gira, mostrando destreza y estilo en sus movimientos. El fondo es una pista de baile iluminada y llena de vida, con luces de colores que resaltan la atmósfera festiva. La vaca tiene una apariencia amigable y cálida, con orejas y cola en movimiento, transmitiendo la sensación de diversión total. Los parches de colores en su cuerpo están colocados de manera artística, haciendo que el atuendo se vea único y alegre. La vaca parece ser el alma de la fiesta, disfrutando del ritmo con cada paso.\"",
-        "timestamp": "2024-11-10T12:14:58.436000+00:00",
-        "message_id": "1305143666272374784"
-      },
-      {
-        "prompt": "@elmagopepo\nPrompt: \"Una vaca estilo Pixar, con una apariencia amigable y encantadora, bailando salsa con mucha energía y gracia. La vaca tiene un atuendo alegre con tirantes coloridos y parches de colores brillantes en su cuerpo, creando un estilo único y moderno. Su expresión es sonriente, transmitiendo diversión y felicidad, mientras se mueve al ritmo de la música. El fondo muestra una pista de baile vibrante, iluminada y llena de vida. La vaca tiene detalles de personalidad, con ojos grandes y brillantes, y una postura dinámica como si estuviera disfrutando de la fiesta. Los parches de colores en su cuerpo están dispersos en patrones divertidos, haciendo que el conjunto se vea juguetón y creativo.\"",
-        "timestamp": "2024-11-10T11:52:10.924000+00:00",
-        "message_id": "1305137930511056949"
-      },
-      {
-        "prompt": "@elmagopepo\nPrompt: Un niño esta abrazando a su mama, el dibujo es estilo pixar, el fondo es un parque infantil fuer defoco , los que se destacan en l escen es el niño y su mdre , estan rodedos de un alo angelical de luces de color",
-        "timestamp": "2024-11-10T11:43:22.659000+00:00",
-        "message_id": "1305135714807058452"
-      }
-    ],
-    "total_uses": 7
   },
   "796347993149800459": {
     "username": "paritime",
