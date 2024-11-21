@@ -3,18 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Discord Prompt Usage Statistics</title>
+    <title>Usage Statistics Dashboard</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
     <style>
         :root {
-            --bg-primary: #36393f;
-            --bg-secondary: #2f3136;
-            --bg-tertiary: #202225;
-            --accent-color: #5865f2;
-            --text-primary: #ffffff;
-            --text-secondary: #b9bbbe;
-            --success-color: #43b581;
+            --bg-primary: #f8f9fa;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f1f3f5;
+            --accent-color: #228be6;
+            --text-primary: #212529;
+            --text-secondary: #868e96;
+            --success-color: #40c057;
             --border-radius: 8px;
+            --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
         }
 
         * {
@@ -24,47 +25,40 @@
         }
 
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background-color: var(--bg-primary);
             color: var(--text-primary);
             line-height: 1.5;
-            padding: 20px;
+            padding: 16px;
         }
 
         .dashboard {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             display: grid;
-            gap: 20px;
+            gap: 16px;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-        }
-
-        .card {
-            background-color: var(--bg-secondary);
-            border-radius: var(--border-radius);
-            padding: 20px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
 
         .stats-summary {
             grid-column: 1 / -1;
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 16px;
         }
 
         .stat-card {
-            background-color: var(--bg-tertiary);
+            background-color: var(--bg-secondary);
             padding: 20px;
             border-radius: var(--border-radius);
-            text-align: center;
+            box-shadow: var(--shadow);
         }
 
         .stat-value {
             font-size: 2em;
-            font-weight: bold;
+            font-weight: 600;
             color: var(--accent-color);
-            margin: 10px 0;
+            margin: 8px 0;
         }
 
         .stat-label {
@@ -72,15 +66,45 @@
             font-size: 0.9em;
         }
 
+        .chart-grid {
+            grid-column: 1 / -1;
+            display: grid;
+            gap: 16px;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+        }
+
+        @media (max-width: 768px) {
+            .chart-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .chart-container {
+            background-color: var(--bg-secondary);
+            border-radius: var(--border-radius);
+            padding: 20px;
+            box-shadow: var(--shadow);
+            height: 350px;
+        }
+
         .user-list {
             grid-column: 1 / -1;
+            background-color: var(--bg-secondary);
+            border-radius: var(--border-radius);
+            padding: 20px;
+            box-shadow: var(--shadow);
+        }
+
+        .user-list h2 {
+            margin-bottom: 16px;
+            font-size: 1.2em;
         }
 
         .user-card {
             background-color: var(--bg-tertiary);
-            padding: 15px;
+            padding: 16px;
             border-radius: var(--border-radius);
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -90,7 +114,7 @@
         .user-info {
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 12px;
         }
 
         .user-avatar {
@@ -101,29 +125,33 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            font-weight: bold;
+            font-weight: 500;
+            color: white;
+            font-size: 0.9em;
         }
 
         .usage-stats {
             display: flex;
-            gap: 20px;
+            gap: 16px;
         }
 
         .usage-stat {
             text-align: right;
+            font-size: 0.9em;
         }
 
         .prompt-list {
             display: none;
-            margin-top: 10px;
-            padding: 10px;
-            background-color: var(--bg-primary);
+            margin-top: 8px;
+            padding: 12px;
+            background-color: var(--bg-secondary);
             border-radius: var(--border-radius);
         }
 
         .prompt-item {
-            padding: 10px;
-            border-bottom: 1px solid var(--bg-secondary);
+            padding: 8px;
+            border-bottom: 1px solid var(--bg-tertiary);
+            font-size: 0.9em;
         }
 
         .prompt-item:last-child {
@@ -135,12 +163,14 @@
         }
 
         .growth-negative {
-            color: #f04747;
+            color: #fa5252;
         }
 
-        .chart-container {
-            grid-column: 1 / -1;
-            height: 300px;
+        .chart-title {
+            font-size: 1.1em;
+            font-weight: 500;
+            margin-bottom: 12px;
+            color: var(--text-primary);
         }
     </style>
 </head>
@@ -150,6 +180,7 @@
             <div class="stat-card">
                 <div class="stat-label">总用户数</div>
                 <div class="stat-value" id="totalUsers">-</div>
+                <div class="stat-growth" id="userGrowth"></div>
             </div>
             <div class="stat-card">
                 <div class="stat-label">总提示次数</div>
@@ -162,29 +193,81 @@
             </div>
         </div>
 
-        <div class="card chart-container">
-            <canvas id="usageChart"></canvas>
+        <div class="chart-grid">
+            <div class="chart-container">
+                <div class="chart-title">使用趋势</div>
+                <canvas id="usageChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <div class="chart-title">用户增长趋势</div>
+                <canvas id="userGrowthChart"></canvas>
+            </div>
         </div>
 
-        <div class="card user-list" id="userList">
+        <div class="user-list" id="userList">
             <h2>用户使用排行</h2>
-            <!-- User cards will be inserted here -->
         </div>
     </div>
 
     <script>
         function calculateDailyStats(generations) {
-            const dailyStats = {};
-            generations.forEach(gen => {
+            return generations.reduce((stats, gen) => {
                 const date = new Date(gen.timestamp).toLocaleDateString();
-                dailyStats[date] = (dailyStats[date] || 0) + 1;
-            });
-            return dailyStats;
+                stats[date] = (stats[date] || 0) + 1;
+                return stats;
+            }, {});
+        }
+
+        function calculateUserGrowth(data) {
+            return Object.values(data).reduce((growth, userData) => {
+                const firstDate = new Date(userData.generations[0].timestamp).toLocaleDateString();
+                growth[firstDate] = (growth[firstDate] || 0) + 1;
+                return growth;
+            }, {});
         }
 
         function getGrowthRate(today, yesterday) {
             if (!yesterday) return 100;
             return ((today - yesterday) / yesterday * 100).toFixed(1);
+        }
+
+        function createChart(ctx, labels, data, label, color) {
+            return new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: label,
+                        data: data,
+                        borderColor: color,
+                        backgroundColor: `${color}15`,
+                        fill: true,
+                        tension: 0.3
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: {
+                                color: 'rgba(0, 0, 0, 0.05)'
+                            }
+                        },
+                        x: {
+                            grid: {
+                                display: false
+                            }
+                        }
+                    }
+                }
+            });
         }
 
         fetch('stats.json')
@@ -196,7 +279,6 @@
                 const today = new Date().toLocaleDateString();
                 const yesterday = new Date(Date.now() - 86400000).toLocaleDateString();
 
-                // Transform data for user ranking
                 const userList = Object.entries(data).map(([userId, userData]) => {
                     const dailyStats = calculateDailyStats(userData.generations);
                     totalPrompts += userData.total_uses;
@@ -208,22 +290,56 @@
                         totalUses: userData.total_uses,
                         todayUses: dailyStats[today] || 0,
                         yesterdayUses: dailyStats[yesterday] || 0,
-                        generations: userData.generations
+                        generations: userData.generations,
+                        joinDate: new Date(userData.generations[0].timestamp)
                     };
                 }).sort((a, b) => b.totalUses - a.totalUses);
 
-                // Update summary stats
                 document.getElementById('totalUsers').textContent = totalUsers;
                 document.getElementById('totalPrompts').textContent = totalPrompts;
                 document.getElementById('todayPrompts').textContent = todayPrompts;
 
                 const yesterdayTotal = userList.reduce((sum, user) => sum + user.yesterdayUses, 0);
                 const growth = getGrowthRate(todayPrompts, yesterdayTotal);
-                const growthEl = document.getElementById('promptGrowth');
-                growthEl.textContent = `${growth > 0 ? '+' : ''}${growth}% vs 昨日`;
-                growthEl.className = `stat-growth ${growth >= 0 ? 'growth-positive' : 'growth-negative'}`;
+                const promptGrowthEl = document.getElementById('promptGrowth');
+                promptGrowthEl.textContent = `${growth > 0 ? '+' : ''}${growth}% vs 昨日`;
+                promptGrowthEl.className = `stat-growth ${growth >= 0 ? 'growth-positive' : 'growth-negative'}`;
 
-                // Render user list
+                const userGrowth = calculateUserGrowth(data);
+                const userGrowthDates = Object.keys(userGrowth).sort();
+                let accumUsers = 0;
+                const userGrowthData = userGrowthDates.map(date => (accumUsers += userGrowth[date]));
+
+                createChart(
+                    document.getElementById('userGrowthChart').getContext('2d'),
+                    userGrowthDates,
+                    userGrowthData,
+                    '累计用户数',
+                    '#228be6'
+                );
+
+                const allDates = new Set(
+                    userList.flatMap(user =>
+                        user.generations.map(gen =>
+                            new Date(gen.timestamp).toLocaleDateString()
+                        )
+                    )
+                );
+
+                const dateLabels = Array.from(allDates).sort((a, b) => new Date(a) - new Date(b));
+                const usageData = dateLabels.map(date =>
+                    userList.reduce((sum, user) =>
+                        sum + (calculateDailyStats(user.generations)[date] || 0), 0)
+                );
+
+                createChart(
+                    document.getElementById('usageChart').getContext('2d'),
+                    dateLabels,
+                    usageData,
+                    '每日使用量',
+                    '#40c057'
+                );
+
                 const userListEl = document.getElementById('userList');
                 userList.forEach(user => {
                     const growth = getGrowthRate(user.todayUses, user.yesterdayUses);
@@ -247,20 +363,18 @@
                         </div>
                     `;
 
-                    // Create collapsible prompt list
                     const promptList = document.createElement('div');
                     promptList.className = 'prompt-list';
-                    promptList.innerHTML = user.generations.map(g => `
-                        <div class="prompt-item">
-                            <div>${g.prompt}</div>
-                            <div class="stat-label">${new Date(g.timestamp).toLocaleString()}</div>
-                        </div>
-                    `).join('');
+                    promptList.innerHTML = user.generations
+                        .map(g => `
+                            <div class="prompt-item">
+                                <div>${g.prompt}</div>
+                                <div class="stat-label">${new Date(g.timestamp).toLocaleString()}</div>
+                            </div>
+                        `).join('');
 
-                    // Toggle prompt list visibility
                     userCard.addEventListener('click', () => {
-                        const isVisible = promptList.style.display === 'block';
-                        promptList.style.display = isVisible ? 'none' : 'block';
+                        promptList.style.display = promptList.style.display === 'block' ? 'none' : 'block';
                     });
 
                     const container = document.createElement('div');
@@ -268,68 +382,10 @@
                     container.appendChild(promptList);
                     userListEl.appendChild(container);
                 });
-
-                // Create usage trend chart
-                const ctx = document.getElementById('usageChart').getContext('2d');
-                const allDates = new Set();
-                userList.forEach(user => {
-                    user.generations.forEach(gen => {
-                        allDates.add(new Date(gen.timestamp).toLocaleDateString());
-                    });
-                });
-
-                const dateLabels = Array.from(allDates).sort();
-                const usageData = dateLabels.map(date =>
-                    userList.reduce((sum, user) =>
-                        sum + (calculateDailyStats(user.generations)[date] || 0), 0)
-                );
-
-                new Chart(ctx, {
-                    type: 'line',
-                    data: {
-                        labels: dateLabels,
-                        datasets: [{
-                            label: '每日使用趋势',
-                            data: usageData,
-                            borderColor: '#5865f2',
-                            backgroundColor: 'rgba(88, 101, 242, 0.1)',
-                            fill: true,
-                            tension: 0.4
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        plugins: {
-                            legend: {
-                                display: false
-                            }
-                        },
-                        scales: {
-                            y: {
-                                beginAtZero: true,
-                                grid: {
-                                    color: 'rgba(255, 255, 255, 0.1)'
-                                },
-                                ticks: {
-                                    color: '#b9bbbe'
-                                }
-                            },
-                            x: {
-                                grid: {
-                                    color: 'rgba(255, 255, 255, 0.1)'
-                                },
-                                ticks: {
-                                    color: '#b9bbbe'
-                                }
-                            }
-                        }
-                    }
-                });
             })
             .catch(error => {
-                console.error('Error loading statistics:', error);
-                document.body.innerHTML = '<p style="color: #f04747; padding: 20px;">Failed to load statistics!</p>';
+                console.error('加载统计数据时出错:', error);
+                document.body.innerHTML = '<p style="color: #fa5252; padding: 20px;">无法加载统计数据！</p>';
             });
     </script>
 </body>
