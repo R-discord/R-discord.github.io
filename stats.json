@@ -1,282 +1,62 @@
 {
-  "1301192204999725088": {
-    "username": "chaquito_13080",
-    "generations": [
-      {
-        "prompt": "@chaquito\nPrompt: [Subject] Male samurai warrior, about 35 years old, athletic build, long dark hair tied back in a traditional bun (chonmage), intense brown eyes, wearing black lacquered battle armor with gold details, carrying a sheathed katana at his side and a longbow on his back.  [Expression] Firm and determined gaze, with a slight gesture of concentration on his face, transmitting confidence and discipline. His posture reflects respect and a controlled calm, looking towards the horizon as if assessing the battlefield.  [Action] Standing in a martial stance, with his hands resting gently on the hilt of the katana, ready to draw if necessary. He stands in a moment before battle, with his cape fluttering slightly in the wind.  [Environment] Grassy hill, bordered by a forest of cherry blossoms. In the distance, a traditional Japanese castle (shiro) surrounded by mist and mountains, evoking feudal Japan.  [Historical period in which the action takes place] Japan in the 17th century, during the Edo period.  [Atmosphere] Vibrant sunset with golden and pink tones. Cherry blossom petals floating in the air, creating a poetic contrast with the preparation for battle. Epic and solemn atmosphere.  [Style] Photorealistic, with a cinematic touch inspired by traditional Japanese art.  [Lighting] Golden hour with warm side light that highlights the details of the armor. Soft shadows cast by nearby trees.  [Composition] Centered American shot, slightly low angle to highlight the imposing warrior. Background with soft focus to highlight the main subject.  [Quality] Ultra detailed, professional photography, 8K, with realistic textures and a cinematic quality finish.",
-        "timestamp": "2024-11-27T12:21:53.537000+00:00",
-        "message_id": "1311306001047093361"
-      }
-    ],
-    "total_uses": 1
-  },
-  "314048223889195008": {
-    "username": "kito4233",
-    "generations": [
-      {
-        "prompt": "@Mateamargo\nPrompt: Create a smooth animated video that showcases a timeline going backward in time, starting from the present day. Show modern cities and quickly transition to historical scenes: medieval castles, ancient temples, and finally ancient pyramids. The animation should end at 2400 BCE with a glowing archaeological site in focus, featuring ancient clay artifacts and inscriptions. Use a glowing line or trail to represent the timeline's movement, with dynamic particle effects and lighting transitions to emphasize each historical era. Include warm, golden lighting at the final scene to highlight the discovery and create a mysterious atmosphere, with soft dust particles floating in the air",
-        "timestamp": "2024-11-27T12:18:53.562000+00:00",
-        "message_id": "1311305246177361944"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: Create an animated video of a historical timeline that visually represents the journey back in time from the present day to 2400 BCE. Begin with modern cityscapes and transition through significant historical milestones, such as medieval castles, ancient pyramids, and finally arriving at a glowing archaeological dig site representing the discovery of the world's oldest alphabet. Use a dynamic glowing line or path moving along the timeline, with particles, light trails, and vibrant transitions between eras. The final scene should focus on the ancient tomb and artifacts, highlighted under a warm, golden glow, with subtle atmospheric effects like dust particles and soft lighting to evoke a sense of mystery and discovery",
-        "timestamp": "2024-11-26T14:32:36.942000+00:00",
-        "message_id": "1310976510806589542"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: Generate a cinematic first-person video of a skydiver standing at the open door of an airplane, ready to jump from thousands of feet above the ground. The video starts with the view of the interior of the plane, showing minimal equipment and other skydivers preparing in the background. Focus shifts to the breathtaking view outside the plane: a clear blue sky, distant clouds, and a vast, detailed landscape stretching far below. Include realistic sound effects, such as the wind roaring and the hum of the airplane's engines. Show the skydiver's hands gripping the door frame, creating tension and anticipation. The climax is the skydiver taking a deep breath and leaping into the air, transitioning into an exhilarating freefall with the ground coming closer",
-        "timestamp": "2024-11-22T23:33:49.273000+00:00",
-        "message_id": "1309663158171996163"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: Create a first-person perspective video of a skydiver standing at the edge of an open airplane door, thousands of feet above the ground. The camera captures the vibrant blue sky, the endless horizon, and the sprawling landscape below. The sound includes the roaring wind and the hum of the airplane. The viewer can see the hands of the skydiver gripping the door frame, other skydivers preparing in the background, and the dramatic moment when the skydiver takes a deep breath and leaps into the void, transitioning into freefall. The atmosphere should evoke adrenaline, thrill, and awe",
-        "timestamp": "2024-11-22T22:40:48.311000+00:00",
-        "message_id": "1309649816250220706"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: Create a breathtaking aerial view of the Amazon rainforest, showcasing its vast expanse of lush, green canopy stretching endlessly to the horizon. Include a winding river cutting through the dense jungle, reflecting the sunlight. The atmosphere should feel alive, with hints of mist rising from the treetops and a vibrant array of textures and colors. The scene captures the grandeur and untouched beauty of the rainforest, emphasizing its scale and mystery",
-        "timestamp": "2024-11-22T13:07:19.390000+00:00",
-        "message_id": "1309505494775365692"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: Create a cinematic scene of Percy Fawcett walking through the dense foliage of the Amazon rainforest, accompanied by local indigenous guides. The environment is lush and vibrant, with towering trees, hanging vines, and dappled sunlight filtering through the canopy. Percy is dressed in explorer's attire with a wide-brimmed hat, carrying a map and machete. The locals wear traditional clothing and carry supplies. The atmosphere is mysterious yet awe-inspiring, with hints of wildlife like colorful birds and hidden creatures. Capture the grandeur and untamed beauty of the Amazon jungle.\"",
-        "timestamp": "2024-11-22T12:44:47.695000+00:00",
-        "message_id": "1309499825355620353"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: An eerie and desolate Arctic landscape, with thick layers of ice and snow under a pale, overcast sky. Two abandoned wooden ships, the HMS Erebus and HMS Terror, are trapped in the frozen sea, their masts broken and partially buried in the ice. Scattered around the area are remnants of the expedition: a sled, empty barrels, and torn flags fluttering weakly in the freezing wind. The scene feels lifeless and haunting, with a subtle hint of mystery, as though the silence hides untold stories of survival and despair. The atmosphere is cold, stark, and unforgiving, emphasizing the isolation and tragic fate of the crew",
-        "timestamp": "2024-11-21T14:18:13.230000+00:00",
-        "message_id": "1309160948807761960"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: Show the Spanish Armada setting sail at sunrise, with large wooden ships in formation, their sails emblazoned with the Spanish Cross. The ships glide through calm waters as soldiers and sailors move on deck, preparing for the journey. In the background, Spain’s coastline slowly fades under a warm, glowing sky. The atmosphere feels determined and ambitious, with the sound of waves, creaking wood, and distant horns signaling the start of the voyage",
-        "timestamp": "2024-11-21T13:58:22.731000+00:00",
-        "message_id": "1309155955493044249"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: Start with a wide shot of a bustling Spanish harbor at sunrise, filled with galleons of the Spanish Armada preparing for departure. Sailors load cannons and supplies, while soldiers in ornate uniforms march onto the ships. Shift to a sweeping view of the fleet as it begins to sail, with massive ships cutting through the sparkling water under billowing sails marked with the Spanish Cross. Add close-ups of captains giving orders, banners fluttering in the wind, and the rhythmic creak of wooden decks. Transition to a dramatic overhead shot showing the full scale of the Armada as it moves into the open sea, with Spain's coastline fading into the distance. The soundtrack builds with orchestral swells and drums, evoking a sense of ambition, determination, and the historic significance of the voyage",
-        "timestamp": "2024-11-21T13:50:39.733000+00:00",
-        "message_id": "1309154013538943026"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: digital artwork depicting a medieval scene with a large group of armored knights on horseback. The knights are wearing intricately designed armor with metallic sheen, featuring red plumes on their helmets and carrying round shields emblazoned with a cross. The scene is set during a dramatic sunset, casting a warm golden light over the landscape. In the background, a castle with domed towers and fortified walls is visible, adding to the historical ambiance. The knights are arranged in a formation, suggesting a sense of order and readiness for battle. Banners with cross symbols are held high, fluttering in the breeze. The sky is filled with birds in flight, enhancing the dynamic and epic nature of the scene. The overall composition is balanced, with the knights occupying the foreground and the castle providing a majestic backdrop.",
-        "timestamp": "2024-11-21T12:02:49.876000+00:00",
-        "message_id": "1309126876991852549"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: A high-speed, visually dynamic montage of key moments in world history. Start with a fiery explosion representing the Big Bang, followed by the formation of Earth and the emergence of early life. Transition to ancient civilizations: pyramids rising in Egypt, the Parthenon in Athens, and the Great Wall of China under construction. Flash through the Roman Empire, medieval knights, and bustling Renaissance art workshops. Show the Industrial Revolution with smoking factories, the Wright brothers’ first flight, and rockets launching into space. End with modern cities lighting up at night and a view of Earth from space. The transitions are smooth yet rapid, accompanied by a crescendoing orchestral soundtrack, creating a sense of awe and the unstoppable march of time",
-        "timestamp": "2024-11-20T12:42:46.530000+00:00",
-        "message_id": "1308774541421576212"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: A dramatic scene showing the Byzantine army marching through rugged terrain at dawn, their armor gleaming in the soft golden light. Rows of disciplined soldiers carry spears and shields adorned with intricate Byzantine symbols, while cavalry units ride majestic horses draped in ornate barding. In the background, rolling hills and the distant silhouette of ancient Mesopotamian architecture hint at the journey's destination. The soundscape includes rhythmic marching, the clinking of armor, and the occasional call of a war horn. The atmosphere conveys determination, unity, and a foreboding sense of the challenges ahead, blending historical accuracy with cinematic grandeur.",
-        "timestamp": "2024-11-20T12:17:24.533000+00:00",
-        "message_id": "1308768157703344161"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: A view of planet Earth from space, highlighting the beauty of its oceans and continents under a dark sky filled with stars. Overlaying the Earth's surface are brightly colored climate data graphics, including line graphs and charts representing global temperatures, CO2 levels, and climate trends over time. The graphics are modern and futuristic, with clear digital typography for text and numbers. The lighting is soft, giving a technological and hopeful atmosphere.",
-        "timestamp": "2024-11-19T16:00:54.411000+00:00",
-        "message_id": "1308462014942941207"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: Frozen landscapes of the world with panoramic view",
-        "timestamp": "2024-11-19T14:22:50.622000+00:00",
-        "message_id": "1308437336542937118"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: Planet Earth turned into a snowball seen from space",
-        "timestamp": "2024-11-19T13:28:35.406000+00:00",
-        "message_id": "1308423683177709646"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: A mysterious scene in a barren desert landscape at night, illuminated by a faint moonlight. A large Byzantine army camp is set up, with rows of tents and soldiers’ equipment scattered around. A dense, eerie fog covers the entire camp, creating an atmosphere of mystery and tension. Shadows of soldiers can barely be seen through the fog, as if they are vanishing into the mist. The scene feels otherworldly, with an ominous and unexplainable presence in the air. The style should evoke historical and cinematic drama, emphasizing the surreal and enigmatic elements of the event.",
-        "timestamp": "2024-11-19T12:12:37.523000+00:00",
-        "message_id": "1308404566030815304"
-      },
-      {
-        "prompt": "@Mateamargo\nPrompt: A lush Amazon rainforest shrouded in twilight, with golden rays of sunlight piercing through the dense canopy. In the foreground, evidence of an abandoned expedition: a tattered tent, a scattered map, and a skeletal figure partially covered by foliage. The scene transitions into a mysterious glowing aura deeper in the jungle, hinting at the presence of an ancient, hidden city. Exotic birds and vines frame the setting, while the jungle feels alive with both beauty and danger. The atmosphere is mysterious and adventurous, capturing the allure of exploration and the enigmatic fate of Percy Fawcett and his team",
-        "timestamp": "2024-11-19T11:33:07.966000+00:00",
-        "message_id": "1308394627388276772"
-      }
-    ],
-    "total_uses": 17
-  },
-  "806207459513073724": {
-    "username": ".olivergarcia",
-    "generations": [
-      {
-        "prompt": "@Oliver García\nPrompt: a band of of three white  gangster walking in new york, 1930, sepia",
-        "timestamp": "2024-11-27T04:22:43.979000+00:00",
-        "message_id": "1311185416660975708"
-      },
-      {
-        "prompt": "@Oliver García\nPrompt: a band of of three gangster walking in new york, 1930, sepia",
-        "timestamp": "2024-11-27T04:14:11.614000+00:00",
-        "message_id": "1311183267646672919"
-      },
-      {
-        "prompt": "@Oliver García\nPrompt: chinese young gang in new york 1970, realistic, cinematic, tattoos",
-        "timestamp": "2024-11-09T11:29:28.295000+00:00",
-        "message_id": "1304769827365191711"
-      },
-      {
-        "prompt": "@Oliver García\nPrompt: Depict a dimly lit backroom of an Italian-American social club in the 1940s. Gangsters in dark suits sit around a table cluttered with cash and a few pistols. Cigarette smoke fills the air as one man pours whiskey into a glass. A single hanging light bulb illuminates their intense expressions, casting long shadows on the walls decorated with Italian flags and black-and-white family photos.",
-        "timestamp": "2024-11-08T11:02:38.152000+00:00",
-        "message_id": "1304400686070370345"
-      },
-      {
-        "prompt": "@Oliver García\nPrompt: Show a 1930s New York street at night, with a classic black sedan speeding by. Italian-American gangsters in fedoras and trench coats lean out of the car’s windows, firing Thompson submachine guns. Their faces are illuminated by muzzle flashes, casting dramatic shadows. Vintage streetlights and Art Deco-style storefronts add to the tense atmosphere, with a few civilians scattering in the background",
-        "timestamp": "2024-11-08T10:46:03.958000+00:00",
-        "message_id": "1304396516118757469"
-      },
-      {
-        "prompt": "@Oliver García\nPrompt: Show a classic 1930s gangster scene at night, with a vintage car speeding down a city street. Men in fedoras and trench coats lean out of the car’s windows, firing Thompson submachine guns (Tommy guns) in a rapid spray of bullets. Muzzle flashes briefly illuminate their grim faces as shell casings fly. The street is empty, with shadows cast by old streetlights and storefronts, adding to the dramatic, intense atmosphere of the era.",
-        "timestamp": "2024-11-08T10:38:30.996000+00:00",
-        "message_id": "1304394616258166805"
-      },
-      {
-        "prompt": "@Oliver García\nPrompt: Show two groups of criminals or gangsters negotiating in a dark alley at midnight. One group, dressed in dark suits, stands on one side, while the other, wearing hooded jackets, faces them across the narrow alley. A dim streetlamp flickers above, casting long shadows. Briefcases filled with cash are exchanged quietly, and the atmosphere is tense, with both groups eyeing each other warily. The distant sound of city traffic is muffled by the stillness of the night.",
-        "timestamp": "2024-11-08T10:34:13.414000+00:00",
-        "message_id": "1304393535881089072"
-      },
-      {
-        "prompt": "@Oliver García\nPrompt: two gangsters talking in a little italys restaurant in new york, darkness face, sepia, cinematic",
-        "timestamp": "2024-11-08T10:21:50.245000+00:00",
-        "message_id": "1304390418804506688"
-      }
-    ],
-    "total_uses": 8
-  },
-  "1304936756520685683": {
-    "username": "secallona_",
-    "generations": [
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: “An hiper-realistic elegant and real white butterfly flying in slow motion. It starts in a clear blue sky with soft clouds, moving diagonally towards a starry universe. As it ascends, the environment shifts from sky tones to deep space filled with bright stars, colorful nebulas, and distant galaxies. The transition is smooth and magical, with a cinematic focus on the details of the butterfly’s wings and the contrast between the light of the sky and the vastness of the universe.”",
-        "timestamp": "2024-11-26T21:30:28.421000+00:00",
-        "message_id": "1311081668211118181"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: “An elegant and ethereal white butterfly flying in slow motion. It starts in a clear blue sky with soft clouds, moving diagonally towards a starry universe. As it ascends, the environment shifts from sky tones to deep space filled with bright stars, colorful nebulas, and distant galaxies. The transition is smooth and magical, with a cinematic focus on the details of the butterfly’s wings and the contrast between the light of the sky and the vastness of the universe.”",
-        "timestamp": "2024-11-26T21:23:57.667000+00:00",
-        "message_id": "1311080029270184047"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: vista desde una avioneta justo antes de tirarte en paracaidas",
-        "timestamp": "2024-11-22T19:56:20.309000+00:00",
-        "message_id": "1309608426850226237"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: \"The video showcases a bright and elegant scene with a white and blue marble table as the centerpiece. From a frontal perspective, a golden candelabra holding three lit candles—one white, one pink, and one black—sits in the middle of the table. The background is clear with a soft white mist, adding a mystical yet airy atmosphere. The focus remains on the marble table and the golden candelabra, with no additional objects to distract from the simplicity and beauty of the composition. The overall ambiance is light and ethereal, highlighting the contrast of the candle colors and the intricate marble design",
-        "timestamp": "2024-11-20T11:15:14.675000+00:00",
-        "message_id": "1308752513545273365"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: \"This video features an ethereal, esoteric aesthetic with soft, light colors. The scene is set on a white marble table, captured from a slightly diagonal perspective. The camera sweeps smoothly across the table, revealing a detailed spread of Tarot cards. Surrounding the cards are other esoteric elements: a pair of candles, a burning incense stick releasing thick white smoke, and delicate mystical ornaments. The background is a warm white ochre with subtle golden light accents, creating a serene and magical atmosphere. The focus is on the Tarot cards and the table, ensuring every detail is captured with ultrarealistic precision. The camera movement is gentle, allowing viewers to fully appreciate the intricate design and ambiance of the scene.\"",
-        "timestamp": "2024-11-20T11:14:36.693000+00:00",
-        "message_id": "1308752354237091892"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Create a soft, ethereal video inspired by the esoteric world, representing the connection to the beyond. Use delicate, clear colors such as pastel blues, whites, and silvery tones. Include visual elements like flowing veils, glowing orbs, and flickering candles to symbolize the mystical connection. Show a serene figure meditating in a sacred circle surrounded by faint shimmering auras, with subtle visuals of ancestral spirits or celestial beings emerging softly in the background. The atmosphere should feel calm, otherworldly, and full of wonder, highlighting the transcendence between the physical and the spiritual realms",
-        "timestamp": "2024-11-19T20:03:10.856000+00:00",
-        "message_id": "1308522985212088364"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Central Scene: An ivory-colored bowl, adorned with organic or mystical carvings, filled with dried herbs such as rose petals, lavender, and chamomile. The herbs are softly burning, producing a dense, white, and ethereal smoke that rises in slow, hypnotic spirals.\n\n    Background: Blurred esoteric tools, such as glowing crystals, lit candles, a small mortar with herbs, mystical feathers, and old leather-bound books of sorcery. The lighting is dim, with warm and golden tones, creating a mysterious and enveloping atmosphere.\n\n    Visual Effects and Music: The dense smoke should take center stage, moving in mesmerizing patterns, while the background tools remain barely visible as suggestive silhouettes. Add a faint flicker of candlelight to enhance the mystery. Soft and ethereal background music with Tibetan bells or singing bowl sounds will complete the spiritual ambiance.",
-        "timestamp": "2024-11-19T19:08:54.265000+00:00",
-        "message_id": "1308509326079430671"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: majestic jellyfish, transparent, bioluminescent, macro, realistic high contrast, high resolution, clear water, underwater landscape",
-        "timestamp": "2024-11-19T18:59:28.713000+00:00",
-        "message_id": "1308506953982545932"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: humanoid face transform into alien face, smooth transition, cinematic, realistic, high definition, close look, detailed face",
-        "timestamp": "2024-11-19T17:01:17.040000+00:00",
-        "message_id": "1308477209349984326"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: tree of life moving with the breeze, autum, sunset, cinematic, realistic, high resolution, landscape",
-        "timestamp": "2024-11-18T18:49:48.294000+00:00",
-        "message_id": "1308142131663343646"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Create a visually captivating 5-second time-lapse video showing the magical journey of a bioluminescent fruit tree. Start with a glowing seed germinating in the soil, sprouting into a vibrant sapling, rapidly growing branches and leaves, blossoming with luminous flowers, and finally, transforming into a full-grown tree laden with glowing, mature fruit. The transition should feel like an otherworldly phenomenon, highlighting the magical glow at each stage to captivate viewers.\n8k, realistic, macro lens",
-        "timestamp": "2024-11-12T16:17:28.842000+00:00",
-        "message_id": "1305929470829531190"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Create a visually captivating time-lapse video showing the magical journey of a bioluminescent fruit tree. Start with a glowing seed germinating in the soil, sprouting into a vibrant sapling, rapidly growing branches and leaves, blossoming with luminous flowers, and finally, transforming into a full-grown tree laden with glowing, mature fruit. The transition should feel like an otherworldly phenomenon, highlighting the magical glow at each stage to captivate viewers.",
-        "timestamp": "2024-11-12T14:56:27.427000+00:00",
-        "message_id": "1305909080577277965"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Scene 1 (1 second): Start with a sweeping shot of the rugged alien landscape, focusing on the vast desert-like formations and rugged cliffs. This establishes a sense of otherworldly isolation.\n\nScene 2 (2 seconds): Cut to a quick view of the futuristic structures embedded in the rocky terrain, with vehicles or small figures moving to add life to the scene. Emphasize the advanced technology against the natural landscape.\n\nScene 3 (2 seconds): Zoom in on one of the tall, industrial towers connected by bridges, showcasing the intricate machinery and hinting at human or alien presence. Add subtle motion, like dust or minor movements in the machinery, to enhance realism.\n\n\n---\n\nThe goal is to give viewers a quick glimpse into this sci-fi world, sparking curiosity about the civilization and technology present. This approach can quickly capture attention and leave the viewer wanting more in just a few seconds.",
-        "timestamp": "2024-11-11T23:35:09.286000+00:00",
-        "message_id": "1305677227249107004"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Scene 1: Start with a slow zoom or pan across a dark, mystical cave setting. Focus on the shadows and eerie formations in the cave to set a mysterious tone. Use soft, dim lighting to highlight some parts of the cave to give it depth and intrigue.\n\nScene 2: Gradually reveal the glowing entity, zooming in on its radiant wings and vibrant colors. Use gentle light effects to make the entity’s body and wings shimmer slightly, drawing attention to its ethereal nature.\n\nScene 3: Subtle motion begins in the image, as if the entity is awakening or becoming aware of the viewer’s presence. Light pulsates gently around it, and sparkles or glows might appear briefly on its wings or surroundings to create a magical effect.\n\nFinal Moment: End with a slow fade-out or a gentle dimming effect around the entity, leaving a sense of mystery. Optionally, add a visual call-to-action at the end, like an on-screen prompt or symbol, suggesting the viewer “Follow to discover more” (without text, perhaps with an eye symbol or mystical icon).\n\n\n---\n\nThis structure uses gradual reveals, light pulses, and subtle movements to create a captivating and enigmatic atmosphere without needing subtitles or text. It draws the viewer in through visuals alone, making it ideal for a mysterious, wordless appeal.",
-        "timestamp": "2024-11-11T23:14:32.738000+00:00",
-        "message_id": "1305672040791019571"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: best worst nighmare",
-        "timestamp": "2024-11-11T21:11:50.194000+00:00",
-        "message_id": "1305641160043139117"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: drifting chevrolet apache 1962",
-        "timestamp": "2024-11-11T16:20:15.892000+00:00",
-        "message_id": "1305567783622283267"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Escena 1: Fondo oscuro y elegante con tonos cálidos y dorados.\n\nSe ve una mesa de madera con un paño místico decorado con símbolos esotéricos.\n\nLuces suaves y cálidas iluminan la escena.\n\n\nEscena 2: Entra en foco un par de manos femeninas, delicadas y cuidadas, con uñas pintadas en tonos dorados o azules profundos.\n\nLas manos sostienen una baraja de tarot y comienzan a mezclar las cartas lentamente, con movimientos suaves y pausados.\n\n\nEscena 3: Detalles de las cartas al ser mezcladas.\n\nAlgunas cartas se ven de cerca mientras se deslizan una sobre otra.\n\nLa cámara capta pequeños destellos de luz que se reflejan en los detalles dorados de las cartas y en las manos de la tarotista.\n\n\nEscena 4: Close-up de una carta saliendo de la baraja.\n\nLas manos sacan una carta con mucho cuidado y la colocan boca abajo en la mesa.",
-        "timestamp": "2024-11-11T15:33:11.196000+00:00",
-        "message_id": "1305555935988551771"
-      },
-      {
-        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: manos perfectas de mujer, barajan cartas del tarot, aspecto realista y mistico, uñas pintadas detalladas",
-        "timestamp": "2024-11-11T15:24:44.973000+00:00",
-        "message_id": "1305553812735656088"
-      }
-    ],
-    "total_uses": 18
-  },
-  "1005397584346611752": {
-    "username": "blogllero",
-    "generations": [
-      {
-        "prompt": "@Blogllero\nPrompt: \"A stunning photorealistic scene of a strong Mediterranean woman with light olive skin, dark wavy hair, and deep, expressive eyes, wearing a flowing white dress. She holds a vintage microphone in one hand, ready to sing, while the other hand grips the hilt of a dagger embedded in the ground. The background is surreal and mesmerizing, filled with ethereal pink and magenta hues, blending glowing mist and abstract light shapes. The atmosphere is a mix of passion and mystery, with a dramatic sunset casting soft shadows and highlighting her figure. The image captures both her inner strength and a sense of deep, unspoken love, with a faint breeze making her dress and hair flow gently.\"",
-        "timestamp": "2024-11-26T21:16:15.990000+00:00",
-        "message_id": "1311078092856360981"
-      },
-      {
-        "prompt": "@Blogllero\nPrompt: Create a redesign of the Medmix logo, retaining its core design of a propeller shape as the central element. The new design should integrate layers of symbolism representing the company's focus on dental innovation, industrial advancements, beauty, and medical devices, while emphasizing a strong commitment to environmental sustainability.\n\nKey design features to include:\n\n1. Dental Innovation: Add subtle, abstract tooth-like patterns or curved dental instruments around the edges of the propeller blades, blending seamlessly into the overall design.\n\n\n2. Industrial Advancements: Incorporate fine, metallic textures or gears subtly embossed within the blades, symbolizing precision and engineering.\n\n\n3. Beauty: Integrate flowing, elegant wave-like patterns inspired by cosmetics or hair strands, giving a sense of grace and refinement.\n\n\n4. Medical Devices: Use micro-details resembling syringes, medical cross symbols, or clean lines to hint at cutting-edge medical technology.\n\n\n5. Sustainability: Surround the propeller with soft, gradient-green leaf motifs or circular arrows to evoke eco-friendliness and renewable energy.\n\n\n\nThe color palette should be modern and dynamic:\n\nPrimary: Shades of white, silver, and light blue for innovation and technology.\n\nSecondary: Green accents to highlight sustainability.\n\nTertiary: Soft gold or beige tones to represent beauty and sophistication.\n\n\nThe logo should appear dynamic and forward-moving, with gradients and shadows to create depth and a futuristic appeal. Avoid making it overly complex; instead, focus on clean, harmonious integration of these elements. This logo will be the visual representation of Medmix’s values as expressed in the attached song.",
-        "timestamp": "2024-11-25T20:01:10.594000+00:00",
-        "message_id": "1310696807990300703"
-      },
-      {
-        "prompt": "@Blogllero\nPrompt: Create a redesign of the Medmix logo, retaining its core design of a propeller shape as the central element. The new design should integrate layers of symbolism representing the company's focus on dental innovation, industrial advancements, beauty, and medical devices, while emphasizing a strong commitment to environmental sustainability.\n\nKey design features to include:\n\n1. Dental Innovation: Add subtle, abstract tooth-like patterns or curved dental instruments around the edges of the propeller blades, blending seamlessly into the overall design.\n\n\n2. Industrial Advancements: Incorporate fine, metallic textures or gears subtly embossed within the blades, symbolizing precision and engineering.\n\n\n3. Beauty: Integrate flowing, elegant wave-like patterns inspired by cosmetics or hair strands, giving a sense of grace and refinement.\n\n\n4. Medical Devices: Use micro-details resembling syringes, medical cross symbols, or clean lines to hint at cutting-edge medical technology.\n\n\n5. Sustainability: Surround the propeller with soft, gradient-green leaf motifs or circular arrows to evoke eco-friendliness and renewable energy.\n\n\n\nThe color palette should be modern and dynamic:\n\nPrimary: Shades of white, silver, and light blue for innovation and technology.\n\nSecondary: Green accents to highlight sustainability.\n\nTertiary: Soft gold or beige tones to represent beauty and sophistication.\n\n\nThe logo should appear dynamic and forward-moving, with gradients and shadows to create depth and a futuristic appeal. Avoid making it overly complex; instead, focus on clean, harmonious integration of these elements. This logo will be the visual representation of Medmix’s values as expressed in the attached song.",
-        "timestamp": "2024-11-25T19:54:59.031000+00:00",
-        "message_id": "1310695249542250506"
-      },
-      {
-        "prompt": "@Blogllero\nPrompt: Un niño de 5 años vestido con un disfraz de dinosaurio verde hecho con tarta de pastelería. El niño camina sobre una cuerda que está atada entre dos enormes Lollipops en un mundo imaginario construido de papel de cocina blanco y rosa.",
-        "timestamp": "2024-11-13T20:35:30.610000+00:00",
-        "message_id": "1306356793936445530"
-      },
-      {
-        "prompt": "@Blogllero\nPrompt: la frase \"Biblioteca De Los Secretos Perdidos\" muestra misterio, suspense, música, asombro, magestuosidad",
-        "timestamp": "2024-11-12T06:33:17.408000+00:00",
-        "message_id": "1305782454459695189"
-      }
-    ],
-    "total_uses": 5
-  },
   "567398140492382208": {
     "username": "milm_",
     "generations": [
+      {
+        "prompt": "@milm\nPrompt: The camera shoots a blonde stylish woman sitting in a cafe, the woman looks up in thought, the camera slowly moves to capture the street outside the window, at wintertime. The image shows warm tones, rich colors and a relaxing atmosphere.",
+        "timestamp": "2024-11-28T16:00:00.168000+00:00",
+        "message_id": "1311723278221578344"
+      },
+      {
+        "prompt": "@milm\nPrompt: The camera shoots a woman sitting in a cafe, the woman looks up at the window, the camera slowly moves to capture the street outside the window, the image shows warm tones, rich colors and a relaxing atmosphere.",
+        "timestamp": "2024-11-28T15:57:03.321000+00:00",
+        "message_id": "1311722536471494736"
+      },
+      {
+        "prompt": "@milm\nPrompt: The camera captures a woman sitting in a cafe, the woman looks up in thought, the camera slowly moves to capture the street outside the window, the image is gray in tone, the colors are undersaturated and the atmosphere is somber.",
+        "timestamp": "2024-11-28T15:49:13.412000+00:00",
+        "message_id": "1311720565530165371"
+      },
+      {
+        "prompt": "@milm\nPrompt: The camera shoots a seaside wilderness, the grass is blown by the sea breeze, and in the distance is a vast ocean, the color tone of the picture is warm, and the picture has a warm atmosphere.",
+        "timestamp": "2024-11-28T15:43:16.016000+00:00",
+        "message_id": "1311719066502955073"
+      },
+      {
+        "prompt": "@milm\nPrompt: The camera goes through the window of a café at wintertime and focuses on a  blonde lady in the window. Christmas decoration in the window and in the café.",
+        "timestamp": "2024-11-28T15:20:55.964000+00:00",
+        "message_id": "1311713445917360132"
+      },
+      {
+        "prompt": "@milm\nPrompt: The camera goes through the glass of a café at wintertime and focuses on a dreamer blonde lady in the window. Christmas decoration in the window and in the café.",
+        "timestamp": "2024-11-28T14:50:54.119000+00:00",
+        "message_id": "1311705888431542343"
+      },
+      {
+        "prompt": "@milm\nPrompt: A man on the rooftop of a tall building at night looks down at the city.",
+        "timestamp": "2024-11-28T14:45:55.496000+00:00",
+        "message_id": "1311704635915894877"
+      },
+      {
+        "prompt": "@milm\nPrompt: The camera shoots a modern glass-look high-rise building through a clear glass, the building shimmering with reflected light in the sunlight. The camera then closes in on a window, where reflections on the glass show a bustling cityscape outside. The camera slowly pulls back and through the glass, eventually focusing on a woman in a suit inside the window. She sits in a minimally decorated office, staring intently at a computer screen. Her face appears pensive and introspective in the soft light, contrasting with the hustle and bustle outside the window. The office is decorated in a simple and modern way, emphasizing her focus and introspection.",
+        "timestamp": "2024-11-28T14:01:50.238000+00:00",
+        "message_id": "1311693540899684463"
+      },
+      {
+        "prompt": "@milm\nPrompt: The camera goes through the glass and focuses on a pensive lady in the window.",
+        "timestamp": "2024-11-28T13:44:13.751000+00:00",
+        "message_id": "1311689109672169573"
+      },
+      {
+        "prompt": "@milm\nPrompt: A stylish blonde woman sitting in a café and drinking coffee, gentle light beam on the table, warm familiar atmosphere",
+        "timestamp": "2024-11-28T13:19:16.367000+00:00",
+        "message_id": "1311682829188595732"
+      },
+      {
+        "prompt": "@milm\nPrompt: A stylish blonde woman sitting in a café, gentle lightbeam on the table, warm familiar atmosphere",
+        "timestamp": "2024-11-28T13:14:34.408000+00:00",
+        "message_id": "1311681646566703147"
+      },
       {
         "prompt": "@milm\nPrompt: A contemporary female athlete runs in an ancient Roman stadium or hippodrome.",
         "timestamp": "2024-11-26T19:46:12.651000+00:00",
@@ -658,7 +438,490 @@
         "message_id": "1304021489175101442"
       }
     ],
-    "total_uses": 76
+    "total_uses": 87
+  },
+  "1290543834400555020": {
+    "username": "jiujiu_15182",
+    "generations": [
+      {
+        "prompt": "@jiojio\nPrompt: A Husky is running in the snow, with a helicopter flying in the background and snow covered mountains in the distance. The picture is clear, using static lenses, and has a cinematic quality.",
+        "timestamp": "2024-11-28T06:07:07.550000+00:00",
+        "message_id": "1311574075847741482"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: A female ghost slowly crawled out of the TV, with a horror and movie style",
+        "timestamp": "2024-11-28T06:04:17.207000+00:00",
+        "message_id": "1311573361377280010"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: A woman's memories. She is joyfully walking with her husband along the city street. Sunny morning.",
+        "timestamp": "2024-11-07T07:55:22.108000+00:00",
+        "message_id": "1303991170820476958"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: A young, stylish influencer in an urban setting, wearing short shorts, sitting on a bench with legs apart, exuding a relaxed, confident vibe. The scene is a vibrant street with a mix of modern buildings, trendy cafes, and fashionable storefronts in the background. The influencer's outfit is stylish and casual, blending casual and trendy elements, and the lighting is natural, with soft daylight or golden hour glow, creating a warm, approachable atmosphere. The expression is confident and carefree",
+        "timestamp": "2024-11-07T07:50:54.411000+00:00",
+        "message_id": "1303990048018010153"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: A pedestal shot moves down the face of a tall, rocky cliff. The camera captures the rugged texture of the stone and small plants clinging to the surface, then tilts to reveal a sweeping vista of the valley below.",
+        "timestamp": "2024-11-07T07:41:28.169000+00:00",
+        "message_id": "1303987673026789386"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: A drone swiftly flies over a mountain range.",
+        "timestamp": "2024-11-07T07:40:25.170000+00:00",
+        "message_id": "1303987408790093834"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: a kid skating in a skatepark at the sunset",
+        "timestamp": "2024-11-07T07:39:07.549000+00:00",
+        "message_id": "1303987083224027168"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: A young woman with green hair is playing a Fender Telecaster electric guitar. She appears focused and passionate about her music. The setting is cozy, like a casual room or studio. The classic shape of the Telecaster and the guitar’s tuning knobs are clearly visible, highlighted by warm, soft lighting that accentuates her green hair and the guitar details.",
+        "timestamp": "2024-11-07T07:35:03.884000+00:00",
+        "message_id": "1303986061218676816"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: The transformation of a neglected inner-city lot into a vibrant community sports complex. Time-lapse the construction process, then transition to scenes of diverse groups using the space: children learning to skateboard, elderly people doing tai chi, teenagers playing basketball, and families enjoying picnics. Highlight how the space fosters community connections and promotes active lifestyles.",
+        "timestamp": "2024-10-30T08:05:13.116000+00:00",
+        "message_id": "1301094546763153488"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: A drone camera circles around a beautiful historic church built on a rocky outcropping along the Amalfi Coast, the view showcases historic and magnificent architectural details and tiered pathways and patios",
+        "timestamp": "2024-10-28T03:45:50.193000+00:00",
+        "message_id": "1300304495401631765"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: a real butterfly swimming underwater, dolphins and sharks dancing in the background",
+        "timestamp": "2024-10-25T09:05:59.957000+00:00",
+        "message_id": "1299297903394816011"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: A longboard races downhill on a winding mountain road, the wind whistling past her hair.",
+        "timestamp": "2024-10-25T08:11:48.045000+00:00",
+        "message_id": "1299284263887179889"
+      },
+      {
+        "prompt": "@jiojio\nPrompt: The camera follows behind a red sports car as it speeds up a coastal road, with the ocean stretching out to the horizon on one side and rugged cliffs on the other. The sun glistens off the car's sleek exterior, casting a warm glow over the scene as it accelerates along the winding road. Seagulls soar overhead, their cries mingling with the sound of the waves crashing against the rocks below. The road curves gently into the distance.",
+        "timestamp": "2024-10-25T07:58:23.222000+00:00",
+        "message_id": "1299280888215113748"
+      },
+      {
+        "prompt": "@jiujiu\nPrompt: A longboard races downhill on a winding mountain road, the wind whistling past her hair.",
+        "timestamp": "2024-10-25T07:49:29.071000+00:00",
+        "message_id": "1299278647823175724"
+      }
+    ],
+    "total_uses": 14
+  },
+  "1261039869493514365": {
+    "username": "choger.",
+    "generations": [
+      {
+        "prompt": "@Choger\nPrompt: dust particles colors in the atmosphere",
+        "timestamp": "2024-11-28T01:26:46.667000+00:00",
+        "message_id": "1311503523950624810"
+      },
+      {
+        "prompt": "@Choger\nPrompt: Sparks and particles of colored light falling gently",
+        "timestamp": "2024-11-28T00:26:35.205000+00:00",
+        "message_id": "1311488376381247601"
+      },
+      {
+        "prompt": "@Choger\nPrompt: medium shot of a person with a safety helmet and protective vest riding a bull in a bullring in Latin America",
+        "timestamp": "2024-11-27T17:28:52.338000+00:00",
+        "message_id": "1311383255097933957"
+      },
+      {
+        "prompt": "@Choger\nPrompt: couple of children looking at the sky as their happy faces light up watching fireworks and out-of-focus background lights falling like particles, in medium shot",
+        "timestamp": "2024-11-26T03:20:19.740000+00:00",
+        "message_id": "1310807324318761111"
+      },
+      {
+        "prompt": "@Choger\nPrompt: a yellow gnome house with a layered roof and windows in a forest with many flowers under a hill with a stone path and a wooden gate.",
+        "timestamp": "2024-11-26T02:37:00.946000+00:00",
+        "message_id": "1310796424186953849"
+      }
+    ],
+    "total_uses": 5
+  },
+  "423409220885676034": {
+    "username": "yo_gurt69",
+    "generations": [
+      {
+        "prompt": "@yo_gurt\nPrompt: drone shot of a foggy lake with primitive people growing mushrooms, ancient, megalithic statues of mushrooms",
+        "timestamp": "2024-11-27T23:06:00.572000+00:00",
+        "message_id": "1311468098460717107"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: drone shot of a foggy lake with primitive people growing mushrooms, ancient, megalithic structures, pyramids, giant statues",
+        "timestamp": "2024-11-27T22:54:59.647000+00:00",
+        "message_id": "1311465326340472913"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: drone shot of a foggy valley with primitive people growing mushrooms, ancient, megalithic structures",
+        "timestamp": "2024-11-27T22:41:18.932000+00:00",
+        "message_id": "1311461884012265553"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: drone shot of a foggy plane with primitive people growing mushrooms, megaliths, ancient",
+        "timestamp": "2024-11-27T22:32:02.143000+00:00",
+        "message_id": "1311459548669677671"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: drone shot of a foggy valley with primitive people growing mushrooms, ancient",
+        "timestamp": "2024-11-27T22:25:41.854000+00:00",
+        "message_id": "1311457953622003774"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: morphing liquid shapes, fast, colors, waves",
+        "timestamp": "2024-11-26T15:21:39.010000+00:00",
+        "message_id": "1310988850734039100"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: animated plants transforming into waves of colors, psychedelic, visual animation, 3d, hyperealistic, morphing effect",
+        "timestamp": "2024-11-26T14:40:16.618000+00:00",
+        "message_id": "1310978438827343885"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: hyper realistic of particles generating flowers, 3d, mograph, cinema 4d, unreal engine, animation, cinematic, smooth, studio lightning",
+        "timestamp": "2024-11-10T18:53:42.132000+00:00",
+        "message_id": "1305244009526067261"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: cinematic video of antique megalitic structures in the mist, green grass, cinematic, cinema lighting, wide angle, epic, realistic, hyper realistic, stone henge, paleolithic structures",
+        "timestamp": "2024-11-10T16:37:14.290000+00:00",
+        "message_id": "1305209667227746304"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: cinematic video of antique megalitic structures in the mist, green grass, cinematic, cinema lighting, wide angle, epic, realistic, hyper realistic, stone henge, paleolithic structures",
+        "timestamp": "2024-11-10T16:24:45.281000+00:00",
+        "message_id": "1305206525656301588"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: A wide action shot of a beautiful young light blue skinned woman in 1960s retro-sci-fi space gear, background: an alien planet with grey sky hues, two moons, dinosaurs, strange prehistoric flora, and large alien structures",
+        "timestamp": "2024-11-04T23:41:34.429000+00:00",
+        "message_id": "1303142127596863509"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: a blossoming flower",
+        "timestamp": "2024-11-04T22:51:40.312000+00:00",
+        "message_id": "1303129569360089188"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: rompt: drone shot, flying on a river, fast, cinematic, hyperlapse, fast, motion blur, exiting",
+        "timestamp": "2024-11-04T19:17:38.282000+00:00",
+        "message_id": "1303075705982160938"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: drone shot, flying on a river, fast, cinematic, hyperlapse, fast, motion blur, exiting",
+        "timestamp": "2024-11-04T16:55:49.763000+00:00",
+        "message_id": "1303040018667016324"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: Prompt: Prompt: drone shot, cinematic, medieval battlefield, river, realistic",
+        "timestamp": "2024-11-04T15:08:10.966000+00:00",
+        "message_id": "1303012928508788837"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: Prompt: drone shot, cinematic, medieval battlefield, war, realistic",
+        "timestamp": "2024-11-04T14:49:11.405000+00:00",
+        "message_id": "1303008148843532298"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: drone shot, cinematic, medieval battlefield, war, realistic, stones, sand",
+        "timestamp": "2024-11-04T14:29:14.154000+00:00",
+        "message_id": "1303003127208869908"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: Prompt: Prompt: Realistic documentary shot: The camera documents the daily operations of a blonde digital artist explaining his practice, capturing candid moments of the artist speaking with students, students overseeing computers",
+        "timestamp": "2024-11-04T14:06:17.217000+00:00",
+        "message_id": "1302997351916634185"
+      },
+      {
+        "prompt": "@yo_gurt\nPrompt: Prompt: Realistic documentary shot: The camera documents the daily operations of a digital artist explaining his practice, capturing candid moments of the artist speaking with students, students overseeing computers",
+        "timestamp": "2024-11-04T13:44:40.565000+00:00",
+        "message_id": "1302991913363705991"
+      }
+    ],
+    "total_uses": 19
+  },
+  "1301192204999725088": {
+    "username": "chaquito_13080",
+    "generations": [
+      {
+        "prompt": "@chaquito\nPrompt: [Subject] Male samurai warrior, about 35 years old, athletic build, long dark hair tied back in a traditional bun (chonmage), intense brown eyes, wearing black lacquered battle armor with gold details, carrying a sheathed katana at his side and a longbow on his back.  [Expression] Firm and determined gaze, with a slight gesture of concentration on his face, transmitting confidence and discipline. His posture reflects respect and a controlled calm, looking towards the horizon as if assessing the battlefield.  [Action] Standing in a martial stance, with his hands resting gently on the hilt of the katana, ready to draw if necessary. He stands in a moment before battle, with his cape fluttering slightly in the wind.  [Environment] Grassy hill, bordered by a forest of cherry blossoms. In the distance, a traditional Japanese castle (shiro) surrounded by mist and mountains, evoking feudal Japan.  [Historical period in which the action takes place] Japan in the 17th century, during the Edo period.  [Atmosphere] Vibrant sunset with golden and pink tones. Cherry blossom petals floating in the air, creating a poetic contrast with the preparation for battle. Epic and solemn atmosphere.  [Style] Photorealistic, with a cinematic touch inspired by traditional Japanese art.  [Lighting] Golden hour with warm side light that highlights the details of the armor. Soft shadows cast by nearby trees.  [Composition] Centered American shot, slightly low angle to highlight the imposing warrior. Background with soft focus to highlight the main subject.  [Quality] Ultra detailed, professional photography, 8K, with realistic textures and a cinematic quality finish.",
+        "timestamp": "2024-11-27T12:21:53.537000+00:00",
+        "message_id": "1311306001047093361"
+      }
+    ],
+    "total_uses": 1
+  },
+  "314048223889195008": {
+    "username": "kito4233",
+    "generations": [
+      {
+        "prompt": "@Mateamargo\nPrompt: Create a smooth animated video that showcases a timeline going backward in time, starting from the present day. Show modern cities and quickly transition to historical scenes: medieval castles, ancient temples, and finally ancient pyramids. The animation should end at 2400 BCE with a glowing archaeological site in focus, featuring ancient clay artifacts and inscriptions. Use a glowing line or trail to represent the timeline's movement, with dynamic particle effects and lighting transitions to emphasize each historical era. Include warm, golden lighting at the final scene to highlight the discovery and create a mysterious atmosphere, with soft dust particles floating in the air",
+        "timestamp": "2024-11-27T12:18:53.562000+00:00",
+        "message_id": "1311305246177361944"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: Create an animated video of a historical timeline that visually represents the journey back in time from the present day to 2400 BCE. Begin with modern cityscapes and transition through significant historical milestones, such as medieval castles, ancient pyramids, and finally arriving at a glowing archaeological dig site representing the discovery of the world's oldest alphabet. Use a dynamic glowing line or path moving along the timeline, with particles, light trails, and vibrant transitions between eras. The final scene should focus on the ancient tomb and artifacts, highlighted under a warm, golden glow, with subtle atmospheric effects like dust particles and soft lighting to evoke a sense of mystery and discovery",
+        "timestamp": "2024-11-26T14:32:36.942000+00:00",
+        "message_id": "1310976510806589542"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: Generate a cinematic first-person video of a skydiver standing at the open door of an airplane, ready to jump from thousands of feet above the ground. The video starts with the view of the interior of the plane, showing minimal equipment and other skydivers preparing in the background. Focus shifts to the breathtaking view outside the plane: a clear blue sky, distant clouds, and a vast, detailed landscape stretching far below. Include realistic sound effects, such as the wind roaring and the hum of the airplane's engines. Show the skydiver's hands gripping the door frame, creating tension and anticipation. The climax is the skydiver taking a deep breath and leaping into the air, transitioning into an exhilarating freefall with the ground coming closer",
+        "timestamp": "2024-11-22T23:33:49.273000+00:00",
+        "message_id": "1309663158171996163"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: Create a first-person perspective video of a skydiver standing at the edge of an open airplane door, thousands of feet above the ground. The camera captures the vibrant blue sky, the endless horizon, and the sprawling landscape below. The sound includes the roaring wind and the hum of the airplane. The viewer can see the hands of the skydiver gripping the door frame, other skydivers preparing in the background, and the dramatic moment when the skydiver takes a deep breath and leaps into the void, transitioning into freefall. The atmosphere should evoke adrenaline, thrill, and awe",
+        "timestamp": "2024-11-22T22:40:48.311000+00:00",
+        "message_id": "1309649816250220706"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: Create a breathtaking aerial view of the Amazon rainforest, showcasing its vast expanse of lush, green canopy stretching endlessly to the horizon. Include a winding river cutting through the dense jungle, reflecting the sunlight. The atmosphere should feel alive, with hints of mist rising from the treetops and a vibrant array of textures and colors. The scene captures the grandeur and untouched beauty of the rainforest, emphasizing its scale and mystery",
+        "timestamp": "2024-11-22T13:07:19.390000+00:00",
+        "message_id": "1309505494775365692"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: Create a cinematic scene of Percy Fawcett walking through the dense foliage of the Amazon rainforest, accompanied by local indigenous guides. The environment is lush and vibrant, with towering trees, hanging vines, and dappled sunlight filtering through the canopy. Percy is dressed in explorer's attire with a wide-brimmed hat, carrying a map and machete. The locals wear traditional clothing and carry supplies. The atmosphere is mysterious yet awe-inspiring, with hints of wildlife like colorful birds and hidden creatures. Capture the grandeur and untamed beauty of the Amazon jungle.\"",
+        "timestamp": "2024-11-22T12:44:47.695000+00:00",
+        "message_id": "1309499825355620353"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: An eerie and desolate Arctic landscape, with thick layers of ice and snow under a pale, overcast sky. Two abandoned wooden ships, the HMS Erebus and HMS Terror, are trapped in the frozen sea, their masts broken and partially buried in the ice. Scattered around the area are remnants of the expedition: a sled, empty barrels, and torn flags fluttering weakly in the freezing wind. The scene feels lifeless and haunting, with a subtle hint of mystery, as though the silence hides untold stories of survival and despair. The atmosphere is cold, stark, and unforgiving, emphasizing the isolation and tragic fate of the crew",
+        "timestamp": "2024-11-21T14:18:13.230000+00:00",
+        "message_id": "1309160948807761960"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: Show the Spanish Armada setting sail at sunrise, with large wooden ships in formation, their sails emblazoned with the Spanish Cross. The ships glide through calm waters as soldiers and sailors move on deck, preparing for the journey. In the background, Spain’s coastline slowly fades under a warm, glowing sky. The atmosphere feels determined and ambitious, with the sound of waves, creaking wood, and distant horns signaling the start of the voyage",
+        "timestamp": "2024-11-21T13:58:22.731000+00:00",
+        "message_id": "1309155955493044249"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: Start with a wide shot of a bustling Spanish harbor at sunrise, filled with galleons of the Spanish Armada preparing for departure. Sailors load cannons and supplies, while soldiers in ornate uniforms march onto the ships. Shift to a sweeping view of the fleet as it begins to sail, with massive ships cutting through the sparkling water under billowing sails marked with the Spanish Cross. Add close-ups of captains giving orders, banners fluttering in the wind, and the rhythmic creak of wooden decks. Transition to a dramatic overhead shot showing the full scale of the Armada as it moves into the open sea, with Spain's coastline fading into the distance. The soundtrack builds with orchestral swells and drums, evoking a sense of ambition, determination, and the historic significance of the voyage",
+        "timestamp": "2024-11-21T13:50:39.733000+00:00",
+        "message_id": "1309154013538943026"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: digital artwork depicting a medieval scene with a large group of armored knights on horseback. The knights are wearing intricately designed armor with metallic sheen, featuring red plumes on their helmets and carrying round shields emblazoned with a cross. The scene is set during a dramatic sunset, casting a warm golden light over the landscape. In the background, a castle with domed towers and fortified walls is visible, adding to the historical ambiance. The knights are arranged in a formation, suggesting a sense of order and readiness for battle. Banners with cross symbols are held high, fluttering in the breeze. The sky is filled with birds in flight, enhancing the dynamic and epic nature of the scene. The overall composition is balanced, with the knights occupying the foreground and the castle providing a majestic backdrop.",
+        "timestamp": "2024-11-21T12:02:49.876000+00:00",
+        "message_id": "1309126876991852549"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: A high-speed, visually dynamic montage of key moments in world history. Start with a fiery explosion representing the Big Bang, followed by the formation of Earth and the emergence of early life. Transition to ancient civilizations: pyramids rising in Egypt, the Parthenon in Athens, and the Great Wall of China under construction. Flash through the Roman Empire, medieval knights, and bustling Renaissance art workshops. Show the Industrial Revolution with smoking factories, the Wright brothers’ first flight, and rockets launching into space. End with modern cities lighting up at night and a view of Earth from space. The transitions are smooth yet rapid, accompanied by a crescendoing orchestral soundtrack, creating a sense of awe and the unstoppable march of time",
+        "timestamp": "2024-11-20T12:42:46.530000+00:00",
+        "message_id": "1308774541421576212"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: A dramatic scene showing the Byzantine army marching through rugged terrain at dawn, their armor gleaming in the soft golden light. Rows of disciplined soldiers carry spears and shields adorned with intricate Byzantine symbols, while cavalry units ride majestic horses draped in ornate barding. In the background, rolling hills and the distant silhouette of ancient Mesopotamian architecture hint at the journey's destination. The soundscape includes rhythmic marching, the clinking of armor, and the occasional call of a war horn. The atmosphere conveys determination, unity, and a foreboding sense of the challenges ahead, blending historical accuracy with cinematic grandeur.",
+        "timestamp": "2024-11-20T12:17:24.533000+00:00",
+        "message_id": "1308768157703344161"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: A view of planet Earth from space, highlighting the beauty of its oceans and continents under a dark sky filled with stars. Overlaying the Earth's surface are brightly colored climate data graphics, including line graphs and charts representing global temperatures, CO2 levels, and climate trends over time. The graphics are modern and futuristic, with clear digital typography for text and numbers. The lighting is soft, giving a technological and hopeful atmosphere.",
+        "timestamp": "2024-11-19T16:00:54.411000+00:00",
+        "message_id": "1308462014942941207"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: Frozen landscapes of the world with panoramic view",
+        "timestamp": "2024-11-19T14:22:50.622000+00:00",
+        "message_id": "1308437336542937118"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: Planet Earth turned into a snowball seen from space",
+        "timestamp": "2024-11-19T13:28:35.406000+00:00",
+        "message_id": "1308423683177709646"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: A mysterious scene in a barren desert landscape at night, illuminated by a faint moonlight. A large Byzantine army camp is set up, with rows of tents and soldiers’ equipment scattered around. A dense, eerie fog covers the entire camp, creating an atmosphere of mystery and tension. Shadows of soldiers can barely be seen through the fog, as if they are vanishing into the mist. The scene feels otherworldly, with an ominous and unexplainable presence in the air. The style should evoke historical and cinematic drama, emphasizing the surreal and enigmatic elements of the event.",
+        "timestamp": "2024-11-19T12:12:37.523000+00:00",
+        "message_id": "1308404566030815304"
+      },
+      {
+        "prompt": "@Mateamargo\nPrompt: A lush Amazon rainforest shrouded in twilight, with golden rays of sunlight piercing through the dense canopy. In the foreground, evidence of an abandoned expedition: a tattered tent, a scattered map, and a skeletal figure partially covered by foliage. The scene transitions into a mysterious glowing aura deeper in the jungle, hinting at the presence of an ancient, hidden city. Exotic birds and vines frame the setting, while the jungle feels alive with both beauty and danger. The atmosphere is mysterious and adventurous, capturing the allure of exploration and the enigmatic fate of Percy Fawcett and his team",
+        "timestamp": "2024-11-19T11:33:07.966000+00:00",
+        "message_id": "1308394627388276772"
+      }
+    ],
+    "total_uses": 17
+  },
+  "806207459513073724": {
+    "username": ".olivergarcia",
+    "generations": [
+      {
+        "prompt": "@Oliver García\nPrompt: a band of of three white  gangster walking in new york, 1930, sepia",
+        "timestamp": "2024-11-27T04:22:43.979000+00:00",
+        "message_id": "1311185416660975708"
+      },
+      {
+        "prompt": "@Oliver García\nPrompt: a band of of three gangster walking in new york, 1930, sepia",
+        "timestamp": "2024-11-27T04:14:11.614000+00:00",
+        "message_id": "1311183267646672919"
+      },
+      {
+        "prompt": "@Oliver García\nPrompt: chinese young gang in new york 1970, realistic, cinematic, tattoos",
+        "timestamp": "2024-11-09T11:29:28.295000+00:00",
+        "message_id": "1304769827365191711"
+      },
+      {
+        "prompt": "@Oliver García\nPrompt: Depict a dimly lit backroom of an Italian-American social club in the 1940s. Gangsters in dark suits sit around a table cluttered with cash and a few pistols. Cigarette smoke fills the air as one man pours whiskey into a glass. A single hanging light bulb illuminates their intense expressions, casting long shadows on the walls decorated with Italian flags and black-and-white family photos.",
+        "timestamp": "2024-11-08T11:02:38.152000+00:00",
+        "message_id": "1304400686070370345"
+      },
+      {
+        "prompt": "@Oliver García\nPrompt: Show a 1930s New York street at night, with a classic black sedan speeding by. Italian-American gangsters in fedoras and trench coats lean out of the car’s windows, firing Thompson submachine guns. Their faces are illuminated by muzzle flashes, casting dramatic shadows. Vintage streetlights and Art Deco-style storefronts add to the tense atmosphere, with a few civilians scattering in the background",
+        "timestamp": "2024-11-08T10:46:03.958000+00:00",
+        "message_id": "1304396516118757469"
+      },
+      {
+        "prompt": "@Oliver García\nPrompt: Show a classic 1930s gangster scene at night, with a vintage car speeding down a city street. Men in fedoras and trench coats lean out of the car’s windows, firing Thompson submachine guns (Tommy guns) in a rapid spray of bullets. Muzzle flashes briefly illuminate their grim faces as shell casings fly. The street is empty, with shadows cast by old streetlights and storefronts, adding to the dramatic, intense atmosphere of the era.",
+        "timestamp": "2024-11-08T10:38:30.996000+00:00",
+        "message_id": "1304394616258166805"
+      },
+      {
+        "prompt": "@Oliver García\nPrompt: Show two groups of criminals or gangsters negotiating in a dark alley at midnight. One group, dressed in dark suits, stands on one side, while the other, wearing hooded jackets, faces them across the narrow alley. A dim streetlamp flickers above, casting long shadows. Briefcases filled with cash are exchanged quietly, and the atmosphere is tense, with both groups eyeing each other warily. The distant sound of city traffic is muffled by the stillness of the night.",
+        "timestamp": "2024-11-08T10:34:13.414000+00:00",
+        "message_id": "1304393535881089072"
+      },
+      {
+        "prompt": "@Oliver García\nPrompt: two gangsters talking in a little italys restaurant in new york, darkness face, sepia, cinematic",
+        "timestamp": "2024-11-08T10:21:50.245000+00:00",
+        "message_id": "1304390418804506688"
+      }
+    ],
+    "total_uses": 8
+  },
+  "1304936756520685683": {
+    "username": "secallona_",
+    "generations": [
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: “An hiper-realistic elegant and real white butterfly flying in slow motion. It starts in a clear blue sky with soft clouds, moving diagonally towards a starry universe. As it ascends, the environment shifts from sky tones to deep space filled with bright stars, colorful nebulas, and distant galaxies. The transition is smooth and magical, with a cinematic focus on the details of the butterfly’s wings and the contrast between the light of the sky and the vastness of the universe.”",
+        "timestamp": "2024-11-26T21:30:28.421000+00:00",
+        "message_id": "1311081668211118181"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: “An elegant and ethereal white butterfly flying in slow motion. It starts in a clear blue sky with soft clouds, moving diagonally towards a starry universe. As it ascends, the environment shifts from sky tones to deep space filled with bright stars, colorful nebulas, and distant galaxies. The transition is smooth and magical, with a cinematic focus on the details of the butterfly’s wings and the contrast between the light of the sky and the vastness of the universe.”",
+        "timestamp": "2024-11-26T21:23:57.667000+00:00",
+        "message_id": "1311080029270184047"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: vista desde una avioneta justo antes de tirarte en paracaidas",
+        "timestamp": "2024-11-22T19:56:20.309000+00:00",
+        "message_id": "1309608426850226237"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: \"The video showcases a bright and elegant scene with a white and blue marble table as the centerpiece. From a frontal perspective, a golden candelabra holding three lit candles—one white, one pink, and one black—sits in the middle of the table. The background is clear with a soft white mist, adding a mystical yet airy atmosphere. The focus remains on the marble table and the golden candelabra, with no additional objects to distract from the simplicity and beauty of the composition. The overall ambiance is light and ethereal, highlighting the contrast of the candle colors and the intricate marble design",
+        "timestamp": "2024-11-20T11:15:14.675000+00:00",
+        "message_id": "1308752513545273365"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: \"This video features an ethereal, esoteric aesthetic with soft, light colors. The scene is set on a white marble table, captured from a slightly diagonal perspective. The camera sweeps smoothly across the table, revealing a detailed spread of Tarot cards. Surrounding the cards are other esoteric elements: a pair of candles, a burning incense stick releasing thick white smoke, and delicate mystical ornaments. The background is a warm white ochre with subtle golden light accents, creating a serene and magical atmosphere. The focus is on the Tarot cards and the table, ensuring every detail is captured with ultrarealistic precision. The camera movement is gentle, allowing viewers to fully appreciate the intricate design and ambiance of the scene.\"",
+        "timestamp": "2024-11-20T11:14:36.693000+00:00",
+        "message_id": "1308752354237091892"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Create a soft, ethereal video inspired by the esoteric world, representing the connection to the beyond. Use delicate, clear colors such as pastel blues, whites, and silvery tones. Include visual elements like flowing veils, glowing orbs, and flickering candles to symbolize the mystical connection. Show a serene figure meditating in a sacred circle surrounded by faint shimmering auras, with subtle visuals of ancestral spirits or celestial beings emerging softly in the background. The atmosphere should feel calm, otherworldly, and full of wonder, highlighting the transcendence between the physical and the spiritual realms",
+        "timestamp": "2024-11-19T20:03:10.856000+00:00",
+        "message_id": "1308522985212088364"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Central Scene: An ivory-colored bowl, adorned with organic or mystical carvings, filled with dried herbs such as rose petals, lavender, and chamomile. The herbs are softly burning, producing a dense, white, and ethereal smoke that rises in slow, hypnotic spirals.\n\n    Background: Blurred esoteric tools, such as glowing crystals, lit candles, a small mortar with herbs, mystical feathers, and old leather-bound books of sorcery. The lighting is dim, with warm and golden tones, creating a mysterious and enveloping atmosphere.\n\n    Visual Effects and Music: The dense smoke should take center stage, moving in mesmerizing patterns, while the background tools remain barely visible as suggestive silhouettes. Add a faint flicker of candlelight to enhance the mystery. Soft and ethereal background music with Tibetan bells or singing bowl sounds will complete the spiritual ambiance.",
+        "timestamp": "2024-11-19T19:08:54.265000+00:00",
+        "message_id": "1308509326079430671"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: majestic jellyfish, transparent, bioluminescent, macro, realistic high contrast, high resolution, clear water, underwater landscape",
+        "timestamp": "2024-11-19T18:59:28.713000+00:00",
+        "message_id": "1308506953982545932"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: humanoid face transform into alien face, smooth transition, cinematic, realistic, high definition, close look, detailed face",
+        "timestamp": "2024-11-19T17:01:17.040000+00:00",
+        "message_id": "1308477209349984326"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: tree of life moving with the breeze, autum, sunset, cinematic, realistic, high resolution, landscape",
+        "timestamp": "2024-11-18T18:49:48.294000+00:00",
+        "message_id": "1308142131663343646"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Create a visually captivating 5-second time-lapse video showing the magical journey of a bioluminescent fruit tree. Start with a glowing seed germinating in the soil, sprouting into a vibrant sapling, rapidly growing branches and leaves, blossoming with luminous flowers, and finally, transforming into a full-grown tree laden with glowing, mature fruit. The transition should feel like an otherworldly phenomenon, highlighting the magical glow at each stage to captivate viewers.\n8k, realistic, macro lens",
+        "timestamp": "2024-11-12T16:17:28.842000+00:00",
+        "message_id": "1305929470829531190"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Create a visually captivating time-lapse video showing the magical journey of a bioluminescent fruit tree. Start with a glowing seed germinating in the soil, sprouting into a vibrant sapling, rapidly growing branches and leaves, blossoming with luminous flowers, and finally, transforming into a full-grown tree laden with glowing, mature fruit. The transition should feel like an otherworldly phenomenon, highlighting the magical glow at each stage to captivate viewers.",
+        "timestamp": "2024-11-12T14:56:27.427000+00:00",
+        "message_id": "1305909080577277965"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Scene 1 (1 second): Start with a sweeping shot of the rugged alien landscape, focusing on the vast desert-like formations and rugged cliffs. This establishes a sense of otherworldly isolation.\n\nScene 2 (2 seconds): Cut to a quick view of the futuristic structures embedded in the rocky terrain, with vehicles or small figures moving to add life to the scene. Emphasize the advanced technology against the natural landscape.\n\nScene 3 (2 seconds): Zoom in on one of the tall, industrial towers connected by bridges, showcasing the intricate machinery and hinting at human or alien presence. Add subtle motion, like dust or minor movements in the machinery, to enhance realism.\n\n\n---\n\nThe goal is to give viewers a quick glimpse into this sci-fi world, sparking curiosity about the civilization and technology present. This approach can quickly capture attention and leave the viewer wanting more in just a few seconds.",
+        "timestamp": "2024-11-11T23:35:09.286000+00:00",
+        "message_id": "1305677227249107004"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Scene 1: Start with a slow zoom or pan across a dark, mystical cave setting. Focus on the shadows and eerie formations in the cave to set a mysterious tone. Use soft, dim lighting to highlight some parts of the cave to give it depth and intrigue.\n\nScene 2: Gradually reveal the glowing entity, zooming in on its radiant wings and vibrant colors. Use gentle light effects to make the entity’s body and wings shimmer slightly, drawing attention to its ethereal nature.\n\nScene 3: Subtle motion begins in the image, as if the entity is awakening or becoming aware of the viewer’s presence. Light pulsates gently around it, and sparkles or glows might appear briefly on its wings or surroundings to create a magical effect.\n\nFinal Moment: End with a slow fade-out or a gentle dimming effect around the entity, leaving a sense of mystery. Optionally, add a visual call-to-action at the end, like an on-screen prompt or symbol, suggesting the viewer “Follow to discover more” (without text, perhaps with an eye symbol or mystical icon).\n\n\n---\n\nThis structure uses gradual reveals, light pulses, and subtle movements to create a captivating and enigmatic atmosphere without needing subtitles or text. It draws the viewer in through visuals alone, making it ideal for a mysterious, wordless appeal.",
+        "timestamp": "2024-11-11T23:14:32.738000+00:00",
+        "message_id": "1305672040791019571"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: best worst nighmare",
+        "timestamp": "2024-11-11T21:11:50.194000+00:00",
+        "message_id": "1305641160043139117"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: drifting chevrolet apache 1962",
+        "timestamp": "2024-11-11T16:20:15.892000+00:00",
+        "message_id": "1305567783622283267"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: Escena 1: Fondo oscuro y elegante con tonos cálidos y dorados.\n\nSe ve una mesa de madera con un paño místico decorado con símbolos esotéricos.\n\nLuces suaves y cálidas iluminan la escena.\n\n\nEscena 2: Entra en foco un par de manos femeninas, delicadas y cuidadas, con uñas pintadas en tonos dorados o azules profundos.\n\nLas manos sostienen una baraja de tarot y comienzan a mezclar las cartas lentamente, con movimientos suaves y pausados.\n\n\nEscena 3: Detalles de las cartas al ser mezcladas.\n\nAlgunas cartas se ven de cerca mientras se deslizan una sobre otra.\n\nLa cámara capta pequeños destellos de luz que se reflejan en los detalles dorados de las cartas y en las manos de la tarotista.\n\n\nEscena 4: Close-up de una carta saliendo de la baraja.\n\nLas manos sacan una carta con mucho cuidado y la colocan boca abajo en la mesa.",
+        "timestamp": "2024-11-11T15:33:11.196000+00:00",
+        "message_id": "1305555935988551771"
+      },
+      {
+        "prompt": "@🚬SECALLONA🇪🇸\nPrompt: manos perfectas de mujer, barajan cartas del tarot, aspecto realista y mistico, uñas pintadas detalladas",
+        "timestamp": "2024-11-11T15:24:44.973000+00:00",
+        "message_id": "1305553812735656088"
+      }
+    ],
+    "total_uses": 18
+  },
+  "1005397584346611752": {
+    "username": "blogllero",
+    "generations": [
+      {
+        "prompt": "@Blogllero\nPrompt: \"A stunning photorealistic scene of a strong Mediterranean woman with light olive skin, dark wavy hair, and deep, expressive eyes, wearing a flowing white dress. She holds a vintage microphone in one hand, ready to sing, while the other hand grips the hilt of a dagger embedded in the ground. The background is surreal and mesmerizing, filled with ethereal pink and magenta hues, blending glowing mist and abstract light shapes. The atmosphere is a mix of passion and mystery, with a dramatic sunset casting soft shadows and highlighting her figure. The image captures both her inner strength and a sense of deep, unspoken love, with a faint breeze making her dress and hair flow gently.\"",
+        "timestamp": "2024-11-26T21:16:15.990000+00:00",
+        "message_id": "1311078092856360981"
+      },
+      {
+        "prompt": "@Blogllero\nPrompt: Create a redesign of the Medmix logo, retaining its core design of a propeller shape as the central element. The new design should integrate layers of symbolism representing the company's focus on dental innovation, industrial advancements, beauty, and medical devices, while emphasizing a strong commitment to environmental sustainability.\n\nKey design features to include:\n\n1. Dental Innovation: Add subtle, abstract tooth-like patterns or curved dental instruments around the edges of the propeller blades, blending seamlessly into the overall design.\n\n\n2. Industrial Advancements: Incorporate fine, metallic textures or gears subtly embossed within the blades, symbolizing precision and engineering.\n\n\n3. Beauty: Integrate flowing, elegant wave-like patterns inspired by cosmetics or hair strands, giving a sense of grace and refinement.\n\n\n4. Medical Devices: Use micro-details resembling syringes, medical cross symbols, or clean lines to hint at cutting-edge medical technology.\n\n\n5. Sustainability: Surround the propeller with soft, gradient-green leaf motifs or circular arrows to evoke eco-friendliness and renewable energy.\n\n\n\nThe color palette should be modern and dynamic:\n\nPrimary: Shades of white, silver, and light blue for innovation and technology.\n\nSecondary: Green accents to highlight sustainability.\n\nTertiary: Soft gold or beige tones to represent beauty and sophistication.\n\n\nThe logo should appear dynamic and forward-moving, with gradients and shadows to create depth and a futuristic appeal. Avoid making it overly complex; instead, focus on clean, harmonious integration of these elements. This logo will be the visual representation of Medmix’s values as expressed in the attached song.",
+        "timestamp": "2024-11-25T20:01:10.594000+00:00",
+        "message_id": "1310696807990300703"
+      },
+      {
+        "prompt": "@Blogllero\nPrompt: Create a redesign of the Medmix logo, retaining its core design of a propeller shape as the central element. The new design should integrate layers of symbolism representing the company's focus on dental innovation, industrial advancements, beauty, and medical devices, while emphasizing a strong commitment to environmental sustainability.\n\nKey design features to include:\n\n1. Dental Innovation: Add subtle, abstract tooth-like patterns or curved dental instruments around the edges of the propeller blades, blending seamlessly into the overall design.\n\n\n2. Industrial Advancements: Incorporate fine, metallic textures or gears subtly embossed within the blades, symbolizing precision and engineering.\n\n\n3. Beauty: Integrate flowing, elegant wave-like patterns inspired by cosmetics or hair strands, giving a sense of grace and refinement.\n\n\n4. Medical Devices: Use micro-details resembling syringes, medical cross symbols, or clean lines to hint at cutting-edge medical technology.\n\n\n5. Sustainability: Surround the propeller with soft, gradient-green leaf motifs or circular arrows to evoke eco-friendliness and renewable energy.\n\n\n\nThe color palette should be modern and dynamic:\n\nPrimary: Shades of white, silver, and light blue for innovation and technology.\n\nSecondary: Green accents to highlight sustainability.\n\nTertiary: Soft gold or beige tones to represent beauty and sophistication.\n\n\nThe logo should appear dynamic and forward-moving, with gradients and shadows to create depth and a futuristic appeal. Avoid making it overly complex; instead, focus on clean, harmonious integration of these elements. This logo will be the visual representation of Medmix’s values as expressed in the attached song.",
+        "timestamp": "2024-11-25T19:54:59.031000+00:00",
+        "message_id": "1310695249542250506"
+      },
+      {
+        "prompt": "@Blogllero\nPrompt: Un niño de 5 años vestido con un disfraz de dinosaurio verde hecho con tarta de pastelería. El niño camina sobre una cuerda que está atada entre dos enormes Lollipops en un mundo imaginario construido de papel de cocina blanco y rosa.",
+        "timestamp": "2024-11-13T20:35:30.610000+00:00",
+        "message_id": "1306356793936445530"
+      },
+      {
+        "prompt": "@Blogllero\nPrompt: la frase \"Biblioteca De Los Secretos Perdidos\" muestra misterio, suspense, música, asombro, magestuosidad",
+        "timestamp": "2024-11-12T06:33:17.408000+00:00",
+        "message_id": "1305782454459695189"
+      }
+    ],
+    "total_uses": 5
   },
   "856212637444341801": {
     "username": "alftol",
@@ -873,82 +1136,6 @@
     ],
     "total_uses": 3
   },
-  "423409220885676034": {
-    "username": "yo_gurt69",
-    "generations": [
-      {
-        "prompt": "@yo_gurt\nPrompt: morphing liquid shapes, fast, colors, waves",
-        "timestamp": "2024-11-26T15:21:39.010000+00:00",
-        "message_id": "1310988850734039100"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: animated plants transforming into waves of colors, psychedelic, visual animation, 3d, hyperealistic, morphing effect",
-        "timestamp": "2024-11-26T14:40:16.618000+00:00",
-        "message_id": "1310978438827343885"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: hyper realistic of particles generating flowers, 3d, mograph, cinema 4d, unreal engine, animation, cinematic, smooth, studio lightning",
-        "timestamp": "2024-11-10T18:53:42.132000+00:00",
-        "message_id": "1305244009526067261"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: cinematic video of antique megalitic structures in the mist, green grass, cinematic, cinema lighting, wide angle, epic, realistic, hyper realistic, stone henge, paleolithic structures",
-        "timestamp": "2024-11-10T16:37:14.290000+00:00",
-        "message_id": "1305209667227746304"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: cinematic video of antique megalitic structures in the mist, green grass, cinematic, cinema lighting, wide angle, epic, realistic, hyper realistic, stone henge, paleolithic structures",
-        "timestamp": "2024-11-10T16:24:45.281000+00:00",
-        "message_id": "1305206525656301588"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: A wide action shot of a beautiful young light blue skinned woman in 1960s retro-sci-fi space gear, background: an alien planet with grey sky hues, two moons, dinosaurs, strange prehistoric flora, and large alien structures",
-        "timestamp": "2024-11-04T23:41:34.429000+00:00",
-        "message_id": "1303142127596863509"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: a blossoming flower",
-        "timestamp": "2024-11-04T22:51:40.312000+00:00",
-        "message_id": "1303129569360089188"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: rompt: drone shot, flying on a river, fast, cinematic, hyperlapse, fast, motion blur, exiting",
-        "timestamp": "2024-11-04T19:17:38.282000+00:00",
-        "message_id": "1303075705982160938"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: drone shot, flying on a river, fast, cinematic, hyperlapse, fast, motion blur, exiting",
-        "timestamp": "2024-11-04T16:55:49.763000+00:00",
-        "message_id": "1303040018667016324"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: Prompt: Prompt: drone shot, cinematic, medieval battlefield, river, realistic",
-        "timestamp": "2024-11-04T15:08:10.966000+00:00",
-        "message_id": "1303012928508788837"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: Prompt: drone shot, cinematic, medieval battlefield, war, realistic",
-        "timestamp": "2024-11-04T14:49:11.405000+00:00",
-        "message_id": "1303008148843532298"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: drone shot, cinematic, medieval battlefield, war, realistic, stones, sand",
-        "timestamp": "2024-11-04T14:29:14.154000+00:00",
-        "message_id": "1303003127208869908"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: Prompt: Prompt: Realistic documentary shot: The camera documents the daily operations of a blonde digital artist explaining his practice, capturing candid moments of the artist speaking with students, students overseeing computers",
-        "timestamp": "2024-11-04T14:06:17.217000+00:00",
-        "message_id": "1302997351916634185"
-      },
-      {
-        "prompt": "@yo_gurt\nPrompt: Prompt: Realistic documentary shot: The camera documents the daily operations of a digital artist explaining his practice, capturing candid moments of the artist speaking with students, students overseeing computers",
-        "timestamp": "2024-11-04T13:44:40.565000+00:00",
-        "message_id": "1302991913363705991"
-      }
-    ],
-    "total_uses": 14
-  },
   "819688424520810537": {
     "username": "aziziniut",
     "generations": [
@@ -1012,22 +1199,6 @@
       }
     ],
     "total_uses": 1
-  },
-  "1261039869493514365": {
-    "username": "choger.",
-    "generations": [
-      {
-        "prompt": "@Choger\nPrompt: couple of children looking at the sky as their happy faces light up watching fireworks and out-of-focus background lights falling like particles, in medium shot",
-        "timestamp": "2024-11-26T03:20:19.740000+00:00",
-        "message_id": "1310807324318761111"
-      },
-      {
-        "prompt": "@Choger\nPrompt: a yellow gnome house with a layered roof and windows in a forest with many flowers under a hill with a stone path and a wooden gate.",
-        "timestamp": "2024-11-26T02:37:00.946000+00:00",
-        "message_id": "1310796424186953849"
-      }
-    ],
-    "total_uses": 2
   },
   "1135838426499907594": {
     "username": "adorable_dove_96458",
@@ -8162,72 +8333,6 @@
       }
     ],
     "total_uses": 2
-  },
-  "1290543834400555020": {
-    "username": "jiujiu_15182",
-    "generations": [
-      {
-        "prompt": "@jiojio\nPrompt: A woman's memories. She is joyfully walking with her husband along the city street. Sunny morning.",
-        "timestamp": "2024-11-07T07:55:22.108000+00:00",
-        "message_id": "1303991170820476958"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: A young, stylish influencer in an urban setting, wearing short shorts, sitting on a bench with legs apart, exuding a relaxed, confident vibe. The scene is a vibrant street with a mix of modern buildings, trendy cafes, and fashionable storefronts in the background. The influencer's outfit is stylish and casual, blending casual and trendy elements, and the lighting is natural, with soft daylight or golden hour glow, creating a warm, approachable atmosphere. The expression is confident and carefree",
-        "timestamp": "2024-11-07T07:50:54.411000+00:00",
-        "message_id": "1303990048018010153"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: A pedestal shot moves down the face of a tall, rocky cliff. The camera captures the rugged texture of the stone and small plants clinging to the surface, then tilts to reveal a sweeping vista of the valley below.",
-        "timestamp": "2024-11-07T07:41:28.169000+00:00",
-        "message_id": "1303987673026789386"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: A drone swiftly flies over a mountain range.",
-        "timestamp": "2024-11-07T07:40:25.170000+00:00",
-        "message_id": "1303987408790093834"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: a kid skating in a skatepark at the sunset",
-        "timestamp": "2024-11-07T07:39:07.549000+00:00",
-        "message_id": "1303987083224027168"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: A young woman with green hair is playing a Fender Telecaster electric guitar. She appears focused and passionate about her music. The setting is cozy, like a casual room or studio. The classic shape of the Telecaster and the guitar’s tuning knobs are clearly visible, highlighted by warm, soft lighting that accentuates her green hair and the guitar details.",
-        "timestamp": "2024-11-07T07:35:03.884000+00:00",
-        "message_id": "1303986061218676816"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: The transformation of a neglected inner-city lot into a vibrant community sports complex. Time-lapse the construction process, then transition to scenes of diverse groups using the space: children learning to skateboard, elderly people doing tai chi, teenagers playing basketball, and families enjoying picnics. Highlight how the space fosters community connections and promotes active lifestyles.",
-        "timestamp": "2024-10-30T08:05:13.116000+00:00",
-        "message_id": "1301094546763153488"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: A drone camera circles around a beautiful historic church built on a rocky outcropping along the Amalfi Coast, the view showcases historic and magnificent architectural details and tiered pathways and patios",
-        "timestamp": "2024-10-28T03:45:50.193000+00:00",
-        "message_id": "1300304495401631765"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: a real butterfly swimming underwater, dolphins and sharks dancing in the background",
-        "timestamp": "2024-10-25T09:05:59.957000+00:00",
-        "message_id": "1299297903394816011"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: A longboard races downhill on a winding mountain road, the wind whistling past her hair.",
-        "timestamp": "2024-10-25T08:11:48.045000+00:00",
-        "message_id": "1299284263887179889"
-      },
-      {
-        "prompt": "@jiojio\nPrompt: The camera follows behind a red sports car as it speeds up a coastal road, with the ocean stretching out to the horizon on one side and rugged cliffs on the other. The sun glistens off the car's sleek exterior, casting a warm glow over the scene as it accelerates along the winding road. Seagulls soar overhead, their cries mingling with the sound of the waves crashing against the rocks below. The road curves gently into the distance.",
-        "timestamp": "2024-10-25T07:58:23.222000+00:00",
-        "message_id": "1299280888215113748"
-      },
-      {
-        "prompt": "@jiujiu\nPrompt: A longboard races downhill on a winding mountain road, the wind whistling past her hair.",
-        "timestamp": "2024-10-25T07:49:29.071000+00:00",
-        "message_id": "1299278647823175724"
-      }
-    ],
-    "total_uses": 12
   },
   "1248481220577198103": {
     "username": "judith029078",
