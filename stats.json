@@ -1,4 +1,1369 @@
 {
+  "724280247230660660": {
+    "username": "larry_tsai",
+    "generations": [
+      {
+        "prompt": "@宵宵是个小太阳☀ Creation is in queue.(Prompt: A railway station with a lot of trains.).Author: @宵宵是个小太阳☀",
+        "timestamp": "2024-11-29T11:07:30.935000+00:00",
+        "message_id": "1312012059269140480"
+      },
+      {
+        "prompt": "@宵宵是个小太阳☀\nPrompt: A majestic aerial view of the Hoover Dam and the blue lake. The shot is taken in a sunny day.",
+        "timestamp": "2024-11-21T03:55:51.373000+00:00",
+        "message_id": "1309004325707714632"
+      }
+    ],
+    "total_uses": 2
+  },
+  "915910431669903390": {
+    "username": "noonverse",
+    "generations": [
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A close-up shot of a hand over the heart, symbolic gesture under a darkening sky, shot with a Nikon Z7 II, 50mm lens, soft focus, emotional tones).Author: @noonverse",
+        "timestamp": "2024-11-29T10:01:44.228000+00:00",
+        "message_id": "1311995505580183613"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A wide-angle shot of two groups standing apart after a clash, leaders looking across at each other, twilight setting, shot with a DJI Mavic Air 2, aerial view, muted colors, somber mood).Author: @noonverse",
+        "timestamp": "2024-11-29T10:01:35.998000+00:00",
+        "message_id": "1311995471060795484"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A hand-held shot capturing a chaotic fight between two groups, dynamic movements, intense close-ups, overcast lighting, shot with a GoPro HERO9 Black, action-packed, gritty tones).Author: @noonverse",
+        "timestamp": "2024-11-29T10:01:27.026000+00:00",
+        "message_id": "1311995433429631017"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A slow-motion shot of two groups charging towards each other, dust kicking up, intense motion blur, sunset glow, shot with a Fujifilm GFX 100S, wide-angle lens, warm tones, high energy).Author: @noonverse",
+        "timestamp": "2024-11-29T10:01:16.705000+00:00",
+        "message_id": "1311995390140092428"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A dramatic close-up shot of two men staring each other down across a stage, deep shadows accentuating their expressions, twilight, shot with a Nikon Z7 II, 85mm lens, high contrast, cinematic tones).Author: @noonverse",
+        "timestamp": "2024-11-29T10:01:06.146000+00:00",
+        "message_id": "1311995345852563477"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A panning shot of an opposing crowd standing with banners and intense expressions, sunset casting long shadows, tension-filled atmosphere, shot with a Canon EOS-1D X Mark III, telephoto lens, high contrast).Author: @noonverse",
+        "timestamp": "2024-11-29T10:00:58.266000+00:00",
+        "message_id": "1311995312801579010"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A high-angle wide shot of a crowd cheering and waving flags, faces lit with determination, banners fluttering in the wind, golden hour, shot with a DJI Mavic Air 2, aerial view, vibrant tones).Author: @noonverse",
+        "timestamp": "2024-11-29T10:00:49.194000+00:00",
+        "message_id": "1311995274750726155"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A low-angle tracking shot of a man walking towards a brightly lit stage, crowd cheering in the background, footsteps echoing, dusk setting, shot with a Sony A7S III, 50mm lens, cinematic tones).Author: @noonverse",
+        "timestamp": "2024-11-29T10:00:39.436000+00:00",
+        "message_id": "1311995233822576692"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A symbolic image of two broken swords lying in the dirt, symbolizing the end of conflict, dawn, shot with a DJI Mavic Air 2, close-up shot, muted colors).Author: @noonverse",
+        "timestamp": "2024-11-29T09:52:43.566000+00:00",
+        "message_id": "1311993237879128106"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: Two men wrestling in a dusty outdoor arena, capturing raw power and energy, sunset glow, shot with a Canon EOS-1D X Mark III, telephoto lens, warm tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:52:35.480000+00:00",
+        "message_id": "1311993203964116992"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A construction worker wearing safety gear and following regulations on-site, showcasing discipline, midday light, shot with a Sony A7R IV, wide-angle lens, high contrast).Author: @noonverse",
+        "timestamp": "2024-11-29T09:52:25.295000+00:00",
+        "message_id": "1311993161245261915"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A close-up of a man meticulously following a map with a compass, embodying precision and rule-following, afternoon sun, shot with a Fujifilm GFX 100S, macro lens, vibrant colors).Author: @noonverse",
+        "timestamp": "2024-11-29T09:52:16.381000+00:00",
+        "message_id": "1311993123857104974"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A disciplined line of men entering a place of worship, symbolizing adherence to guidelines, soft morning light, shot with a Nikon Z7 II, telephoto lens, serene tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:51:32.558000+00:00",
+        "message_id": "1311992940050120777"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A close-up of feet stepping over a 'No Trespassing' sign, symbolic of disregard for rules, shot during sunset, shot with a Leica Q2, low-angle shot, muted colors).Author: @noonverse",
+        "timestamp": "2024-11-29T09:51:23.738000+00:00",
+        "message_id": "1311992903056232480"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A man tearing a legal document in frustration in a dimly lit room, focusing on emotion and defiance, candlelight, shot with a Canon EOS-1D X Mark III, shallow depth of field, warm tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:51:03.639000+00:00",
+        "message_id": "1311992818755178558"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A protest scene where individuals are burning rulebooks, symbolizing defiance, twilight, shot with a DJI Mavic Air 2, high-angle view, vibrant colors).Author: @noonverse",
+        "timestamp": "2024-11-29T09:50:54.180000+00:00",
+        "message_id": "1311992779081252865"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A symbolic shot of shattered handcuffs lying on the ground, representing freedom from oppressive laws, early morning light, shot with a Sony A7S III, macro lens, soft focus).Author: @noonverse",
+        "timestamp": "2024-11-29T09:50:45.365000+00:00",
+        "message_id": "1311992742108463105"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A lone figure crossing a \"Do Not Enter\" sign into a restricted area, symbolizing rule-breaking, foggy night, shot with a Nikon Z7 II, 35mm lens, high contrast).Author: @noonverse",
+        "timestamp": "2024-11-29T09:50:36.945000+00:00",
+        "message_id": "1311992706792292443"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A group of masked men vandalizing a wall in an urban street, capturing defiance and rebellion, under streetlights, shot with a Fujifilm GFX 100S, wide-angle lens, dark gritty tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:50:28.309000+00:00",
+        "message_id": "1311992670570156043"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A symbolic image of intertwined hands from different backgrounds, representing unity and strength, shot with a Canon EOS-1D X Mark III, close-up shot, rich sepia tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:49:00.795000+00:00",
+        "message_id": "1311992303510093867"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A circle of men praying together in a serene outdoor setting, embodying brotherhood and faith, early morning mist, shot with a Sony A7R IV, wide-angle lens, soft natural light).Author: @noonverse",
+        "timestamp": "2024-11-29T09:48:50.248000+00:00",
+        "message_id": "1311992259272769568"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A large group of diverse men standing together, holding hands in solidarity, symbolizing unity and brotherhood, sunrise glow, shot with a DJI Mavic Air 2, aerial view, warm tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:48:15.651000+00:00",
+        "message_id": "1311992114162434083"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A close-up of clenched fists raised in confrontation, focusing on tension and aggression, golden hour, shot with a Nikon Z7 II, macro lens, high contrast).Author: @noonverse",
+        "timestamp": "2024-11-29T09:48:05.569000+00:00",
+        "message_id": "1311992071875198981"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: Two opposing groups facing off in a narrow alley, symbolizing conflict escalation, overcast sky, shot with a Leica Q2, medium shot, gritty texture).Author: @noonverse",
+        "timestamp": "2024-11-29T09:47:56.862000+00:00",
+        "message_id": "1311992035355660322"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A chaotic street scene with individuals clashing over ideological differences, capturing raw emotion and tension, twilight, shot with a Fujifilm GFX 100S, telephoto lens, dramatic tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:47:47.090000+00:00",
+        "message_id": "1311991994368786486"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A group of men in traditional attire engaged in a heated theological debate, gesturing passionately, under a canopy of lanterns, late evening, shot with a Sony A7S III, shallow depth of field, warm tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:47:37.467000+00:00",
+        "message_id": "1311991954007003137"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: v).Author: @noonverse",
+        "timestamp": "2024-11-29T09:47:35.544000+00:00",
+        "message_id": "1311991945941487616"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A symbolic wall dividing a group of people standing on opposite sides, emphasizing separation and division, dusk lighting, shot with a Canon EOS-1D X Mark III, wide-angle lens, monochrome palette).Author: @noonverse",
+        "timestamp": "2024-11-29T09:47:27.893000+00:00",
+        "message_id": "1311991913850601494"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A tense gathering of different religious sects in a dimly lit hall, with symbolic decorations, reflecting ideological conflict, soft overhead lighting, shot with a Nikon Z7 II, 85mm lens, muted tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:47:17.615000+00:00",
+        "message_id": "1311991870741680198"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: v).Author: @noonverse",
+        "timestamp": "2024-11-29T09:47:15.506000+00:00",
+        "message_id": "1311991861895761961"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: v).Author: @noonverse",
+        "timestamp": "2024-11-29T09:39:23.599000+00:00",
+        "message_id": "1311989882574475326"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A peaceful morning scene where people greet each other with 'Salam' in a market, bustling energy, soft morning light, shot with a Leica Q2, 35mm lens, natural warm tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:39:16.814000+00:00",
+        "message_id": "1311989854116249662"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A symbolic image of a hand reaching towards the sky under ominous clouds, invoking divine intervention, dramatic lighting, shot with a Fujifilm GFX 100S, telephoto lens, dark tones).Author: @noonverse",
+        "timestamp": "2024-11-29T09:39:06.046000+00:00",
+        "message_id": "1311989808951853069"
+      },
+      {
+        "prompt": "@noonverse Creation is in queue.(Prompt: A large political march moving down a historic avenue, capturing unity and strength, midday light, shot with a DJI Mavic Air 2, aerial view, vibrant palette).Author: @noonverse",
+        "timestamp": "2024-11-29T09:38:55.562000+00:00",
+        "message_id": "1311989764978643046"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A community leader addressing a group of elders and youth around a bonfire, inspiring storytelling, nighttime, shot with a Sony A7R IV, wide-angle lens, warm orange tones",
+        "timestamp": "2024-11-29T09:38:44.938000+00:00",
+        "message_id": "1311989720418484237"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: v",
+        "timestamp": "2024-11-29T09:38:42.621000+00:00",
+        "message_id": "1311989710700285974"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A lone figure spreading flyers in a quiet alley, creating a sense of urgency and determination, twilight, shot with a Nikon Z7 II, 50mm f/1.4 lens, muted colors",
+        "timestamp": "2024-11-29T09:38:35.948000+00:00",
+        "message_id": "1311989682711564358"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up of raindrops falling on an open Quran, emphasizing tranquility amidst a storm, shot during a rainstorm, shot with a Sony A7S III, macro lens, monochrome palette",
+        "timestamp": "2024-11-29T09:38:28.860000+00:00",
+        "message_id": "1311989652982333443"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Two leaders shaking hands in front of a large crowd, symbolizing unity and agreement, bright daylight, shot with a Fujifilm GFX 100S, telephoto lens, natural colors",
+        "timestamp": "2024-11-29T09:38:22.152000+00:00",
+        "message_id": "1311989624847204352"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A political poster being painted on a wall in an urban area, capturing the energy of activism, shot at dawn, shot with a Canon EOS-1D X Mark III, wide-angle lens, vivid tones",
+        "timestamp": "2024-11-29T09:38:17.094000+00:00",
+        "message_id": "1311989603632414740"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A teacher reading the Quran to children in a traditional classroom, calm and focused environment, afternoon sunlight, shot with a Nikon Z7 II, 85mm lens, soft natural light",
+        "timestamp": "2024-11-29T09:38:09.216000+00:00",
+        "message_id": "1311989570589687811"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A caravan of messengers crossing a rural landscape, delivering messages of hope, sunset hues, shot with a DJI Mavic Air 2, aerial view, vibrant colors",
+        "timestamp": "2024-11-29T09:38:02.710000+00:00",
+        "message_id": "1311989543301287970"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A group of people engaging in a heated debate at a cafe, intense expressions and body language, indoor lighting, shot with a Leica Q2, shallow depth of field, warm tones",
+        "timestamp": "2024-11-29T09:37:56.890000+00:00",
+        "message_id": "1311989518890569791"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A family praying together outdoors at sunset, reflecting spirituality and unity, soft golden light, shot with a Sony A7S III, wide-angle lens, rich warm colors",
+        "timestamp": "2024-11-29T09:37:32.667000+00:00",
+        "message_id": "1311989417291943967"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An activist spreading political pamphlets in a crowded market, vibrant energy and motion, midday light, shot with a Fujifilm GFX 100S, 50mm lens, natural tones",
+        "timestamp": "2024-11-29T09:37:25.160000+00:00",
+        "message_id": "1311989385805168641"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A peaceful street scene where children greet each other with 'Salam', joyful expressions, golden hour, shot with a Nikon Z7 II, 35mm lens, warm and soft tones",
+        "timestamp": "2024-11-29T09:37:18.201000+00:00",
+        "message_id": "1311989356617142324"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up of an elderly man’s hands holding prayer beads while reading the Quran, gentle light creating a serene mood, early morning, shot with a Sony A7R IV, macro lens, soft sepia tones",
+        "timestamp": "2024-11-29T09:37:10.943000+00:00",
+        "message_id": "1311989326174752792"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up of an elderly man’s hands holding prayer beads while reading the Quran, gentle light creating a serene mood, early morning, shot with a Sony A7R IV, macro lens, soft sepia tones",
+        "timestamp": "2024-11-29T09:37:03.437000+00:00",
+        "message_id": "1311989294692302890"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A political leader addressing a crowd in a town square, inspiring hope and unity, under bright sunlight, shot with a Canon EOS-1D X Mark III, telephoto lens, vibrant tones",
+        "timestamp": "2024-11-29T09:36:56.565000+00:00",
+        "message_id": "1311989265869049960"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A smiling child greeting elders with a 'Salam' at a community gathering, gentle ambiance, sunset, shot with a Fujifilm GFX 100S, 85mm lens, warm colors",
+        "timestamp": "2024-11-29T09:36:46.324000+00:00",
+        "message_id": "1311989222915440730"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A lone figure praying under the open sky, with dark clouds looming above, symbolic of divine wrath, shot with a Nikon Z7 II, telephoto lens, dramatic tones",
+        "timestamp": "2024-11-29T09:36:39.840000+00:00",
+        "message_id": "1311989195719311402"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An aerial shot of a political parade moving through a historic city street, flags waving, midday light, shot with a DJI Mavic Air 2, high contrast, vivid colors",
+        "timestamp": "2024-11-29T09:36:32.661000+00:00",
+        "message_id": "1311989165608402986"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A family reading the Quran together in a cozy living room, radiating warmth and connection, evening light, shot with a Sony A7S III, wide-angle lens, vibrant colors",
+        "timestamp": "2024-11-29T09:35:56.913000+00:00",
+        "message_id": "1311989015670427751"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up shot of hands greeting each other with 'Salam' in a traditional setting, warm expressions, candlelight, shot with a Leica Q2, shallow depth of field, soft monochrome",
+        "timestamp": "2024-11-29T09:35:48.966000+00:00",
+        "message_id": "1311988982338289685"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A messenger walking through a serene village, delivering letters, exuding a sense of duty, late afternoon glow, shot with a Fujifilm GFX 100S, 35mm lens, pastel colors",
+        "timestamp": "2024-11-29T09:35:40.992000+00:00",
+        "message_id": "1311988948893175888"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A dramatic scene of a thunderstorm over a bustling city skyline, symbolizing divine wrath, dark clouds with lightning, twilight, shot with a DJI Mavic Air 2, aerial shot, high contrast",
+        "timestamp": "2024-11-29T09:35:33.235000+00:00",
+        "message_id": "1311988916357955608"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Two people engaged in a heated political debate in a public park, with animated gestures, capturing tension and emotion, midday sunlight, shot with a Sony A7R IV, 85mm lens, natural tones",
+        "timestamp": "2024-11-29T09:35:24.936000+00:00",
+        "message_id": "1311988881549168652"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up of hands holding the Quran with delicate sunlight filtering through a window, emphasizing reverence and devotion, early morning light, shot with a Nikon Z7 II, 50mm f/1.4 lens, soft warm tones",
+        "timestamp": "2024-11-29T09:33:42.302000+00:00",
+        "message_id": "1311988451071098900"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A group of diverse people waving political party flags at a vibrant street rally, a sense of unity and determination, golden hour, shot with a Canon EOS-1D X Mark III, wide-angle lens, vivid colors",
+        "timestamp": "2024-11-29T09:29:25.536000+00:00",
+        "message_id": "1311987374116573225"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An extreme wide shot of a vast, empty desert at night, illuminated only by the light of a crescent moon, a solitary figure walking in the distance, captured with a Sony A7S III, low light, high ISO, monochrome palette",
+        "timestamp": "2024-11-12T06:40:23.464000+00:00",
+        "message_id": "1305784241467949068"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up shot of a hand holding prayer beads, fingers trembling slightly, against a backdrop of dark storm clouds, shot with a Nikon Z7 II, 85mm lens, shallow depth of field, high contrast",
+        "timestamp": "2024-11-12T06:40:16.234000+00:00",
+        "message_id": "1305784211143266336"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A bird’s-eye view of a majestic mosque surrounded by flooded streets after a heavy storm, worshippers wading through the water to reach the entrance, captured with a DJI Mavic Air 2, vivid colors, and reflective surfaces",
+        "timestamp": "2024-11-12T06:40:07.484000+00:00",
+        "message_id": "1305784174443237426"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A low-angle shot of a group of scholars sitting around a dimly lit table, discussing scriptures with intensity, the room filled with old books and scrolls, shot with a Fujifilm GFX 100S, warm ambient light, rich textures",
+        "timestamp": "2024-11-12T06:39:59.073000+00:00",
+        "message_id": "1305784139164680244"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A dramatic wide shot of a mountain village engulfed by a fast-approaching thunderstorm, villagers looking up in fear, trees swaying in the strong winds, captured with a DJI Mavic Air 2, vivid greens and dark grays, high contrast",
+        "timestamp": "2024-11-12T06:39:51.828000+00:00",
+        "message_id": "1305784108777209877"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A full-body shot of a young man kneeling on a prayer mat in an empty mosque at night, his face illuminated by the soft glow of moonlight streaming through a window, shot with a Sony A7R IV, 50mm lens, soft blue tones, and shadows",
+        "timestamp": "2024-11-12T06:39:44.722000+00:00",
+        "message_id": "1305784078972227646"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up portrait of a crying child clutching a piece of bread, standing amidst ruins, his eyes reflecting both fear and hope, shot with a Leica Q2, monochrome, shallow depth of field",
+        "timestamp": "2024-11-12T06:39:36.666000+00:00",
+        "message_id": "1305784045182914601"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A medium shot of a lone man walking through a cemetery at dusk, the sky painted in shades of orange and purple, his silhouette stark against the setting sun, captured with a Nikon Z7 II, 50mm f/1.4 lens, rich sepia tones",
+        "timestamp": "2024-11-12T06:39:28.837000+00:00",
+        "message_id": "1305784012345835540"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An extreme wide shot of a devastated coastal town hit by a recent tsunami, broken boats scattered along the shore, dark clouds hanging overhead, shot with a DJI Mavic Air 2, high contrast, cool tones",
+        "timestamp": "2024-11-12T06:39:21.574000+00:00",
+        "message_id": "1305783981882478664"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A high-angle shot of a crowded prayer hall during Friday prayers, with worshippers bowing in unison, the light filtering through stained glass windows creating colorful reflections on the floor, captured with a Canon EOS-1D X Mark III, shallow depth of field, vibrant tones",
+        "timestamp": "2024-11-12T06:39:13.338000+00:00",
+        "message_id": "1305783947338317886"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up shot of a flickering candle in a dark room, surrounded by pages of the Quran scattered around, the flame symbolizing fragile hope in the darkness, shot with a Fujifilm GFX 100S, macro lens, soft warm glow",
+        "timestamp": "2024-11-12T06:39:06.539000+00:00",
+        "message_id": "1305783918821376042"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A bird’s-eye view of a bustling Middle Eastern city market suddenly emptying as people rush indoors to avoid an unexpected downpour, the wet cobblestone streets reflecting the vibrant market lights, shot with a DJI Mavic Air 2, vivid colors",
+        "timestamp": "2024-11-12T06:38:46.289000+00:00",
+        "message_id": "1305783833886457878"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A worm’s-eye view of an ominous, dark sky with storm clouds swirling as if preparing to unleash a tornado, with palm trees swaying violently in the wind, shot with a GoPro HERO9 Black, extreme wide shot, high contrast, and deep shadows",
+        "timestamp": "2024-11-12T06:38:38.774000+00:00",
+        "message_id": "1305783802366394378"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A dramatic shot of a raging sea under a stormy sky, waves crashing against a cliffside mosque, birds flying frantically against the wind, captured with a Sony A7R IV, 28mm lens, vibrant blue and gray tones, high contrast",
+        "timestamp": "2024-11-12T06:38:28.507000+00:00",
+        "message_id": "1305783759303479300"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A medium shot of an elderly man sitting in a small, cluttered room surrounded by Islamic books, deep in thought, soft light filtering through a single window, shot with a Leica Q2, monochrome, emphasizing shadows and textures",
+        "timestamp": "2024-11-12T06:38:20.469000+00:00",
+        "message_id": "1305783725589528616"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A wide-angle shot of a village submerged in knee-deep water after a torrential flood, people wading through with distressed expressions, the sky heavy with dark clouds, captured with a Canon EOS-1D X Mark III, telephoto lens, moody and desaturated color palette",
+        "timestamp": "2024-11-12T06:38:11.781000+00:00",
+        "message_id": "1305783689149546547"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A high-angle shot of an arid desert landscape with cracked earth stretching into the horizon, a lone traveler in traditional attire walking barefoot with a staff, dark clouds gathering in the distance, shot with a DJI Mavic Air 2, dramatic lighting, high contrast",
+        "timestamp": "2024-11-12T06:37:59.835000+00:00",
+        "message_id": "1305783639044526080"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A full-body shot of a bearded imam standing at the pulpit of an old, grand mosque, delivering a sermon with a raised hand, the congregation listening intently in the dim, golden glow of candlelight, shot with a Fujifilm GFX 100S, 50mm lens, warm tones, shallow depth of field",
+        "timestamp": "2024-11-12T06:37:49.515000+00:00",
+        "message_id": "1305783595759173652"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A portrait shot of a child standing alone amidst the ruins of his home after a flood, with a look of sadness and bewilderment, captured during overcast weather, using a Nikon Z7 II, shallow depth of field, muted colors",
+        "timestamp": "2024-11-12T06:37:23.393000+00:00",
+        "message_id": "1305783486195568651"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A low angle shot of an intense lightning storm over an ancient city, lightning bolts striking in the background, captured with a Sony A7S III, macro lens, vivid electric blue tones, and high contrast",
+        "timestamp": "2024-11-12T06:37:15.424000+00:00",
+        "message_id": "1305783452771156021"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A worm’s-eye view of a grand mosque’s entrance during heavy rainfall, water flowing down the stairs, people rushing for shelter, the mosque illuminated against the dark stormy sky, shot with a Canon EOS-1D X Mark III, telephoto lens, rich blue tones",
+        "timestamp": "2024-11-12T06:37:05.312000+00:00",
+        "message_id": "1305783410358222880"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up portrait of a young man holding a Quran, his eyes filled with determination and regret, a single tear rolling down his cheek, soft lighting highlighting his facial features, shot with a Leica Q2, monochrome palette",
+        "timestamp": "2024-11-12T06:36:55.675000+00:00",
+        "message_id": "1305783369937850378"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A bird’s-eye view of a massive tornado tearing through a rural village, debris flying in the air, dark clouds swirling, houses being destroyed in real-time, shot with a DJI Mavic Air 2 drone, vivid colors with dramatic contrast",
+        "timestamp": "2024-11-12T06:36:48.651000+00:00",
+        "message_id": "1305783340476928023"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A medium shot of a pious woman standing in her prayer room at dawn, tears streaming down her face as she prays with devotion, the soft glow of dawn light filtering through a window, captured with a Sony A7R IV, shallow depth of field, pastel tones",
+        "timestamp": "2024-11-12T06:36:41.094000+00:00",
+        "message_id": "1305783308780834828"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An extreme wide shot of a barren, cracked earth landscape under a relentless sun, with a lone figure standing in the distance, arms raised to the sky in a plea, dramatic shadows cast by the setting sun, captured using a DJI Mavic Air 2 drone, high contrast, golden hour lighting",
+        "timestamp": "2024-11-12T06:36:33.708000+00:00",
+        "message_id": "1305783277801443359"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A high-angle shot of a group of people praying fervently in the middle of a bustling city square during heavy rain, their expressions of desperation captured amidst the pouring rain, shot with a Fujifilm GFX 100S, wide angle, natural light with rain droplets glistening",
+        "timestamp": "2024-11-12T06:36:25.051000+00:00",
+        "message_id": "1305783241491480650"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up shot of an elderly religious scholar, his face etched with deep lines, reflecting sorrow and contemplation, sitting in a dimly lit mosque, surrounded by ancient scriptures, soft candlelight creating shadows, shot with a Nikon Z7 II, 50mm f/1.4 lens, warm sepia tones",
+        "timestamp": "2024-11-12T06:36:16.625000+00:00",
+        "message_id": "1305783206150144021"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A dramatic wide shot of a devastated town submerged in floodwaters, with dark storm clouds looming overhead, people clinging to rooftops for survival, intense chaos in the air, shot during twilight with low-light conditions, using a Sony A7S III, shallow depth of field, muted and desaturated tones",
+        "timestamp": "2024-11-12T06:36:03.263000+00:00",
+        "message_id": "1305783150105853973"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: king paroah in the palace ordering others",
+        "timestamp": "2024-11-11T15:51:24.041000+00:00",
+        "message_id": "1305560519712968822"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: pharoah in the palace on the throne",
+        "timestamp": "2024-11-11T15:51:11.221000+00:00",
+        "message_id": "1305560465941725254"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: don't giving respect",
+        "timestamp": "2024-11-11T15:49:50.422000+00:00",
+        "message_id": "1305560127046156428"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: people shouting at king",
+        "timestamp": "2024-11-11T15:49:37.316000+00:00",
+        "message_id": "1305560072075739181"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: people starting doing joke on king",
+        "timestamp": "2024-11-11T15:49:32.598000+00:00",
+        "message_id": "1305560052286886030"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: stopping people from doing wrong",
+        "timestamp": "2024-11-11T15:48:26.152000+00:00",
+        "message_id": "1305559773592420396"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: people making fun of everything",
+        "timestamp": "2024-11-11T15:48:07.315000+00:00",
+        "message_id": "1305559694584188929"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: making ownself responsible",
+        "timestamp": "2024-11-11T15:47:33.290000+00:00",
+        "message_id": "1305559551873122396"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: strictness to other people",
+        "timestamp": "2024-11-11T15:47:19.010000+00:00",
+        "message_id": "1305559491978199071"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: construction worker making homes and walls",
+        "timestamp": "2024-11-11T15:46:51.116000+00:00",
+        "message_id": "1305559374982549606"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: ordering workers to make floor",
+        "timestamp": "2024-11-11T15:46:37.715000+00:00",
+        "message_id": "1305559318774415380"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: flesh to bone tranisition and zoom",
+        "timestamp": "2024-11-11T15:46:03.303000+00:00",
+        "message_id": "1305559174440030299"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: tranisition from human flesh to inside bones",
+        "timestamp": "2024-11-11T15:45:50.693000+00:00",
+        "message_id": "1305559121549856832"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: walls inside a room",
+        "timestamp": "2024-11-11T15:45:34.955000+00:00",
+        "message_id": "1305559055539896371"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: holding book in hand and speaking to large audience and smiling",
+        "timestamp": "2024-11-11T15:44:42.944000+00:00",
+        "message_id": "1305558837390086237"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: holding books in hands and talking to audience",
+        "timestamp": "2024-11-11T15:44:29.813000+00:00",
+        "message_id": "1305558782314811422"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: people seeking praise from audience",
+        "timestamp": "2024-11-11T15:44:07.241000+00:00",
+        "message_id": "1305558687640846407"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: a house inside heart tranisition",
+        "timestamp": "2024-11-11T15:43:52.560000+00:00",
+        "message_id": "1305558626064138281"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: famous people lying",
+        "timestamp": "2024-11-11T15:43:27.533000+00:00",
+        "message_id": "1305558521093558343"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: telling lies just to become famous",
+        "timestamp": "2024-11-11T15:43:21.542000+00:00",
+        "message_id": "1305558495965216780"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: not speaking truth to audence",
+        "timestamp": "2024-11-11T15:43:11.187000+00:00",
+        "message_id": "1305558452533329960"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: talking strictly to people",
+        "timestamp": "2024-11-11T15:42:47.450000+00:00",
+        "message_id": "1305558352973004813"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: humans departed into tribes",
+        "timestamp": "2024-11-11T15:42:21.646000+00:00",
+        "message_id": "1305558244743184397"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: have no connection between human",
+        "timestamp": "2024-11-11T15:42:10.376000+00:00",
+        "message_id": "1305558197473640461"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: people coming in front of big cloudy and seeking shelter",
+        "timestamp": "2024-11-11T15:41:28.383000+00:00",
+        "message_id": "1305558021341970495"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: people gathering in day of judgement",
+        "timestamp": "2024-11-11T15:41:00.019000+00:00",
+        "message_id": "1305557902374867097"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: piece of treasure distributed between people",
+        "timestamp": "2024-11-11T15:40:41.938000+00:00",
+        "message_id": "1305557826537652245"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: imagine having piece of money",
+        "timestamp": "2024-11-11T15:40:30.536000+00:00",
+        "message_id": "1305557778714333268"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: having piece of inheritence",
+        "timestamp": "2024-11-11T15:40:22.039000+00:00",
+        "message_id": "1305557743075201074"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: people gathering money",
+        "timestamp": "2024-11-11T15:39:40.692000+00:00",
+        "message_id": "1305557569653182494"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: politician taking benefits",
+        "timestamp": "2024-11-11T15:39:32.671000+00:00",
+        "message_id": "1305557536010932285"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: making fun of a old man",
+        "timestamp": "2024-11-11T15:39:07.774000+00:00",
+        "message_id": "1305557431585341483"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: talking politely to audience",
+        "timestamp": "2024-11-11T15:38:59.775000+00:00",
+        "message_id": "1305557398034845814"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: a gift of beautiful books",
+        "timestamp": "2024-11-11T15:38:22.723000+00:00",
+        "message_id": "1305557242627489824"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: beautiful gift as a book",
+        "timestamp": "2024-11-11T15:38:09.695000+00:00",
+        "message_id": "1305557187984228393"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: planet earth eating human",
+        "timestamp": "2024-11-11T15:37:39.915000+00:00",
+        "message_id": "1305557063077990464"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: world trapped human being inside",
+        "timestamp": "2024-11-11T15:37:33.500000+00:00",
+        "message_id": "1305557036171268126"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: the end of time",
+        "timestamp": "2024-11-11T15:37:09.276000+00:00",
+        "message_id": "1305556934568444030"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: a strom coming from sky",
+        "timestamp": "2024-11-11T15:37:02.865000+00:00",
+        "message_id": "1305556907678892083"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: corruption in the world",
+        "timestamp": "2024-11-11T15:36:43.001000+00:00",
+        "message_id": "1305556824363372716"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: violation of rules",
+        "timestamp": "2024-11-11T15:36:24.835000+00:00",
+        "message_id": "1305556748169510985"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: talking to huge audidence",
+        "timestamp": "2024-11-11T15:35:57.842000+00:00",
+        "message_id": "1305556634952667218"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: quick tranisition from earth to heaven in the sky",
+        "timestamp": "2024-11-11T15:35:17.013000+00:00",
+        "message_id": "1305556463703294022"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: show 30 planets fastly in 4 seconds in galaxy",
+        "timestamp": "2024-11-11T15:34:51.643000+00:00",
+        "message_id": "1305556357293801492"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An ethereal wide shot of a grand mosque and its reflection on the water-filled palace courtyard, camels walking along a tiled path lined with blooming flowers, captured at sunrise with a Sony A7R IV, 35mm prime lens, soft amber and rose tones",
+        "timestamp": "2024-11-07T10:11:04.003000+00:00",
+        "message_id": "1304025320403505232"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up of camels with ornate saddles resting under beautiful Islamic arches in a palace courtyard, the early morning light casting soft shadows, with a Leica Q2, 50mm f/1.4 lens, gentle and muted color tones",
+        "timestamp": "2024-11-07T10:10:54.970000+00:00",
+        "message_id": "1304025282516090961"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A serene palace garden filled with pink flowers and trees, camels gently moving across a tiled path, the silhouette of a mosque dome in the background under early morning light, shot with a Sony A7S III, shallow depth of field, soft pink and amber palette",
+        "timestamp": "2024-11-07T10:10:47.303000+00:00",
+        "message_id": "1304025250358497280"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A grand mosque courtyard with camels resting under archways, pink bougainvillea blooming around, silhouetted by the golden sunrise, shot from a low angle with a Sony A7R IV, 28mm lens, soft and tranquil morning colors",
+        "timestamp": "2024-11-07T10:10:23.874000+00:00",
+        "message_id": "1304025152090144809"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A majestic view of camels walking along an intricately designed palace corridor with arches, surrounded by lush gardens and fountains, in a soft sunrise glow, shot with a Canon EOS-1D X Mark III, 35mm lens, warm and pastel tones",
+        "timestamp": "2024-11-07T10:10:11.831000+00:00",
+        "message_id": "1304025101578272771"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: closeup shot of beautiful butterfly flying around book in desert",
+        "timestamp": "2024-11-01T06:57:32.170000+00:00",
+        "message_id": "1301802289652170755"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: drone shot of egypt street in night",
+        "timestamp": "2024-11-01T06:57:12.494000+00:00",
+        "message_id": "1301802207125176370"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: drone shot of desert with candle lights",
+        "timestamp": "2024-11-01T06:57:00.760000+00:00",
+        "message_id": "1301802157908955136"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: street of cario city with beautiful night lamps",
+        "timestamp": "2024-11-01T06:23:42.971000+00:00",
+        "message_id": "1301793778574688298"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: street of new york with snow and nights and lamps",
+        "timestamp": "2024-11-01T06:23:31.677000+00:00",
+        "message_id": "1301793731204223028"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: street of egypts in night and lamps",
+        "timestamp": "2024-11-01T06:23:15.873000+00:00",
+        "message_id": "1301793664917438545"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: street of arabs at night with lamps",
+        "timestamp": "2024-11-01T06:23:05.974000+00:00",
+        "message_id": "1301793623398158358"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: snake like deamon turning in human",
+        "timestamp": "2024-10-31T15:55:34.502000+00:00",
+        "message_id": "1301575303700676670"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: people using screen and discord mention on screen",
+        "timestamp": "2024-10-31T15:55:13.702000+00:00",
+        "message_id": "1301575216459153428"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: man running because monster like devil chasing",
+        "timestamp": "2024-10-31T15:55:00.043000+00:00",
+        "message_id": "1301575159169286204"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: a disable person with stick climbing stairs and other people with good health using elivator",
+        "timestamp": "2024-10-31T15:54:40.344000+00:00",
+        "message_id": "1301575076545691807"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: a man walking in rain a strom rising behind people running and shouting",
+        "timestamp": "2024-10-31T15:53:44.371000+00:00",
+        "message_id": "1301574841778044948"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A small, humble tent glows softly in the dark desert night. The camera hovers above, capturing the tent’s silhouette under the vast night sky and the faint whispers of wind over the dunes.",
+        "timestamp": "2024-10-31T12:08:57.931000+00:00",
+        "message_id": "1301518275548811286"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: The camera pans across the barren desert under a crescent moon, casting soft shadows across the dunes. A lone figure stands in the distance, silhouetted against the vast sky, as stars glimmer above in quiet reverence.",
+        "timestamp": "2024-10-31T12:08:50.432000+00:00",
+        "message_id": "1301518244095459414"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A candle flickers in the open desert night, its warm glow illuminating a small patch of sand. The camera pulls back to reveal a vast, serene landscape under a deep blue, star-filled sky.",
+        "timestamp": "2024-10-31T12:08:43.189000+00:00",
+        "message_id": "1301518213716115561"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Under a fiery orange sunset, a man swiftly reaches out to grab a piece of bread from another’s hand. The camera follows his movement, highlighting his urgency and hunger as the bread slips from the other’s grasp.",
+        "timestamp": "2024-10-31T12:08:35.950000+00:00",
+        "message_id": "1301518183353548873"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: The frame darkens as a figure emerges from shadows in a vast desert, their expression hardened. Sand shifts underfoot as they walk purposefully toward a distant silhouette, embodying quiet resolve and a determination for retribution.",
+        "timestamp": "2024-10-31T12:08:25.793000+00:00",
+        "message_id": "1301518140752003134"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A rugged, 40-year-old man stands firm, eyes fierce, as he raises a hand toward an unseen crowd in the distance. The camera captures his clenched jaw and determined gaze, reflecting a strong sense of justice and personal conviction.",
+        "timestamp": "2024-10-31T12:08:17.808000+00:00",
+        "message_id": "1301518107260485692"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: The camera closes in on a 35-year-old man meticulously trimming his beard, his gaze focused in a quiet, dimly lit room. A mirror reflects his solemn expression, showing both pride and humility in his appearance as he adjusts his beard with precision.",
+        "timestamp": "2024-10-31T12:08:08.435000+00:00",
+        "message_id": "1301518067947409456"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Shot of a person gazing at the moon, contemplating the call to share Allah’s blessings with the hungry and forgotten",
+        "timestamp": "2024-10-31T12:05:55.504000+00:00",
+        "message_id": "1301517510394249246"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: High-angle shot of people huddled under moonlight with empty plates, while one person watches, pondering their responsibility",
+        "timestamp": "2024-10-31T12:05:47.593000+00:00",
+        "message_id": "1301517477213110359"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up of someone passing a piece of bread to another in dim candlelight, symbolizing divine compassion and generosity",
+        "timestamp": "2024-10-31T12:05:38.130000+00:00",
+        "message_id": "1301517437522411622"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A person surrounded by luxuries looking down in self-reflection, as the question \"Are you fulfilling others' rights?\" appears on screen",
+        "timestamp": "2024-10-31T12:05:28.102000+00:00",
+        "message_id": "1301517395462062144"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Wide-angle shot of a single figure praying alone in the desert, contemplating the needs of others with a voice-over on sharing wealth",
+        "timestamp": "2024-10-31T12:05:18.289000+00:00",
+        "message_id": "1301517354303356952"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up of hands holding extra food, with people in the background who appear in need, highlighting the choice to give or keep",
+        "timestamp": "2024-10-31T12:05:10.705000+00:00",
+        "message_id": "1301517322493628459"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Portrait of a person looking into the mirror, as a voice-over questions their own generosity with Allah’s blessings",
+        "timestamp": "2024-10-31T12:05:02.351000+00:00",
+        "message_id": "1301517287454412862"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up shot of a man deep in thought, looking over a table full of food, realizing the responsibility of sharing it with others",
+        "timestamp": "2024-10-31T12:04:50.702000+00:00",
+        "message_id": "1301517238595092501"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: \"God has given each of us resources, and with excess comes responsibility.\"",
+        "timestamp": "2024-10-31T12:04:18.966000+00:00",
+        "message_id": "1301517105484795995"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: It is not always about taking from others, but about neglecting the rights of others while focusing solely on yourself",
+        "timestamp": "2024-10-31T12:04:11.092000+00:00",
+        "message_id": "1301517072458715187"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: You are not overweight because you eat a lot; you are overweight because you deny others their right",
+        "timestamp": "2024-10-31T12:04:00.458000+00:00",
+        "message_id": "1301517027856613427"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Drone shot capturing a circle of tents in the desert under the moon, each tent dimly lit by candles, creating an intimate gathering space amidst the vastness, shot with DJI Mavic Air 2, muted warm tones with soft shadows",
+        "timestamp": "2024-10-31T11:22:55.996000+00:00",
+        "message_id": "1301506691153661983"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: High-angle view of a lone camel silhouetted against the moon, its shadow stretching across the sand dunes in the quiet night, creating a dramatic, timeless scene, shot with Canon EOS-1D X Mark III, telephoto lens, cool, soft tones",
+        "timestamp": "2024-10-31T11:22:46.360000+00:00",
+        "message_id": "1301506650737213553"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Portrait shot of a person gazing deeply into the night sky, their hands raised in prayer under the serene glow of the moon, capturing the emotional weight of the moment, shot with Nikon Z7 II, 85mm f/1.2 lens, warm, soft light",
+        "timestamp": "2024-10-31T11:22:38.681000+00:00",
+        "message_id": "1301506618529415209"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Close-up of a candle flame in the desert, with the faint glow of the moon in the background casting light on an open Quran nearby, shot with Sony A7S III, 50mm lens, sepia tones with soft shadows",
+        "timestamp": "2024-10-31T11:22:31.264000+00:00",
+        "message_id": "1301506587420135494"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Wide-angle drone shot of footprints in the sand trailing off toward a person bowing in sajood under the full moon, highlighting devotion amidst the expansive solitude, shot with DJI Mavic Air 2, monochrome blue and silver palette",
+        "timestamp": "2024-10-31T11:22:21.554000+00:00",
+        "message_id": "1301506546693574687"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A low-angle shot of camels resting near a fire under the moonlit desert night, with distant figures praying in the background, creating an atmosphere of stillness and reverence, shot with Canon EOS-1D X Mark III, 35mm lens, muted sepia tones",
+        "timestamp": "2024-10-31T11:22:12.625000+00:00",
+        "message_id": "1301506509242630187"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Portrait of a person lifting their eyes to the moon from within a desert tent, their face partially illuminated by the moonlight streaming through the fabric, shot with Fujifilm GFX 100S, 50mm f/1.4 lens, warm and soft lighting",
+        "timestamp": "2024-10-31T11:22:03.328000+00:00",
+        "message_id": "1301506470248190043"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Aerial drone shot capturing the movement of sand dunes under a glowing moon, with shadows creating a gentle rhythm across the landscape, lending a sense of vastness, shot with DJI Mavic Air 2, monochrome with hints of silver",
+        "timestamp": "2024-10-31T11:21:53.520000+00:00",
+        "message_id": "1301506429110325344"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Close-up shot of hands in prayer, palms facing up to the sky, with the bright moon directly overhead illuminating each crease and line, adding depth to the scene, shot with Nikon Z7 II, 85mm f/1.4 lens, high contrast, muted tones",
+        "timestamp": "2024-10-31T11:21:42.656000+00:00",
+        "message_id": "1301506383543271479"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Aerial view of footprints in the sand leading toward a single figure praying in the desert under moonlight, each step casting a shadow under the moon’s silver hue, shot with DJI Mavic Air 2, high contrast, cool night tones",
+        "timestamp": "2024-10-31T10:06:41.141000+00:00",
+        "message_id": "1301487502820900875"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Wide shot of a camel resting near a tent, the moon casting a gentle glow across the landscape, the scene peaceful and timeless, captured with Sony A7S III, 35mm f/1.8 lens, deep monochrome with faint blue highlights",
+        "timestamp": "2024-10-31T10:06:32.576000+00:00",
+        "message_id": "1301487466896953441"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Portrait shot of a man sitting alone with a Quran in hand, deep in contemplation, as the moon shines through a small tent opening, emphasizing the spiritual atmosphere, shot with Canon EOS-1D X Mark III, 85mm lens, warm, low lighting",
+        "timestamp": "2024-10-31T10:06:24.650000+00:00",
+        "message_id": "1301487433652633641"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A drone shot of tents scattered across the desert under the full moon, each tent dimly lit, casting soft shadows on the sand, captured with DJI Mavic Air 2, monochrome palette, subtle bluish tint to enhance the quiet night",
+        "timestamp": "2024-10-31T10:06:15.605000+00:00",
+        "message_id": "1301487395715416095"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Close-up of hands lifting a candle with a desert landscape and moon in the background, the flame reflecting softly on the dunes, creating an intimate, warm glow, shot with Nikon Z7 II, 50mm f/1.4 lens, sepia and gold tones",
+        "timestamp": "2024-10-31T10:06:06.993000+00:00",
+        "message_id": "1301487359593938998"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A high-angle shot capturing multiple people looking into their phones in the middle of the desert, the moonlight creating dim silhouettes against the sand, contrasting the artificial light with the natural glow, shot with Sony A7R IV, 28mm lens, muted blue tones",
+        "timestamp": "2024-10-31T10:05:57.346000+00:00",
+        "message_id": "1301487319131619363"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Close-up shot of a single Quran page lit by a flickering candle in a tent under the desert night sky, the moon faintly visible through the fabric, emphasizing solitude and reflection, shot with Fujifilm GFX 100S, 35mm lens, warm sepia tones",
+        "timestamp": "2024-10-31T10:05:48.819000+00:00",
+        "message_id": "1301487283366658098"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Portrait of a young man holding his hand over his heart, looking up to the moon from the sand dunes, his face partially illuminated by moonlight with a soft expression of devotion, shot with Sony A7S III, 85mm f/1.4 lens, cool tones and deep contrasts",
+        "timestamp": "2024-10-31T10:05:40.197000+00:00",
+        "message_id": "1301487247203504161"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Drone shot of a lone camel and a rider silhouetted by the moonlight as they traverse the empty desert, shadows blending into the sand's cool tones, the scene imbued with a feeling of isolation, shot with DJI Mavic Air 2, high contrast, monochromatic blues",
+        "timestamp": "2024-10-31T10:05:30.177000+00:00",
+        "message_id": "1301487205176442891"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A soft-focus shot of a group of people bowing in prayer (sajood) on a desert dune under the tranquil light of a full moon, shadows long and stretched across the sand, with a faint glow illuminating their faces, captured with a Canon EOS-1D X Mark III, 50mm f/1.8 lens, muted blue and silver palette",
+        "timestamp": "2024-10-31T10:05:21.949000+00:00",
+        "message_id": "1301487170665713728"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up shot of hands holding a candle in the desert, the flickering flame illuminating a Quran against the vast night sky, the moon faintly visible, emphasizing devotion and solitude, captured with Nikon Z7 II, 50mm f/1.4 lens, warm, low-light tones",
+        "timestamp": "2024-10-31T10:05:09.962000+00:00",
+        "message_id": "1301487120388456470"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Aerial view of a lone figure praying in the desert under the moon, casting a long shadow across the sand, the scene imbued with serenity and isolation, shot with DJI Mavic Air 2, high contrast and cool night tones",
+        "timestamp": "2024-10-31T10:04:41.412000+00:00",
+        "message_id": "1301487000641077261"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Drone shot of camels walking along the dunes under soft moonlight, the gentle contours of the sand reflecting silver hues, with long shadows stretching across the desert floor, taken with DJI Mavic Air 2, wide-angle, deep monochrome contrasts",
+        "timestamp": "2024-10-31T10:04:31.382000+00:00",
+        "message_id": "1301486958572212297"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A candid shot of individuals misusing social media under the midnight sky, their faces illuminated by phone screens with the moon faintly above, creating a contrast between digital light and natural night ambiance, shot with Sony A7R IV, 35mm lens, dim, cool lighting",
+        "timestamp": "2024-10-31T10:04:17.380000+00:00",
+        "message_id": "1301486899843825714"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Close-up shot of a camel’s face under a full moon in the desert, reflecting a sense of stillness and wisdom in its eyes, deep contrasts accentuating the texture of its fur, shot with a Canon EOS-1D X Mark III, telephoto lens, gentle blue undertones",
+        "timestamp": "2024-10-31T07:37:37.507000+00:00",
+        "message_id": "1301449990501171241"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: High angle shot of a small desert tent illuminated by the glow of a single candle and moonlight from above, with subtle shadows dancing on the sand, taken with a Fujifilm GFX 100S, 28mm lens, warm sepia tones for a serene effect",
+        "timestamp": "2024-10-31T07:37:14.612000+00:00",
+        "message_id": "1301449894472585240"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A medium shot of an elder holding the Quran close to his heart under a bright desert moon, a single camel grazing nearby, captured in a somber, soft monochromatic palette, emphasizing the bond between faith and nature",
+        "timestamp": "2024-10-31T07:37:03.789000+00:00",
+        "message_id": "1301449849077633100"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A sorrowful portrait of a young person scrolling on their phone at night, the glow from the screen harsh against the surrounding darkness, contrasting their expression of loneliness with the soft light from a distant moon, shot with a Nikon Z7 II, 85mm f/1.2 lens, cool tones",
+        "timestamp": "2024-10-31T07:36:51.645000+00:00",
+        "message_id": "1301449798142005354"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Aerial drone shot of people reading the Quran in a circle under moonlight in a vast desert, surrounded by flickering candle lights, captured with a DJI Mavic Air 2, wide-angle view, deep shadows emphasizing the intimacy and peace of the night",
+        "timestamp": "2024-10-31T07:36:35.728000+00:00",
+        "message_id": "1301449731381395480"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A low-angle close-up shot of a man in prayer (sajood) under the full moon, with soft, blue-tinged moonlight illuminating his form in the quiet desert night, the distant silhouette of camels visible, shot with a Sony A7S III, 50mm f/1.4 lens, monochrome palette with subtle blue hues",
+        "timestamp": "2024-10-31T07:36:23.331000+00:00",
+        "message_id": "1301449679384350764"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An extreme close-up of a worn leather book lying next to a candle, faint Arabic calligraphy visible, the desert outside softly lit by the moon, shot with a Nikon Z7 II, macro lens, deep, moody shadows",
+        "timestamp": "2024-10-31T07:33:23.286000+00:00",
+        "message_id": "1301448924221145118"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A high-angle shot of an old caravan moving through the desert under the early morning light, shadows stretching across the dunes, shot with a Fujifilm GFX 100S, 28mm lens, natural, warm hues",
+        "timestamp": "2024-10-31T07:33:11.519000+00:00",
+        "message_id": "1301448874866511895"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: closeup shot of aladin in space",
+        "timestamp": "2024-10-31T07:21:44.575000+00:00",
+        "message_id": "1301445993614675990"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: a colossal, muscular, red gorilla with large, ornate golden antiers stands amidst a misty, dark forest its imposing figure partially, obscured by fog, the foreground shows dark, rocky terrain, photorealisitic, cinematic lighting, 8k resolution",
+        "timestamp": "2024-10-31T07:08:14.138000+00:00",
+        "message_id": "1301442594395656206"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: a carrot tribe living in forest and walking",
+        "timestamp": "2024-10-31T07:05:31.469000+00:00",
+        "message_id": "1301441912112418906"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A bird’s-eye view of a vast desert landscape with scattered tents illuminated by candlelight under a starry sky, Kaaba in the far distance, shot with a DJI Mavic Air 2, muted, cinematic hues",
+        "timestamp": "2024-10-30T17:29:22.123000+00:00",
+        "message_id": "1301236519788482600"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A cinematic portrait of a young girl in traditional dress standing near a tent as the Maghrib azan fills the air, dusk light casting soft shadows, shot with a Fujifilm GFX 100S, 50mm lens, warm, soft tones",
+        "timestamp": "2024-10-30T17:29:06.319000+00:00",
+        "message_id": "1301236453501829172"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An extreme close-up of a candle flickering in the desert night, the gentle breeze causing shadows to dance on the nearby sand, shot with a Sony A7S III, macro lens, warm, rich tones",
+        "timestamp": "2024-10-30T16:07:29.931000+00:00",
+        "message_id": "1301215916561793106"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A wide-angle shot of an oasis under the full moon, palm trees silhouetted against the sky, camels resting by the water's edge, faint reflections on the water, shot with a Leica Q2, 28mm lens, cool blue tones",
+        "timestamp": "2024-10-30T16:06:34.850000+00:00",
+        "message_id": "1301215685535469621"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A cinematic portrait of a woman wearing a black abaya holding a lantern, standing on the edge of a desert dune at dusk, with soft, golden hour lighting, shot with a Canon EOS-1D X Mark III, 85mm lens, warm, soft focus",
+        "timestamp": "2024-10-30T16:06:25.372000+00:00",
+        "message_id": "1301215645781852191"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A medium shot of a young man walking towards the Kaaba at dawn, his shadow elongated by the morning sun, soft, misty atmosphere, shot with a Nikon Z7 II, 50mm lens, pastel tones with deep contrast",
+        "timestamp": "2024-10-30T16:06:15.806000+00:00",
+        "message_id": "1301215605659009126"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A high-angle view of camels resting near a traditional tent in the evening, Kaaba visible far in the distance, surrounded by orange and purple desert dusk, shot with a DJI Mavic Air 2, cinematic, moody colors",
+        "timestamp": "2024-10-30T16:06:04.263000+00:00",
+        "message_id": "1301215557244420190"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A close-up of an elderly Arab man with a white beard and traditional attire, deep lines in his face, sitting by a dimly lit candle in his tent, the soft glow reflecting off his thoughtful eyes, shot with a Sony A7R IV, 85mm lens, warm sepia tones",
+        "timestamp": "2024-10-30T16:05:54.549000+00:00",
+        "message_id": "1301215516500693086"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A low-angle shot of a Bedouin tent illuminated by lanterns under a starry night sky, with the faint glow of the moon casting a silver light on the desert sands, soft, cinematic tones",
+        "timestamp": "2024-10-30T16:05:20.567000+00:00",
+        "message_id": "1301215373969850368"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A cinematic wide-angle shot of the Kaaba at sunset from the perspective of the desert, soft shadows stretching across the golden sands, with distant camel caravans, soft twilight hues, shot with a Fujifilm GFX 100S, 28mm lens, warm, natural tones",
+        "timestamp": "2024-10-30T16:05:08.726000+00:00",
+        "message_id": "1301215324305100822"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A cinematic low-angle shot of Messi and Ronaldo entering a grand Halloween masquerade, dressed as an elegant vampire (Messi) and a mysterious werewolf (Ronaldo) in a sharp suit with clawed gloves. The ballroom setting is filled with chandeliers, haunting music, and guests in elaborate costumes, shot with a Nikon Z7 II, 85mm lens, high-contrast monochrome",
+        "timestamp": "2024-10-30T15:35:45.429000+00:00",
+        "message_id": "1301207928501440515"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A playful close-up shot of Messi and Ronaldo laughing together at a Halloween bash, dressed in contrasting outfits: Messi as a mad scientist with goggles and a lab coat, Ronaldo as a sleek, masked Phantom. The background is filled with cobwebs and soft blue and green party lights, creating an electric yet spooky ambiance, shot with a Sony A7R IV, 50mm f/1.4 lens, vibrant colors with soft shadows",
+        "timestamp": "2024-10-30T15:35:34.647000+00:00",
+        "message_id": "1301207883278716949"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A high-energy wide-angle shot of Lionel Messi and Cristiano Ronaldo at a luxurious Halloween party, both dressed in classic horror costumes—Messi as Dracula with a detailed velvet cape and fangs, Ronaldo as Frankenstein’s monster with realistic makeup and bolts on his neck. The duo is surrounded by dimly lit gothic decorations, with eerie fog and flickering candles in the background, shot with a Canon EOS-1D X Mark III, 35mm lens, cool, desaturated tones",
+        "timestamp": "2024-10-30T15:35:24.876000+00:00",
+        "message_id": "1301207842295906409"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A portrait of a rugged mountaineer at a snowy summit, strong winds blowing, determination in his gaze, midday sun casting hard shadows, shot with a Canon EOS-1D X Mark III, telephoto lens, high contrast with cool tones",
+        "timestamp": "2024-10-30T15:34:21.591000+00:00",
+        "message_id": "1301207576859639808"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A low-angle shot of a lone surfer silhouetted against the setting sun, gentle waves rolling in, warm, golden light, shot with a Sony A7S III, 85mm lens, soft and dreamy color grading",
+        "timestamp": "2024-10-30T15:34:11.929000+00:00",
+        "message_id": "1301207536334012478"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An extreme close-up of a bee collecting pollen on a vibrant sunflower, fine details of the petals and tiny hairs on the bee, natural sunlight, shot with a Nikon Z7 II, macro lens, sharp, vivid colors",
+        "timestamp": "2024-10-30T15:33:58.410000+00:00",
+        "message_id": "1301207479631216710"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A portrait of a barista making coffee in a cozy, rustic cafe, steam rising from the cup, warm lighting from overhead bulbs, shot with a Leica Q2, 50mm lens, soft, sepia tones",
+        "timestamp": "2024-10-30T15:33:46.312000+00:00",
+        "message_id": "1301207428888526848"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An underwater shot of a coral reef teeming with colorful fish, sunlight filtering from the surface, rich blues and vibrant coral colors, shot with an Olympus Tough TG-6, wide angle lens, natural color tones",
+        "timestamp": "2024-10-30T15:33:35.435000+00:00",
+        "message_id": "1301207383267344444"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An overhead view of a bustling food market in Japan, with vendors preparing traditional dishes, neon lights casting a colorful glow, nighttime atmosphere, shot with a Sony A7S III, 35mm lens, high contrast and saturated colors",
+        "timestamp": "2024-10-30T15:15:41.495000+00:00",
+        "message_id": "1301202878836375624"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A wide-angle landscape of a serene lake surrounded by snow-capped mountains, crisp reflections on the water, captured at sunrise, shot with a Fujifilm GFX 100S, 28mm lens, cool blue and white tones",
+        "timestamp": "2024-10-30T15:14:13.953000+00:00",
+        "message_id": "1301202511658487829"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: An aerial shot of a winding river cutting through a dense, autumnal forest, golden leaves contrasting with the cool blue water, early morning mist hanging over the scene, shot with a DJI Mavic Air 2, slightly desaturated colors",
+        "timestamp": "2024-10-30T15:13:54.654000+00:00",
+        "message_id": "1301202430712877087"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A macro shot of morning dew on a delicate spider web in a lush garden, glistening under soft dawn light, fine details of each drop, shot with a Nikon Z7 II, macro lens, vivid natural colors",
+        "timestamp": "2024-10-30T15:06:05.414000+00:00",
+        "message_id": "1301200462577406044"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A wide-angle view of a vibrant Moroccan market at dusk, lanterns glowing amid bustling vendors, intricate details of spices and textiles, soft twilight hues, shot with a Leica Q2, 28mm lens, rich, warm color tones",
+        "timestamp": "2024-10-30T15:03:36.491000+00:00",
+        "message_id": "1301199837949067399"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A high-angle portrait of an elderly fisherman sitting by a rugged coastal cliff, weather-beaten face against the blue-gray sky, evening light casting soft shadows, shot with a Sony A7R IV, 85mm f/1.8 lens, natural color grading",
+        "timestamp": "2024-10-30T15:03:22.744000+00:00",
+        "message_id": "1301199780290236550"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: The Role of Storytelling in Strengthening Connections",
+        "timestamp": "2024-10-30T14:30:03.114000+00:00",
+        "message_id": "1301191393233997844"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Exploring the Impact of Digital Detox on Mental Health",
+        "timestamp": "2024-10-30T14:29:33.075000+00:00",
+        "message_id": "1301191267241300022"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: trump won election and dance",
+        "timestamp": "2024-10-30T13:54:41.956000+00:00",
+        "message_id": "1301182496452640812"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: travel inside iphone",
+        "timestamp": "2024-10-30T13:54:31.585000+00:00",
+        "message_id": "1301182452953518081"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: gigantic human found in sea",
+        "timestamp": "2024-10-30T13:43:34.696000+00:00",
+        "message_id": "1301179697761091584"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: create something which think is most beautiful",
+        "timestamp": "2024-10-30T13:24:52.471000+00:00",
+        "message_id": "1301174990808551544"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Join us in bringing humanity back. Start a conversation, lend a hand, and share a smile today",
+        "timestamp": "2024-10-30T12:22:54.093000+00:00",
+        "message_id": "1301159394800701473"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Highlight positive actions: kindness, helping, smiling",
+        "timestamp": "2024-10-30T12:22:44.461000+00:00",
+        "message_id": "1301159354401161280"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Footage of community events and people helping one another",
+        "timestamp": "2024-10-30T12:22:35.211000+00:00",
+        "message_id": "1301159315603722282"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: In our rush, we forget to listen, to empathize, to truly see each other",
+        "timestamp": "2024-10-30T12:22:24.725000+00:00",
+        "message_id": "1301159271622381579"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: I feel more connected to my screen than to the people around me",
+        "timestamp": "2024-10-30T12:22:15.838000+00:00",
+        "message_id": "1301159234347728969"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Cut to interviews with individuals sharing their thoughts",
+        "timestamp": "2024-10-30T12:22:07.904000+00:00",
+        "message_id": "1301159201069863042"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Opening montage of busy city life, people on phones, ignoring each other",
+        "timestamp": "2024-10-30T12:21:48.491000+00:00",
+        "message_id": "1301159119646101616"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Footage of volunteers in action",
+        "timestamp": "2024-10-30T12:21:11.383000+00:00",
+        "message_id": "1301158964003733524"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: With your donation, we can provide food and shelter to those in need",
+        "timestamp": "2024-10-30T12:20:59.600000+00:00",
+        "message_id": "1301158914582249482"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: I lost my job during the pandemic and need help to get back on my feet.",
+        "timestamp": "2024-10-30T12:20:49.595000+00:00",
+        "message_id": "1301158872618111100"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Cut to individuals sharing personal stories",
+        "timestamp": "2024-10-30T12:20:35.512000+00:00",
+        "message_id": "1301158813549989983"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Opening shot of a community center bustling with activity",
+        "timestamp": "2024-10-30T12:20:22.034000+00:00",
+        "message_id": "1301158757019029506"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Create a powerful video that explores how people today are increasingly distracted, ignoring real-life issues and instead focusing on making social media reels. Start with scenes of individuals in various settings—homes, streets, workplaces—turning a blind eye to important events or issues, such as poverty, environmental damage, or societal injustices. Show people walking by without noticing these issues, instead focusing on recording and creating entertaining reels for social media, laughing and performing in front of their phones. Transition to scenes illustrating the impact of this behavior, with corruption spreading unnoticed in the background, symbolized by shadowy figures exchanging money or manipulating systems while people are distracted. Use darker tones for scenes showing corruption, contrasted with the bright, flashy lights of social media. End with a reflective scene, where one person finally stops recording, looks up, and notices the real world around them—suggesting a call to awareness and action",
+        "timestamp": "2024-10-30T12:19:18.661000+00:00",
+        "message_id": "1301158491213398047"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: lion become donkey in cinematic way",
+        "timestamp": "2024-10-30T12:18:43.531000+00:00",
+        "message_id": "1301158343867502666"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: : \"Create a realistic yet thought-provoking video showing a morning in a modern society where people, especially young girls, wake up and immediately reach for their phones. Begin with various shots of bedrooms as the sun rises, showing people of different ages lying in bed. As alarms go off, they reach for their phones, eyes half-open, and start scrolling. Show close-up shots of fingers swiping, notifications popping up, and faces illuminated by the screen’s glow. Highlight the monotonous expressions as they check social media, news, and messages, almost mechanically. Add subtle background sounds of notifications and light, ambient morning sounds. As the video progresses, depict the sense of disconnection from the real world—illustrate breakfast tables with everyone looking at their phones instead of talking, and a park where people walk while staring down. End with a moment of realization as one person looks away from the screen, capturing a moment of real-life beauty outside, hinting at the value of stepping away from the digital world",
+        "timestamp": "2024-10-30T12:18:23.124000+00:00",
+        "message_id": "1301158258274205757"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Create a thought-provoking video that illustrates the concept of humanity being unaware of important realities. Begin with a bustling city scene, people absorbed in their phones, walking with blank expressions, lost in routine. Gradually, zoom out to show layers of impactful events happening around them but going unnoticed—such as environmental destruction, people in need, moments of beauty, and signs of cultural and spiritual decay. Use dim lighting to show a sense of detachment and emptiness, with brief flashes of color or light to symbolize moments of awareness breaking through. End with a powerful visual of one person looking up, symbolizing a call to awaken and reconnect",
+        "timestamp": "2024-10-30T12:07:42.171000+00:00",
+        "message_id": "1301155569922740256"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Create a breathtaking, spiritual video depicting a mystical pathway leading up to the Kaaba, located within a massive, lush mountain cave. A long, narrow staircase stretches through dense green foliage, guiding pilgrims upward toward a bright opening in the cave. Sunlight streams in through the opening, illuminating the Kaaba and casting soft rays across the scene. The Kaaba is surrounded by pilgrims in white garments, adding a sense of reverence and awe. The atmosphere is peaceful and filled with a sense of spiritual wonder, with subtle sounds of nature and soft, ambient light enhancing the sacred setting",
+        "timestamp": "2024-10-30T11:54:37.616000+00:00",
+        "message_id": "1301152279260565515"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Create a mesmerizing, otherworldly video of a grand, mystical palace set in a fantasy landscape. The palace features intricate architecture with tall, spiraling towers, elaborate carvings, and golden domes that glisten in the soft, golden sunlight. The building is adorned with vibrant red and purple foliage cascading down its walls, contrasting with the warm yellow glow of the sky at sunset. Surrounding the palace are winding canals filled with clear, reflective water that captures the colorful scenery. Show small boats drifting slowly through the water, adding movement to the serene, magical atmosphere. Use warm, glowing lighting, soft shadows, and rich colors to evoke a sense of wonder and tranquility",
+        "timestamp": "2024-10-30T11:53:29.816000+00:00",
+        "message_id": "1301151994886754305"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Create an enchanting, dreamlike forest scene where towering golden trees stretch high into the sky, their branches glowing in warm, golden sunlight. Rays of sunlight filter through the leaves, illuminating a clear, reflective lake below. In the foreground, a figure in a flowing, modest green robe reaches out toward the water, where small, colorful fish swim gracefully. The scene feels peaceful and mystical, with soft ripples in the water and distant, softly glowing huts nestled among the trees. Use warm, ethereal lighting and a gentle, calming atmosphere to bring out a sense of wonder and tranquility",
+        "timestamp": "2024-10-30T11:52:48.284000+00:00",
+        "message_id": "1301151820688785474"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Depict a high-stakes 'Avengers Doomsday' scene set against a dark, apocalyptic cityscape. The sky is stormy, filled with dark clouds swirling as lightning cracks through. In the foreground, iconic heroes like a powerful figure with a shield, a high-tech armored figure, and others stand united, their faces showing determination and courage despite the looming threat. In the distance, a massive, shadowy villain figure rises, creating a menacing atmosphere. Rubble, sparks, and destroyed buildings surround the scene, with the Avengers preparing for an epic final stand. The lighting is dramatic, casting deep shadows and highlighting the heroes’ silhouettes as they prepare for a world-ending battle",
+        "timestamp": "2024-10-30T11:45:41.397000+00:00",
+        "message_id": "1301150030194933821"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: our solar system planets as human beings",
+        "timestamp": "2024-10-30T11:42:11.245000+00:00",
+        "message_id": "1301149148753559603"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: elon musk driving tesla car on mars",
+        "timestamp": "2024-10-30T11:28:48.410000+00:00",
+        "message_id": "1301145781419511820"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: Create a time-lapse video of a baby quickly growing into an adult within 5 seconds. Start with a newborn baby lying in a soft, cozy blanket. As the video progresses, show subtle age transitions at each stage—baby learning to crawl, a young child standing and taking first steps, a teenager showing growth and confidence, and finally, the transformation into a mature adult with a calm, self-assured expression. Use gentle lighting and soft background colors to keep the tone warm and natural. Each age should flow seamlessly into the next, illustrating the passage of time in a smooth, natural progression",
+        "timestamp": "2024-10-30T11:04:13.842000+00:00",
+        "message_id": "1301139596633178165"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: imagine grand theft auto video game character in future",
+        "timestamp": "2024-10-30T10:52:32.479000+00:00",
+        "message_id": "1301136654903545866"
+      },
+      {
+        "prompt": "@noonverse\nPrompt: A big golden whale in the galaxy moving around jupiter planet.",
+        "timestamp": "2024-10-30T10:44:04.676000+00:00",
+        "message_id": "1301134525023129631"
+      }
+    ],
+    "total_uses": 255
+  },
+  "1067201469796864041": {
+    "username": "hispanosuiza",
+    "generations": [
+      {
+        "prompt": "@HispanoSuiza\nPrompt: Trump against Ellon Musk in the boxing ring",
+        "timestamp": "2024-11-29T05:39:06.429000+00:00",
+        "message_id": "1311929412580675658"
+      },
+      {
+        "prompt": "@HispanoSuiza\nPrompt: 24 hours time lapse of the Swiss Alps showing the grimsel pass with the lake at the bottom and impressive landscape of the Alps surroundedthe camera moves following the sun, and both sunrise and sunset are seen. As well the raise of a super-full-moon",
+        "timestamp": "2024-11-25T15:09:23.369000+00:00",
+        "message_id": "1310623377366454272"
+      },
+      {
+        "prompt": "@HispanoSuiza\nPrompt: time lapse of the Swiss alps showing from the sun raise to the sunset and then the night",
+        "timestamp": "2024-11-24T06:33:03.355000+00:00",
+        "message_id": "1310131049904476206"
+      },
+      {
+        "prompt": "@HispanoSuiza\nPrompt: drone view of the Swiss Alps full of snow with a lake at the bottom",
+        "timestamp": "2024-11-22T16:21:37.717000+00:00",
+        "message_id": "1309554393342808136"
+      },
+      {
+        "prompt": "@HispanoSuiza\nPrompt: traversal camera movement, high angle camera view, swiss alps landscape with a beautiful lake below, format 9:16",
+        "timestamp": "2024-11-21T06:27:34.999000+00:00",
+        "message_id": "1309042509082660864"
+      },
+      {
+        "prompt": "@HispanoSuiza\nPrompt: traversal camera movement, high angle camera view, swiss alps landscape with a beautiful lake below",
+        "timestamp": "2024-11-21T06:19:22.227000+00:00",
+        "message_id": "1309040442246955049"
+      },
+      {
+        "prompt": "@HispanoSuiza\nPrompt: traversal camera movement , high angle camera view, swiss alps landscape",
+        "timestamp": "2024-11-21T06:12:34.392000+00:00",
+        "message_id": "1309038731662983219"
+      }
+    ],
+    "total_uses": 7
+  },
+  "1310294025315684414": {
+    "username": "ermani_28275",
+    "generations": [
+      {
+        "prompt": "@Ermani\nPrompt: Una señora boxea contra un hombre joven y fuerte",
+        "timestamp": "2024-11-28T22:04:03.139000+00:00",
+        "message_id": "1311814894282215457"
+      }
+    ],
+    "total_uses": 1
+  },
+  "1301192204999725088": {
+    "username": "chaquito_13080",
+    "generations": [
+      {
+        "prompt": "@chaquito\nPrompt: An epic image of an imposing creature with beastly features, such as a demon or mythological being, in a gloomy, apocalyptic setting. Use a warm, golden color palette, with elaborate armor details and decorations. The creature should look majestic and terrifying, as if it were a military leader or a powerful warlord. Include flags or banners representing different countries or regions. Create a dynamic and dramatic composition that conveys a feeling of power, strength, and battle.",
+        "timestamp": "2024-11-28T21:09:42.909000+00:00",
+        "message_id": "1311801219886616589"
+      },
+      {
+        "prompt": "@chaquito\nPrompt: [Subject] Male samurai warrior, about 35 years old, athletic build, long dark hair tied back in a traditional bun (chonmage), intense brown eyes, wearing black lacquered battle armor with gold details, carrying a sheathed katana at his side and a longbow on his back.  [Expression] Firm and determined gaze, with a slight gesture of concentration on his face, transmitting confidence and discipline. His posture reflects respect and a controlled calm, looking towards the horizon as if assessing the battlefield.  [Action] Standing in a martial stance, with his hands resting gently on the hilt of the katana, ready to draw if necessary. He stands in a moment before battle, with his cape fluttering slightly in the wind.  [Environment] Grassy hill, bordered by a forest of cherry blossoms. In the distance, a traditional Japanese castle (shiro) surrounded by mist and mountains, evoking feudal Japan.  [Historical period in which the action takes place] Japan in the 17th century, during the Edo period.  [Atmosphere] Vibrant sunset with golden and pink tones. Cherry blossom petals floating in the air, creating a poetic contrast with the preparation for battle. Epic and solemn atmosphere.  [Style] Photorealistic, with a cinematic touch inspired by traditional Japanese art.  [Lighting] Golden hour with warm side light that highlights the details of the armor. Soft shadows cast by nearby trees.  [Composition] Centered American shot, slightly low angle to highlight the imposing warrior. Background with soft focus to highlight the main subject.  [Quality] Ultra detailed, professional photography, 8K, with realistic textures and a cinematic quality finish.",
+        "timestamp": "2024-11-27T12:21:53.537000+00:00",
+        "message_id": "1311306001047093361"
+      }
+    ],
+    "total_uses": 2
+  },
   "567398140492382208": {
     "username": "milm_",
     "generations": [
@@ -647,17 +2012,6 @@
       }
     ],
     "total_uses": 19
-  },
-  "1301192204999725088": {
-    "username": "chaquito_13080",
-    "generations": [
-      {
-        "prompt": "@chaquito\nPrompt: [Subject] Male samurai warrior, about 35 years old, athletic build, long dark hair tied back in a traditional bun (chonmage), intense brown eyes, wearing black lacquered battle armor with gold details, carrying a sheathed katana at his side and a longbow on his back.  [Expression] Firm and determined gaze, with a slight gesture of concentration on his face, transmitting confidence and discipline. His posture reflects respect and a controlled calm, looking towards the horizon as if assessing the battlefield.  [Action] Standing in a martial stance, with his hands resting gently on the hilt of the katana, ready to draw if necessary. He stands in a moment before battle, with his cape fluttering slightly in the wind.  [Environment] Grassy hill, bordered by a forest of cherry blossoms. In the distance, a traditional Japanese castle (shiro) surrounded by mist and mountains, evoking feudal Japan.  [Historical period in which the action takes place] Japan in the 17th century, during the Edo period.  [Atmosphere] Vibrant sunset with golden and pink tones. Cherry blossom petals floating in the air, creating a poetic contrast with the preparation for battle. Epic and solemn atmosphere.  [Style] Photorealistic, with a cinematic touch inspired by traditional Japanese art.  [Lighting] Golden hour with warm side light that highlights the details of the armor. Soft shadows cast by nearby trees.  [Composition] Centered American shot, slightly low angle to highlight the imposing warrior. Background with soft focus to highlight the main subject.  [Quality] Ultra detailed, professional photography, 8K, with realistic textures and a cinematic quality finish.",
-        "timestamp": "2024-11-27T12:21:53.537000+00:00",
-        "message_id": "1311306001047093361"
-      }
-    ],
-    "total_uses": 1
   },
   "314048223889195008": {
     "username": "kito4233",
@@ -1457,42 +2811,6 @@
       }
     ],
     "total_uses": 25
-  },
-  "1067201469796864041": {
-    "username": "hispanosuiza",
-    "generations": [
-      {
-        "prompt": "@HispanoSuiza\nPrompt: 24 hours time lapse of the Swiss Alps showing the grimsel pass with the lake at the bottom and impressive landscape of the Alps surroundedthe camera moves following the sun, and both sunrise and sunset are seen. As well the raise of a super-full-moon",
-        "timestamp": "2024-11-25T15:09:23.369000+00:00",
-        "message_id": "1310623377366454272"
-      },
-      {
-        "prompt": "@HispanoSuiza\nPrompt: time lapse of the Swiss alps showing from the sun raise to the sunset and then the night",
-        "timestamp": "2024-11-24T06:33:03.355000+00:00",
-        "message_id": "1310131049904476206"
-      },
-      {
-        "prompt": "@HispanoSuiza\nPrompt: drone view of the Swiss Alps full of snow with a lake at the bottom",
-        "timestamp": "2024-11-22T16:21:37.717000+00:00",
-        "message_id": "1309554393342808136"
-      },
-      {
-        "prompt": "@HispanoSuiza\nPrompt: traversal camera movement, high angle camera view, swiss alps landscape with a beautiful lake below, format 9:16",
-        "timestamp": "2024-11-21T06:27:34.999000+00:00",
-        "message_id": "1309042509082660864"
-      },
-      {
-        "prompt": "@HispanoSuiza\nPrompt: traversal camera movement, high angle camera view, swiss alps landscape with a beautiful lake below",
-        "timestamp": "2024-11-21T06:19:22.227000+00:00",
-        "message_id": "1309040442246955049"
-      },
-      {
-        "prompt": "@HispanoSuiza\nPrompt: traversal camera movement , high angle camera view, swiss alps landscape",
-        "timestamp": "2024-11-21T06:12:34.392000+00:00",
-        "message_id": "1309038731662983219"
-      }
-    ],
-    "total_uses": 6
   },
   "538419386881671178": {
     "username": "agustin978",
@@ -2482,17 +3800,6 @@
       }
     ],
     "total_uses": 12
-  },
-  "724280247230660660": {
-    "username": "larry_tsai",
-    "generations": [
-      {
-        "prompt": "@宵宵是个小太阳☀\nPrompt: A majestic aerial view of the Hoover Dam and the blue lake. The shot is taken in a sunny day.",
-        "timestamp": "2024-11-21T03:55:51.373000+00:00",
-        "message_id": "1309004325707714632"
-      }
-    ],
-    "total_uses": 1
   },
   "1294212590569914478": {
     "username": "roanne0792",
@@ -5462,992 +6769,6 @@
       }
     ],
     "total_uses": 59
-  },
-  "915910431669903390": {
-    "username": "noonverse",
-    "generations": [
-      {
-        "prompt": "@noonverse\nPrompt: An extreme wide shot of a vast, empty desert at night, illuminated only by the light of a crescent moon, a solitary figure walking in the distance, captured with a Sony A7S III, low light, high ISO, monochrome palette",
-        "timestamp": "2024-11-12T06:40:23.464000+00:00",
-        "message_id": "1305784241467949068"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up shot of a hand holding prayer beads, fingers trembling slightly, against a backdrop of dark storm clouds, shot with a Nikon Z7 II, 85mm lens, shallow depth of field, high contrast",
-        "timestamp": "2024-11-12T06:40:16.234000+00:00",
-        "message_id": "1305784211143266336"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A bird’s-eye view of a majestic mosque surrounded by flooded streets after a heavy storm, worshippers wading through the water to reach the entrance, captured with a DJI Mavic Air 2, vivid colors, and reflective surfaces",
-        "timestamp": "2024-11-12T06:40:07.484000+00:00",
-        "message_id": "1305784174443237426"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A low-angle shot of a group of scholars sitting around a dimly lit table, discussing scriptures with intensity, the room filled with old books and scrolls, shot with a Fujifilm GFX 100S, warm ambient light, rich textures",
-        "timestamp": "2024-11-12T06:39:59.073000+00:00",
-        "message_id": "1305784139164680244"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A dramatic wide shot of a mountain village engulfed by a fast-approaching thunderstorm, villagers looking up in fear, trees swaying in the strong winds, captured with a DJI Mavic Air 2, vivid greens and dark grays, high contrast",
-        "timestamp": "2024-11-12T06:39:51.828000+00:00",
-        "message_id": "1305784108777209877"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A full-body shot of a young man kneeling on a prayer mat in an empty mosque at night, his face illuminated by the soft glow of moonlight streaming through a window, shot with a Sony A7R IV, 50mm lens, soft blue tones, and shadows",
-        "timestamp": "2024-11-12T06:39:44.722000+00:00",
-        "message_id": "1305784078972227646"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up portrait of a crying child clutching a piece of bread, standing amidst ruins, his eyes reflecting both fear and hope, shot with a Leica Q2, monochrome, shallow depth of field",
-        "timestamp": "2024-11-12T06:39:36.666000+00:00",
-        "message_id": "1305784045182914601"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A medium shot of a lone man walking through a cemetery at dusk, the sky painted in shades of orange and purple, his silhouette stark against the setting sun, captured with a Nikon Z7 II, 50mm f/1.4 lens, rich sepia tones",
-        "timestamp": "2024-11-12T06:39:28.837000+00:00",
-        "message_id": "1305784012345835540"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: An extreme wide shot of a devastated coastal town hit by a recent tsunami, broken boats scattered along the shore, dark clouds hanging overhead, shot with a DJI Mavic Air 2, high contrast, cool tones",
-        "timestamp": "2024-11-12T06:39:21.574000+00:00",
-        "message_id": "1305783981882478664"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A high-angle shot of a crowded prayer hall during Friday prayers, with worshippers bowing in unison, the light filtering through stained glass windows creating colorful reflections on the floor, captured with a Canon EOS-1D X Mark III, shallow depth of field, vibrant tones",
-        "timestamp": "2024-11-12T06:39:13.338000+00:00",
-        "message_id": "1305783947338317886"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up shot of a flickering candle in a dark room, surrounded by pages of the Quran scattered around, the flame symbolizing fragile hope in the darkness, shot with a Fujifilm GFX 100S, macro lens, soft warm glow",
-        "timestamp": "2024-11-12T06:39:06.539000+00:00",
-        "message_id": "1305783918821376042"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A bird’s-eye view of a bustling Middle Eastern city market suddenly emptying as people rush indoors to avoid an unexpected downpour, the wet cobblestone streets reflecting the vibrant market lights, shot with a DJI Mavic Air 2, vivid colors",
-        "timestamp": "2024-11-12T06:38:46.289000+00:00",
-        "message_id": "1305783833886457878"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A worm’s-eye view of an ominous, dark sky with storm clouds swirling as if preparing to unleash a tornado, with palm trees swaying violently in the wind, shot with a GoPro HERO9 Black, extreme wide shot, high contrast, and deep shadows",
-        "timestamp": "2024-11-12T06:38:38.774000+00:00",
-        "message_id": "1305783802366394378"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A dramatic shot of a raging sea under a stormy sky, waves crashing against a cliffside mosque, birds flying frantically against the wind, captured with a Sony A7R IV, 28mm lens, vibrant blue and gray tones, high contrast",
-        "timestamp": "2024-11-12T06:38:28.507000+00:00",
-        "message_id": "1305783759303479300"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A medium shot of an elderly man sitting in a small, cluttered room surrounded by Islamic books, deep in thought, soft light filtering through a single window, shot with a Leica Q2, monochrome, emphasizing shadows and textures",
-        "timestamp": "2024-11-12T06:38:20.469000+00:00",
-        "message_id": "1305783725589528616"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A wide-angle shot of a village submerged in knee-deep water after a torrential flood, people wading through with distressed expressions, the sky heavy with dark clouds, captured with a Canon EOS-1D X Mark III, telephoto lens, moody and desaturated color palette",
-        "timestamp": "2024-11-12T06:38:11.781000+00:00",
-        "message_id": "1305783689149546547"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A high-angle shot of an arid desert landscape with cracked earth stretching into the horizon, a lone traveler in traditional attire walking barefoot with a staff, dark clouds gathering in the distance, shot with a DJI Mavic Air 2, dramatic lighting, high contrast",
-        "timestamp": "2024-11-12T06:37:59.835000+00:00",
-        "message_id": "1305783639044526080"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A full-body shot of a bearded imam standing at the pulpit of an old, grand mosque, delivering a sermon with a raised hand, the congregation listening intently in the dim, golden glow of candlelight, shot with a Fujifilm GFX 100S, 50mm lens, warm tones, shallow depth of field",
-        "timestamp": "2024-11-12T06:37:49.515000+00:00",
-        "message_id": "1305783595759173652"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A portrait shot of a child standing alone amidst the ruins of his home after a flood, with a look of sadness and bewilderment, captured during overcast weather, using a Nikon Z7 II, shallow depth of field, muted colors",
-        "timestamp": "2024-11-12T06:37:23.393000+00:00",
-        "message_id": "1305783486195568651"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A low angle shot of an intense lightning storm over an ancient city, lightning bolts striking in the background, captured with a Sony A7S III, macro lens, vivid electric blue tones, and high contrast",
-        "timestamp": "2024-11-12T06:37:15.424000+00:00",
-        "message_id": "1305783452771156021"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A worm’s-eye view of a grand mosque’s entrance during heavy rainfall, water flowing down the stairs, people rushing for shelter, the mosque illuminated against the dark stormy sky, shot with a Canon EOS-1D X Mark III, telephoto lens, rich blue tones",
-        "timestamp": "2024-11-12T06:37:05.312000+00:00",
-        "message_id": "1305783410358222880"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up portrait of a young man holding a Quran, his eyes filled with determination and regret, a single tear rolling down his cheek, soft lighting highlighting his facial features, shot with a Leica Q2, monochrome palette",
-        "timestamp": "2024-11-12T06:36:55.675000+00:00",
-        "message_id": "1305783369937850378"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A bird’s-eye view of a massive tornado tearing through a rural village, debris flying in the air, dark clouds swirling, houses being destroyed in real-time, shot with a DJI Mavic Air 2 drone, vivid colors with dramatic contrast",
-        "timestamp": "2024-11-12T06:36:48.651000+00:00",
-        "message_id": "1305783340476928023"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A medium shot of a pious woman standing in her prayer room at dawn, tears streaming down her face as she prays with devotion, the soft glow of dawn light filtering through a window, captured with a Sony A7R IV, shallow depth of field, pastel tones",
-        "timestamp": "2024-11-12T06:36:41.094000+00:00",
-        "message_id": "1305783308780834828"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: An extreme wide shot of a barren, cracked earth landscape under a relentless sun, with a lone figure standing in the distance, arms raised to the sky in a plea, dramatic shadows cast by the setting sun, captured using a DJI Mavic Air 2 drone, high contrast, golden hour lighting",
-        "timestamp": "2024-11-12T06:36:33.708000+00:00",
-        "message_id": "1305783277801443359"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A high-angle shot of a group of people praying fervently in the middle of a bustling city square during heavy rain, their expressions of desperation captured amidst the pouring rain, shot with a Fujifilm GFX 100S, wide angle, natural light with rain droplets glistening",
-        "timestamp": "2024-11-12T06:36:25.051000+00:00",
-        "message_id": "1305783241491480650"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up shot of an elderly religious scholar, his face etched with deep lines, reflecting sorrow and contemplation, sitting in a dimly lit mosque, surrounded by ancient scriptures, soft candlelight creating shadows, shot with a Nikon Z7 II, 50mm f/1.4 lens, warm sepia tones",
-        "timestamp": "2024-11-12T06:36:16.625000+00:00",
-        "message_id": "1305783206150144021"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A dramatic wide shot of a devastated town submerged in floodwaters, with dark storm clouds looming overhead, people clinging to rooftops for survival, intense chaos in the air, shot during twilight with low-light conditions, using a Sony A7S III, shallow depth of field, muted and desaturated tones",
-        "timestamp": "2024-11-12T06:36:03.263000+00:00",
-        "message_id": "1305783150105853973"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: king paroah in the palace ordering others",
-        "timestamp": "2024-11-11T15:51:24.041000+00:00",
-        "message_id": "1305560519712968822"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: pharoah in the palace on the throne",
-        "timestamp": "2024-11-11T15:51:11.221000+00:00",
-        "message_id": "1305560465941725254"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: don't giving respect",
-        "timestamp": "2024-11-11T15:49:50.422000+00:00",
-        "message_id": "1305560127046156428"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: people shouting at king",
-        "timestamp": "2024-11-11T15:49:37.316000+00:00",
-        "message_id": "1305560072075739181"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: people starting doing joke on king",
-        "timestamp": "2024-11-11T15:49:32.598000+00:00",
-        "message_id": "1305560052286886030"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: stopping people from doing wrong",
-        "timestamp": "2024-11-11T15:48:26.152000+00:00",
-        "message_id": "1305559773592420396"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: people making fun of everything",
-        "timestamp": "2024-11-11T15:48:07.315000+00:00",
-        "message_id": "1305559694584188929"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: making ownself responsible",
-        "timestamp": "2024-11-11T15:47:33.290000+00:00",
-        "message_id": "1305559551873122396"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: strictness to other people",
-        "timestamp": "2024-11-11T15:47:19.010000+00:00",
-        "message_id": "1305559491978199071"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: construction worker making homes and walls",
-        "timestamp": "2024-11-11T15:46:51.116000+00:00",
-        "message_id": "1305559374982549606"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: ordering workers to make floor",
-        "timestamp": "2024-11-11T15:46:37.715000+00:00",
-        "message_id": "1305559318774415380"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: flesh to bone tranisition and zoom",
-        "timestamp": "2024-11-11T15:46:03.303000+00:00",
-        "message_id": "1305559174440030299"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: tranisition from human flesh to inside bones",
-        "timestamp": "2024-11-11T15:45:50.693000+00:00",
-        "message_id": "1305559121549856832"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: walls inside a room",
-        "timestamp": "2024-11-11T15:45:34.955000+00:00",
-        "message_id": "1305559055539896371"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: holding book in hand and speaking to large audience and smiling",
-        "timestamp": "2024-11-11T15:44:42.944000+00:00",
-        "message_id": "1305558837390086237"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: holding books in hands and talking to audience",
-        "timestamp": "2024-11-11T15:44:29.813000+00:00",
-        "message_id": "1305558782314811422"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: people seeking praise from audience",
-        "timestamp": "2024-11-11T15:44:07.241000+00:00",
-        "message_id": "1305558687640846407"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: a house inside heart tranisition",
-        "timestamp": "2024-11-11T15:43:52.560000+00:00",
-        "message_id": "1305558626064138281"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: famous people lying",
-        "timestamp": "2024-11-11T15:43:27.533000+00:00",
-        "message_id": "1305558521093558343"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: telling lies just to become famous",
-        "timestamp": "2024-11-11T15:43:21.542000+00:00",
-        "message_id": "1305558495965216780"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: not speaking truth to audence",
-        "timestamp": "2024-11-11T15:43:11.187000+00:00",
-        "message_id": "1305558452533329960"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: talking strictly to people",
-        "timestamp": "2024-11-11T15:42:47.450000+00:00",
-        "message_id": "1305558352973004813"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: humans departed into tribes",
-        "timestamp": "2024-11-11T15:42:21.646000+00:00",
-        "message_id": "1305558244743184397"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: have no connection between human",
-        "timestamp": "2024-11-11T15:42:10.376000+00:00",
-        "message_id": "1305558197473640461"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: people coming in front of big cloudy and seeking shelter",
-        "timestamp": "2024-11-11T15:41:28.383000+00:00",
-        "message_id": "1305558021341970495"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: people gathering in day of judgement",
-        "timestamp": "2024-11-11T15:41:00.019000+00:00",
-        "message_id": "1305557902374867097"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: piece of treasure distributed between people",
-        "timestamp": "2024-11-11T15:40:41.938000+00:00",
-        "message_id": "1305557826537652245"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: imagine having piece of money",
-        "timestamp": "2024-11-11T15:40:30.536000+00:00",
-        "message_id": "1305557778714333268"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: having piece of inheritence",
-        "timestamp": "2024-11-11T15:40:22.039000+00:00",
-        "message_id": "1305557743075201074"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: people gathering money",
-        "timestamp": "2024-11-11T15:39:40.692000+00:00",
-        "message_id": "1305557569653182494"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: politician taking benefits",
-        "timestamp": "2024-11-11T15:39:32.671000+00:00",
-        "message_id": "1305557536010932285"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: making fun of a old man",
-        "timestamp": "2024-11-11T15:39:07.774000+00:00",
-        "message_id": "1305557431585341483"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: talking politely to audience",
-        "timestamp": "2024-11-11T15:38:59.775000+00:00",
-        "message_id": "1305557398034845814"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: a gift of beautiful books",
-        "timestamp": "2024-11-11T15:38:22.723000+00:00",
-        "message_id": "1305557242627489824"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: beautiful gift as a book",
-        "timestamp": "2024-11-11T15:38:09.695000+00:00",
-        "message_id": "1305557187984228393"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: planet earth eating human",
-        "timestamp": "2024-11-11T15:37:39.915000+00:00",
-        "message_id": "1305557063077990464"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: world trapped human being inside",
-        "timestamp": "2024-11-11T15:37:33.500000+00:00",
-        "message_id": "1305557036171268126"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: the end of time",
-        "timestamp": "2024-11-11T15:37:09.276000+00:00",
-        "message_id": "1305556934568444030"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: a strom coming from sky",
-        "timestamp": "2024-11-11T15:37:02.865000+00:00",
-        "message_id": "1305556907678892083"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: corruption in the world",
-        "timestamp": "2024-11-11T15:36:43.001000+00:00",
-        "message_id": "1305556824363372716"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: violation of rules",
-        "timestamp": "2024-11-11T15:36:24.835000+00:00",
-        "message_id": "1305556748169510985"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: talking to huge audidence",
-        "timestamp": "2024-11-11T15:35:57.842000+00:00",
-        "message_id": "1305556634952667218"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: quick tranisition from earth to heaven in the sky",
-        "timestamp": "2024-11-11T15:35:17.013000+00:00",
-        "message_id": "1305556463703294022"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: show 30 planets fastly in 4 seconds in galaxy",
-        "timestamp": "2024-11-11T15:34:51.643000+00:00",
-        "message_id": "1305556357293801492"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: An ethereal wide shot of a grand mosque and its reflection on the water-filled palace courtyard, camels walking along a tiled path lined with blooming flowers, captured at sunrise with a Sony A7R IV, 35mm prime lens, soft amber and rose tones",
-        "timestamp": "2024-11-07T10:11:04.003000+00:00",
-        "message_id": "1304025320403505232"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up of camels with ornate saddles resting under beautiful Islamic arches in a palace courtyard, the early morning light casting soft shadows, with a Leica Q2, 50mm f/1.4 lens, gentle and muted color tones",
-        "timestamp": "2024-11-07T10:10:54.970000+00:00",
-        "message_id": "1304025282516090961"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A serene palace garden filled with pink flowers and trees, camels gently moving across a tiled path, the silhouette of a mosque dome in the background under early morning light, shot with a Sony A7S III, shallow depth of field, soft pink and amber palette",
-        "timestamp": "2024-11-07T10:10:47.303000+00:00",
-        "message_id": "1304025250358497280"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A grand mosque courtyard with camels resting under archways, pink bougainvillea blooming around, silhouetted by the golden sunrise, shot from a low angle with a Sony A7R IV, 28mm lens, soft and tranquil morning colors",
-        "timestamp": "2024-11-07T10:10:23.874000+00:00",
-        "message_id": "1304025152090144809"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A majestic view of camels walking along an intricately designed palace corridor with arches, surrounded by lush gardens and fountains, in a soft sunrise glow, shot with a Canon EOS-1D X Mark III, 35mm lens, warm and pastel tones",
-        "timestamp": "2024-11-07T10:10:11.831000+00:00",
-        "message_id": "1304025101578272771"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: closeup shot of beautiful butterfly flying around book in desert",
-        "timestamp": "2024-11-01T06:57:32.170000+00:00",
-        "message_id": "1301802289652170755"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: drone shot of egypt street in night",
-        "timestamp": "2024-11-01T06:57:12.494000+00:00",
-        "message_id": "1301802207125176370"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: drone shot of desert with candle lights",
-        "timestamp": "2024-11-01T06:57:00.760000+00:00",
-        "message_id": "1301802157908955136"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: street of cario city with beautiful night lamps",
-        "timestamp": "2024-11-01T06:23:42.971000+00:00",
-        "message_id": "1301793778574688298"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: street of new york with snow and nights and lamps",
-        "timestamp": "2024-11-01T06:23:31.677000+00:00",
-        "message_id": "1301793731204223028"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: street of egypts in night and lamps",
-        "timestamp": "2024-11-01T06:23:15.873000+00:00",
-        "message_id": "1301793664917438545"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: street of arabs at night with lamps",
-        "timestamp": "2024-11-01T06:23:05.974000+00:00",
-        "message_id": "1301793623398158358"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: snake like deamon turning in human",
-        "timestamp": "2024-10-31T15:55:34.502000+00:00",
-        "message_id": "1301575303700676670"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: people using screen and discord mention on screen",
-        "timestamp": "2024-10-31T15:55:13.702000+00:00",
-        "message_id": "1301575216459153428"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: man running because monster like devil chasing",
-        "timestamp": "2024-10-31T15:55:00.043000+00:00",
-        "message_id": "1301575159169286204"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: a disable person with stick climbing stairs and other people with good health using elivator",
-        "timestamp": "2024-10-31T15:54:40.344000+00:00",
-        "message_id": "1301575076545691807"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: a man walking in rain a strom rising behind people running and shouting",
-        "timestamp": "2024-10-31T15:53:44.371000+00:00",
-        "message_id": "1301574841778044948"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A small, humble tent glows softly in the dark desert night. The camera hovers above, capturing the tent’s silhouette under the vast night sky and the faint whispers of wind over the dunes.",
-        "timestamp": "2024-10-31T12:08:57.931000+00:00",
-        "message_id": "1301518275548811286"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: The camera pans across the barren desert under a crescent moon, casting soft shadows across the dunes. A lone figure stands in the distance, silhouetted against the vast sky, as stars glimmer above in quiet reverence.",
-        "timestamp": "2024-10-31T12:08:50.432000+00:00",
-        "message_id": "1301518244095459414"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A candle flickers in the open desert night, its warm glow illuminating a small patch of sand. The camera pulls back to reveal a vast, serene landscape under a deep blue, star-filled sky.",
-        "timestamp": "2024-10-31T12:08:43.189000+00:00",
-        "message_id": "1301518213716115561"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Under a fiery orange sunset, a man swiftly reaches out to grab a piece of bread from another’s hand. The camera follows his movement, highlighting his urgency and hunger as the bread slips from the other’s grasp.",
-        "timestamp": "2024-10-31T12:08:35.950000+00:00",
-        "message_id": "1301518183353548873"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: The frame darkens as a figure emerges from shadows in a vast desert, their expression hardened. Sand shifts underfoot as they walk purposefully toward a distant silhouette, embodying quiet resolve and a determination for retribution.",
-        "timestamp": "2024-10-31T12:08:25.793000+00:00",
-        "message_id": "1301518140752003134"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A rugged, 40-year-old man stands firm, eyes fierce, as he raises a hand toward an unseen crowd in the distance. The camera captures his clenched jaw and determined gaze, reflecting a strong sense of justice and personal conviction.",
-        "timestamp": "2024-10-31T12:08:17.808000+00:00",
-        "message_id": "1301518107260485692"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: The camera closes in on a 35-year-old man meticulously trimming his beard, his gaze focused in a quiet, dimly lit room. A mirror reflects his solemn expression, showing both pride and humility in his appearance as he adjusts his beard with precision.",
-        "timestamp": "2024-10-31T12:08:08.435000+00:00",
-        "message_id": "1301518067947409456"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Shot of a person gazing at the moon, contemplating the call to share Allah’s blessings with the hungry and forgotten",
-        "timestamp": "2024-10-31T12:05:55.504000+00:00",
-        "message_id": "1301517510394249246"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: High-angle shot of people huddled under moonlight with empty plates, while one person watches, pondering their responsibility",
-        "timestamp": "2024-10-31T12:05:47.593000+00:00",
-        "message_id": "1301517477213110359"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up of someone passing a piece of bread to another in dim candlelight, symbolizing divine compassion and generosity",
-        "timestamp": "2024-10-31T12:05:38.130000+00:00",
-        "message_id": "1301517437522411622"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A person surrounded by luxuries looking down in self-reflection, as the question \"Are you fulfilling others' rights?\" appears on screen",
-        "timestamp": "2024-10-31T12:05:28.102000+00:00",
-        "message_id": "1301517395462062144"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Wide-angle shot of a single figure praying alone in the desert, contemplating the needs of others with a voice-over on sharing wealth",
-        "timestamp": "2024-10-31T12:05:18.289000+00:00",
-        "message_id": "1301517354303356952"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up of hands holding extra food, with people in the background who appear in need, highlighting the choice to give or keep",
-        "timestamp": "2024-10-31T12:05:10.705000+00:00",
-        "message_id": "1301517322493628459"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Portrait of a person looking into the mirror, as a voice-over questions their own generosity with Allah’s blessings",
-        "timestamp": "2024-10-31T12:05:02.351000+00:00",
-        "message_id": "1301517287454412862"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up shot of a man deep in thought, looking over a table full of food, realizing the responsibility of sharing it with others",
-        "timestamp": "2024-10-31T12:04:50.702000+00:00",
-        "message_id": "1301517238595092501"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: \"God has given each of us resources, and with excess comes responsibility.\"",
-        "timestamp": "2024-10-31T12:04:18.966000+00:00",
-        "message_id": "1301517105484795995"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: It is not always about taking from others, but about neglecting the rights of others while focusing solely on yourself",
-        "timestamp": "2024-10-31T12:04:11.092000+00:00",
-        "message_id": "1301517072458715187"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: You are not overweight because you eat a lot; you are overweight because you deny others their right",
-        "timestamp": "2024-10-31T12:04:00.458000+00:00",
-        "message_id": "1301517027856613427"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Drone shot capturing a circle of tents in the desert under the moon, each tent dimly lit by candles, creating an intimate gathering space amidst the vastness, shot with DJI Mavic Air 2, muted warm tones with soft shadows",
-        "timestamp": "2024-10-31T11:22:55.996000+00:00",
-        "message_id": "1301506691153661983"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: High-angle view of a lone camel silhouetted against the moon, its shadow stretching across the sand dunes in the quiet night, creating a dramatic, timeless scene, shot with Canon EOS-1D X Mark III, telephoto lens, cool, soft tones",
-        "timestamp": "2024-10-31T11:22:46.360000+00:00",
-        "message_id": "1301506650737213553"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Portrait shot of a person gazing deeply into the night sky, their hands raised in prayer under the serene glow of the moon, capturing the emotional weight of the moment, shot with Nikon Z7 II, 85mm f/1.2 lens, warm, soft light",
-        "timestamp": "2024-10-31T11:22:38.681000+00:00",
-        "message_id": "1301506618529415209"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Close-up of a candle flame in the desert, with the faint glow of the moon in the background casting light on an open Quran nearby, shot with Sony A7S III, 50mm lens, sepia tones with soft shadows",
-        "timestamp": "2024-10-31T11:22:31.264000+00:00",
-        "message_id": "1301506587420135494"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Wide-angle drone shot of footprints in the sand trailing off toward a person bowing in sajood under the full moon, highlighting devotion amidst the expansive solitude, shot with DJI Mavic Air 2, monochrome blue and silver palette",
-        "timestamp": "2024-10-31T11:22:21.554000+00:00",
-        "message_id": "1301506546693574687"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A low-angle shot of camels resting near a fire under the moonlit desert night, with distant figures praying in the background, creating an atmosphere of stillness and reverence, shot with Canon EOS-1D X Mark III, 35mm lens, muted sepia tones",
-        "timestamp": "2024-10-31T11:22:12.625000+00:00",
-        "message_id": "1301506509242630187"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Portrait of a person lifting their eyes to the moon from within a desert tent, their face partially illuminated by the moonlight streaming through the fabric, shot with Fujifilm GFX 100S, 50mm f/1.4 lens, warm and soft lighting",
-        "timestamp": "2024-10-31T11:22:03.328000+00:00",
-        "message_id": "1301506470248190043"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Aerial drone shot capturing the movement of sand dunes under a glowing moon, with shadows creating a gentle rhythm across the landscape, lending a sense of vastness, shot with DJI Mavic Air 2, monochrome with hints of silver",
-        "timestamp": "2024-10-31T11:21:53.520000+00:00",
-        "message_id": "1301506429110325344"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Close-up shot of hands in prayer, palms facing up to the sky, with the bright moon directly overhead illuminating each crease and line, adding depth to the scene, shot with Nikon Z7 II, 85mm f/1.4 lens, high contrast, muted tones",
-        "timestamp": "2024-10-31T11:21:42.656000+00:00",
-        "message_id": "1301506383543271479"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Aerial view of footprints in the sand leading toward a single figure praying in the desert under moonlight, each step casting a shadow under the moon’s silver hue, shot with DJI Mavic Air 2, high contrast, cool night tones",
-        "timestamp": "2024-10-31T10:06:41.141000+00:00",
-        "message_id": "1301487502820900875"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Wide shot of a camel resting near a tent, the moon casting a gentle glow across the landscape, the scene peaceful and timeless, captured with Sony A7S III, 35mm f/1.8 lens, deep monochrome with faint blue highlights",
-        "timestamp": "2024-10-31T10:06:32.576000+00:00",
-        "message_id": "1301487466896953441"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Portrait shot of a man sitting alone with a Quran in hand, deep in contemplation, as the moon shines through a small tent opening, emphasizing the spiritual atmosphere, shot with Canon EOS-1D X Mark III, 85mm lens, warm, low lighting",
-        "timestamp": "2024-10-31T10:06:24.650000+00:00",
-        "message_id": "1301487433652633641"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A drone shot of tents scattered across the desert under the full moon, each tent dimly lit, casting soft shadows on the sand, captured with DJI Mavic Air 2, monochrome palette, subtle bluish tint to enhance the quiet night",
-        "timestamp": "2024-10-31T10:06:15.605000+00:00",
-        "message_id": "1301487395715416095"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Close-up of hands lifting a candle with a desert landscape and moon in the background, the flame reflecting softly on the dunes, creating an intimate, warm glow, shot with Nikon Z7 II, 50mm f/1.4 lens, sepia and gold tones",
-        "timestamp": "2024-10-31T10:06:06.993000+00:00",
-        "message_id": "1301487359593938998"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A high-angle shot capturing multiple people looking into their phones in the middle of the desert, the moonlight creating dim silhouettes against the sand, contrasting the artificial light with the natural glow, shot with Sony A7R IV, 28mm lens, muted blue tones",
-        "timestamp": "2024-10-31T10:05:57.346000+00:00",
-        "message_id": "1301487319131619363"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Close-up shot of a single Quran page lit by a flickering candle in a tent under the desert night sky, the moon faintly visible through the fabric, emphasizing solitude and reflection, shot with Fujifilm GFX 100S, 35mm lens, warm sepia tones",
-        "timestamp": "2024-10-31T10:05:48.819000+00:00",
-        "message_id": "1301487283366658098"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Portrait of a young man holding his hand over his heart, looking up to the moon from the sand dunes, his face partially illuminated by moonlight with a soft expression of devotion, shot with Sony A7S III, 85mm f/1.4 lens, cool tones and deep contrasts",
-        "timestamp": "2024-10-31T10:05:40.197000+00:00",
-        "message_id": "1301487247203504161"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Drone shot of a lone camel and a rider silhouetted by the moonlight as they traverse the empty desert, shadows blending into the sand's cool tones, the scene imbued with a feeling of isolation, shot with DJI Mavic Air 2, high contrast, monochromatic blues",
-        "timestamp": "2024-10-31T10:05:30.177000+00:00",
-        "message_id": "1301487205176442891"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A soft-focus shot of a group of people bowing in prayer (sajood) on a desert dune under the tranquil light of a full moon, shadows long and stretched across the sand, with a faint glow illuminating their faces, captured with a Canon EOS-1D X Mark III, 50mm f/1.8 lens, muted blue and silver palette",
-        "timestamp": "2024-10-31T10:05:21.949000+00:00",
-        "message_id": "1301487170665713728"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up shot of hands holding a candle in the desert, the flickering flame illuminating a Quran against the vast night sky, the moon faintly visible, emphasizing devotion and solitude, captured with Nikon Z7 II, 50mm f/1.4 lens, warm, low-light tones",
-        "timestamp": "2024-10-31T10:05:09.962000+00:00",
-        "message_id": "1301487120388456470"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Aerial view of a lone figure praying in the desert under the moon, casting a long shadow across the sand, the scene imbued with serenity and isolation, shot with DJI Mavic Air 2, high contrast and cool night tones",
-        "timestamp": "2024-10-31T10:04:41.412000+00:00",
-        "message_id": "1301487000641077261"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Drone shot of camels walking along the dunes under soft moonlight, the gentle contours of the sand reflecting silver hues, with long shadows stretching across the desert floor, taken with DJI Mavic Air 2, wide-angle, deep monochrome contrasts",
-        "timestamp": "2024-10-31T10:04:31.382000+00:00",
-        "message_id": "1301486958572212297"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A candid shot of individuals misusing social media under the midnight sky, their faces illuminated by phone screens with the moon faintly above, creating a contrast between digital light and natural night ambiance, shot with Sony A7R IV, 35mm lens, dim, cool lighting",
-        "timestamp": "2024-10-31T10:04:17.380000+00:00",
-        "message_id": "1301486899843825714"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Close-up shot of a camel’s face under a full moon in the desert, reflecting a sense of stillness and wisdom in its eyes, deep contrasts accentuating the texture of its fur, shot with a Canon EOS-1D X Mark III, telephoto lens, gentle blue undertones",
-        "timestamp": "2024-10-31T07:37:37.507000+00:00",
-        "message_id": "1301449990501171241"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: High angle shot of a small desert tent illuminated by the glow of a single candle and moonlight from above, with subtle shadows dancing on the sand, taken with a Fujifilm GFX 100S, 28mm lens, warm sepia tones for a serene effect",
-        "timestamp": "2024-10-31T07:37:14.612000+00:00",
-        "message_id": "1301449894472585240"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A medium shot of an elder holding the Quran close to his heart under a bright desert moon, a single camel grazing nearby, captured in a somber, soft monochromatic palette, emphasizing the bond between faith and nature",
-        "timestamp": "2024-10-31T07:37:03.789000+00:00",
-        "message_id": "1301449849077633100"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A sorrowful portrait of a young person scrolling on their phone at night, the glow from the screen harsh against the surrounding darkness, contrasting their expression of loneliness with the soft light from a distant moon, shot with a Nikon Z7 II, 85mm f/1.2 lens, cool tones",
-        "timestamp": "2024-10-31T07:36:51.645000+00:00",
-        "message_id": "1301449798142005354"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Aerial drone shot of people reading the Quran in a circle under moonlight in a vast desert, surrounded by flickering candle lights, captured with a DJI Mavic Air 2, wide-angle view, deep shadows emphasizing the intimacy and peace of the night",
-        "timestamp": "2024-10-31T07:36:35.728000+00:00",
-        "message_id": "1301449731381395480"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A low-angle close-up shot of a man in prayer (sajood) under the full moon, with soft, blue-tinged moonlight illuminating his form in the quiet desert night, the distant silhouette of camels visible, shot with a Sony A7S III, 50mm f/1.4 lens, monochrome palette with subtle blue hues",
-        "timestamp": "2024-10-31T07:36:23.331000+00:00",
-        "message_id": "1301449679384350764"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: An extreme close-up of a worn leather book lying next to a candle, faint Arabic calligraphy visible, the desert outside softly lit by the moon, shot with a Nikon Z7 II, macro lens, deep, moody shadows",
-        "timestamp": "2024-10-31T07:33:23.286000+00:00",
-        "message_id": "1301448924221145118"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A high-angle shot of an old caravan moving through the desert under the early morning light, shadows stretching across the dunes, shot with a Fujifilm GFX 100S, 28mm lens, natural, warm hues",
-        "timestamp": "2024-10-31T07:33:11.519000+00:00",
-        "message_id": "1301448874866511895"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: closeup shot of aladin in space",
-        "timestamp": "2024-10-31T07:21:44.575000+00:00",
-        "message_id": "1301445993614675990"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: a colossal, muscular, red gorilla with large, ornate golden antiers stands amidst a misty, dark forest its imposing figure partially, obscured by fog, the foreground shows dark, rocky terrain, photorealisitic, cinematic lighting, 8k resolution",
-        "timestamp": "2024-10-31T07:08:14.138000+00:00",
-        "message_id": "1301442594395656206"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: a carrot tribe living in forest and walking",
-        "timestamp": "2024-10-31T07:05:31.469000+00:00",
-        "message_id": "1301441912112418906"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A bird’s-eye view of a vast desert landscape with scattered tents illuminated by candlelight under a starry sky, Kaaba in the far distance, shot with a DJI Mavic Air 2, muted, cinematic hues",
-        "timestamp": "2024-10-30T17:29:22.123000+00:00",
-        "message_id": "1301236519788482600"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A cinematic portrait of a young girl in traditional dress standing near a tent as the Maghrib azan fills the air, dusk light casting soft shadows, shot with a Fujifilm GFX 100S, 50mm lens, warm, soft tones",
-        "timestamp": "2024-10-30T17:29:06.319000+00:00",
-        "message_id": "1301236453501829172"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: An extreme close-up of a candle flickering in the desert night, the gentle breeze causing shadows to dance on the nearby sand, shot with a Sony A7S III, macro lens, warm, rich tones",
-        "timestamp": "2024-10-30T16:07:29.931000+00:00",
-        "message_id": "1301215916561793106"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A wide-angle shot of an oasis under the full moon, palm trees silhouetted against the sky, camels resting by the water's edge, faint reflections on the water, shot with a Leica Q2, 28mm lens, cool blue tones",
-        "timestamp": "2024-10-30T16:06:34.850000+00:00",
-        "message_id": "1301215685535469621"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A cinematic portrait of a woman wearing a black abaya holding a lantern, standing on the edge of a desert dune at dusk, with soft, golden hour lighting, shot with a Canon EOS-1D X Mark III, 85mm lens, warm, soft focus",
-        "timestamp": "2024-10-30T16:06:25.372000+00:00",
-        "message_id": "1301215645781852191"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A medium shot of a young man walking towards the Kaaba at dawn, his shadow elongated by the morning sun, soft, misty atmosphere, shot with a Nikon Z7 II, 50mm lens, pastel tones with deep contrast",
-        "timestamp": "2024-10-30T16:06:15.806000+00:00",
-        "message_id": "1301215605659009126"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A high-angle view of camels resting near a traditional tent in the evening, Kaaba visible far in the distance, surrounded by orange and purple desert dusk, shot with a DJI Mavic Air 2, cinematic, moody colors",
-        "timestamp": "2024-10-30T16:06:04.263000+00:00",
-        "message_id": "1301215557244420190"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A close-up of an elderly Arab man with a white beard and traditional attire, deep lines in his face, sitting by a dimly lit candle in his tent, the soft glow reflecting off his thoughtful eyes, shot with a Sony A7R IV, 85mm lens, warm sepia tones",
-        "timestamp": "2024-10-30T16:05:54.549000+00:00",
-        "message_id": "1301215516500693086"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A low-angle shot of a Bedouin tent illuminated by lanterns under a starry night sky, with the faint glow of the moon casting a silver light on the desert sands, soft, cinematic tones",
-        "timestamp": "2024-10-30T16:05:20.567000+00:00",
-        "message_id": "1301215373969850368"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A cinematic wide-angle shot of the Kaaba at sunset from the perspective of the desert, soft shadows stretching across the golden sands, with distant camel caravans, soft twilight hues, shot with a Fujifilm GFX 100S, 28mm lens, warm, natural tones",
-        "timestamp": "2024-10-30T16:05:08.726000+00:00",
-        "message_id": "1301215324305100822"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A cinematic low-angle shot of Messi and Ronaldo entering a grand Halloween masquerade, dressed as an elegant vampire (Messi) and a mysterious werewolf (Ronaldo) in a sharp suit with clawed gloves. The ballroom setting is filled with chandeliers, haunting music, and guests in elaborate costumes, shot with a Nikon Z7 II, 85mm lens, high-contrast monochrome",
-        "timestamp": "2024-10-30T15:35:45.429000+00:00",
-        "message_id": "1301207928501440515"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A playful close-up shot of Messi and Ronaldo laughing together at a Halloween bash, dressed in contrasting outfits: Messi as a mad scientist with goggles and a lab coat, Ronaldo as a sleek, masked Phantom. The background is filled with cobwebs and soft blue and green party lights, creating an electric yet spooky ambiance, shot with a Sony A7R IV, 50mm f/1.4 lens, vibrant colors with soft shadows",
-        "timestamp": "2024-10-30T15:35:34.647000+00:00",
-        "message_id": "1301207883278716949"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A high-energy wide-angle shot of Lionel Messi and Cristiano Ronaldo at a luxurious Halloween party, both dressed in classic horror costumes—Messi as Dracula with a detailed velvet cape and fangs, Ronaldo as Frankenstein’s monster with realistic makeup and bolts on his neck. The duo is surrounded by dimly lit gothic decorations, with eerie fog and flickering candles in the background, shot with a Canon EOS-1D X Mark III, 35mm lens, cool, desaturated tones",
-        "timestamp": "2024-10-30T15:35:24.876000+00:00",
-        "message_id": "1301207842295906409"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A portrait of a rugged mountaineer at a snowy summit, strong winds blowing, determination in his gaze, midday sun casting hard shadows, shot with a Canon EOS-1D X Mark III, telephoto lens, high contrast with cool tones",
-        "timestamp": "2024-10-30T15:34:21.591000+00:00",
-        "message_id": "1301207576859639808"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A low-angle shot of a lone surfer silhouetted against the setting sun, gentle waves rolling in, warm, golden light, shot with a Sony A7S III, 85mm lens, soft and dreamy color grading",
-        "timestamp": "2024-10-30T15:34:11.929000+00:00",
-        "message_id": "1301207536334012478"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: An extreme close-up of a bee collecting pollen on a vibrant sunflower, fine details of the petals and tiny hairs on the bee, natural sunlight, shot with a Nikon Z7 II, macro lens, sharp, vivid colors",
-        "timestamp": "2024-10-30T15:33:58.410000+00:00",
-        "message_id": "1301207479631216710"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A portrait of a barista making coffee in a cozy, rustic cafe, steam rising from the cup, warm lighting from overhead bulbs, shot with a Leica Q2, 50mm lens, soft, sepia tones",
-        "timestamp": "2024-10-30T15:33:46.312000+00:00",
-        "message_id": "1301207428888526848"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: An underwater shot of a coral reef teeming with colorful fish, sunlight filtering from the surface, rich blues and vibrant coral colors, shot with an Olympus Tough TG-6, wide angle lens, natural color tones",
-        "timestamp": "2024-10-30T15:33:35.435000+00:00",
-        "message_id": "1301207383267344444"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: An overhead view of a bustling food market in Japan, with vendors preparing traditional dishes, neon lights casting a colorful glow, nighttime atmosphere, shot with a Sony A7S III, 35mm lens, high contrast and saturated colors",
-        "timestamp": "2024-10-30T15:15:41.495000+00:00",
-        "message_id": "1301202878836375624"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A wide-angle landscape of a serene lake surrounded by snow-capped mountains, crisp reflections on the water, captured at sunrise, shot with a Fujifilm GFX 100S, 28mm lens, cool blue and white tones",
-        "timestamp": "2024-10-30T15:14:13.953000+00:00",
-        "message_id": "1301202511658487829"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: An aerial shot of a winding river cutting through a dense, autumnal forest, golden leaves contrasting with the cool blue water, early morning mist hanging over the scene, shot with a DJI Mavic Air 2, slightly desaturated colors",
-        "timestamp": "2024-10-30T15:13:54.654000+00:00",
-        "message_id": "1301202430712877087"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A macro shot of morning dew on a delicate spider web in a lush garden, glistening under soft dawn light, fine details of each drop, shot with a Nikon Z7 II, macro lens, vivid natural colors",
-        "timestamp": "2024-10-30T15:06:05.414000+00:00",
-        "message_id": "1301200462577406044"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A wide-angle view of a vibrant Moroccan market at dusk, lanterns glowing amid bustling vendors, intricate details of spices and textiles, soft twilight hues, shot with a Leica Q2, 28mm lens, rich, warm color tones",
-        "timestamp": "2024-10-30T15:03:36.491000+00:00",
-        "message_id": "1301199837949067399"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A high-angle portrait of an elderly fisherman sitting by a rugged coastal cliff, weather-beaten face against the blue-gray sky, evening light casting soft shadows, shot with a Sony A7R IV, 85mm f/1.8 lens, natural color grading",
-        "timestamp": "2024-10-30T15:03:22.744000+00:00",
-        "message_id": "1301199780290236550"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: The Role of Storytelling in Strengthening Connections",
-        "timestamp": "2024-10-30T14:30:03.114000+00:00",
-        "message_id": "1301191393233997844"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Exploring the Impact of Digital Detox on Mental Health",
-        "timestamp": "2024-10-30T14:29:33.075000+00:00",
-        "message_id": "1301191267241300022"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: trump won election and dance",
-        "timestamp": "2024-10-30T13:54:41.956000+00:00",
-        "message_id": "1301182496452640812"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: travel inside iphone",
-        "timestamp": "2024-10-30T13:54:31.585000+00:00",
-        "message_id": "1301182452953518081"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: gigantic human found in sea",
-        "timestamp": "2024-10-30T13:43:34.696000+00:00",
-        "message_id": "1301179697761091584"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: create something which think is most beautiful",
-        "timestamp": "2024-10-30T13:24:52.471000+00:00",
-        "message_id": "1301174990808551544"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Join us in bringing humanity back. Start a conversation, lend a hand, and share a smile today",
-        "timestamp": "2024-10-30T12:22:54.093000+00:00",
-        "message_id": "1301159394800701473"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Highlight positive actions: kindness, helping, smiling",
-        "timestamp": "2024-10-30T12:22:44.461000+00:00",
-        "message_id": "1301159354401161280"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Footage of community events and people helping one another",
-        "timestamp": "2024-10-30T12:22:35.211000+00:00",
-        "message_id": "1301159315603722282"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: In our rush, we forget to listen, to empathize, to truly see each other",
-        "timestamp": "2024-10-30T12:22:24.725000+00:00",
-        "message_id": "1301159271622381579"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: I feel more connected to my screen than to the people around me",
-        "timestamp": "2024-10-30T12:22:15.838000+00:00",
-        "message_id": "1301159234347728969"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Cut to interviews with individuals sharing their thoughts",
-        "timestamp": "2024-10-30T12:22:07.904000+00:00",
-        "message_id": "1301159201069863042"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Opening montage of busy city life, people on phones, ignoring each other",
-        "timestamp": "2024-10-30T12:21:48.491000+00:00",
-        "message_id": "1301159119646101616"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Footage of volunteers in action",
-        "timestamp": "2024-10-30T12:21:11.383000+00:00",
-        "message_id": "1301158964003733524"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: With your donation, we can provide food and shelter to those in need",
-        "timestamp": "2024-10-30T12:20:59.600000+00:00",
-        "message_id": "1301158914582249482"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: I lost my job during the pandemic and need help to get back on my feet.",
-        "timestamp": "2024-10-30T12:20:49.595000+00:00",
-        "message_id": "1301158872618111100"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Cut to individuals sharing personal stories",
-        "timestamp": "2024-10-30T12:20:35.512000+00:00",
-        "message_id": "1301158813549989983"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Opening shot of a community center bustling with activity",
-        "timestamp": "2024-10-30T12:20:22.034000+00:00",
-        "message_id": "1301158757019029506"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Create a powerful video that explores how people today are increasingly distracted, ignoring real-life issues and instead focusing on making social media reels. Start with scenes of individuals in various settings—homes, streets, workplaces—turning a blind eye to important events or issues, such as poverty, environmental damage, or societal injustices. Show people walking by without noticing these issues, instead focusing on recording and creating entertaining reels for social media, laughing and performing in front of their phones. Transition to scenes illustrating the impact of this behavior, with corruption spreading unnoticed in the background, symbolized by shadowy figures exchanging money or manipulating systems while people are distracted. Use darker tones for scenes showing corruption, contrasted with the bright, flashy lights of social media. End with a reflective scene, where one person finally stops recording, looks up, and notices the real world around them—suggesting a call to awareness and action",
-        "timestamp": "2024-10-30T12:19:18.661000+00:00",
-        "message_id": "1301158491213398047"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: lion become donkey in cinematic way",
-        "timestamp": "2024-10-30T12:18:43.531000+00:00",
-        "message_id": "1301158343867502666"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: : \"Create a realistic yet thought-provoking video showing a morning in a modern society where people, especially young girls, wake up and immediately reach for their phones. Begin with various shots of bedrooms as the sun rises, showing people of different ages lying in bed. As alarms go off, they reach for their phones, eyes half-open, and start scrolling. Show close-up shots of fingers swiping, notifications popping up, and faces illuminated by the screen’s glow. Highlight the monotonous expressions as they check social media, news, and messages, almost mechanically. Add subtle background sounds of notifications and light, ambient morning sounds. As the video progresses, depict the sense of disconnection from the real world—illustrate breakfast tables with everyone looking at their phones instead of talking, and a park where people walk while staring down. End with a moment of realization as one person looks away from the screen, capturing a moment of real-life beauty outside, hinting at the value of stepping away from the digital world",
-        "timestamp": "2024-10-30T12:18:23.124000+00:00",
-        "message_id": "1301158258274205757"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Create a thought-provoking video that illustrates the concept of humanity being unaware of important realities. Begin with a bustling city scene, people absorbed in their phones, walking with blank expressions, lost in routine. Gradually, zoom out to show layers of impactful events happening around them but going unnoticed—such as environmental destruction, people in need, moments of beauty, and signs of cultural and spiritual decay. Use dim lighting to show a sense of detachment and emptiness, with brief flashes of color or light to symbolize moments of awareness breaking through. End with a powerful visual of one person looking up, symbolizing a call to awaken and reconnect",
-        "timestamp": "2024-10-30T12:07:42.171000+00:00",
-        "message_id": "1301155569922740256"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Create a breathtaking, spiritual video depicting a mystical pathway leading up to the Kaaba, located within a massive, lush mountain cave. A long, narrow staircase stretches through dense green foliage, guiding pilgrims upward toward a bright opening in the cave. Sunlight streams in through the opening, illuminating the Kaaba and casting soft rays across the scene. The Kaaba is surrounded by pilgrims in white garments, adding a sense of reverence and awe. The atmosphere is peaceful and filled with a sense of spiritual wonder, with subtle sounds of nature and soft, ambient light enhancing the sacred setting",
-        "timestamp": "2024-10-30T11:54:37.616000+00:00",
-        "message_id": "1301152279260565515"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Create a mesmerizing, otherworldly video of a grand, mystical palace set in a fantasy landscape. The palace features intricate architecture with tall, spiraling towers, elaborate carvings, and golden domes that glisten in the soft, golden sunlight. The building is adorned with vibrant red and purple foliage cascading down its walls, contrasting with the warm yellow glow of the sky at sunset. Surrounding the palace are winding canals filled with clear, reflective water that captures the colorful scenery. Show small boats drifting slowly through the water, adding movement to the serene, magical atmosphere. Use warm, glowing lighting, soft shadows, and rich colors to evoke a sense of wonder and tranquility",
-        "timestamp": "2024-10-30T11:53:29.816000+00:00",
-        "message_id": "1301151994886754305"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Create an enchanting, dreamlike forest scene where towering golden trees stretch high into the sky, their branches glowing in warm, golden sunlight. Rays of sunlight filter through the leaves, illuminating a clear, reflective lake below. In the foreground, a figure in a flowing, modest green robe reaches out toward the water, where small, colorful fish swim gracefully. The scene feels peaceful and mystical, with soft ripples in the water and distant, softly glowing huts nestled among the trees. Use warm, ethereal lighting and a gentle, calming atmosphere to bring out a sense of wonder and tranquility",
-        "timestamp": "2024-10-30T11:52:48.284000+00:00",
-        "message_id": "1301151820688785474"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Depict a high-stakes 'Avengers Doomsday' scene set against a dark, apocalyptic cityscape. The sky is stormy, filled with dark clouds swirling as lightning cracks through. In the foreground, iconic heroes like a powerful figure with a shield, a high-tech armored figure, and others stand united, their faces showing determination and courage despite the looming threat. In the distance, a massive, shadowy villain figure rises, creating a menacing atmosphere. Rubble, sparks, and destroyed buildings surround the scene, with the Avengers preparing for an epic final stand. The lighting is dramatic, casting deep shadows and highlighting the heroes’ silhouettes as they prepare for a world-ending battle",
-        "timestamp": "2024-10-30T11:45:41.397000+00:00",
-        "message_id": "1301150030194933821"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: our solar system planets as human beings",
-        "timestamp": "2024-10-30T11:42:11.245000+00:00",
-        "message_id": "1301149148753559603"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: elon musk driving tesla car on mars",
-        "timestamp": "2024-10-30T11:28:48.410000+00:00",
-        "message_id": "1301145781419511820"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: Create a time-lapse video of a baby quickly growing into an adult within 5 seconds. Start with a newborn baby lying in a soft, cozy blanket. As the video progresses, show subtle age transitions at each stage—baby learning to crawl, a young child standing and taking first steps, a teenager showing growth and confidence, and finally, the transformation into a mature adult with a calm, self-assured expression. Use gentle lighting and soft background colors to keep the tone warm and natural. Each age should flow seamlessly into the next, illustrating the passage of time in a smooth, natural progression",
-        "timestamp": "2024-10-30T11:04:13.842000+00:00",
-        "message_id": "1301139596633178165"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: imagine grand theft auto video game character in future",
-        "timestamp": "2024-10-30T10:52:32.479000+00:00",
-        "message_id": "1301136654903545866"
-      },
-      {
-        "prompt": "@noonverse\nPrompt: A big golden whale in the galaxy moving around jupiter planet.",
-        "timestamp": "2024-10-30T10:44:04.676000+00:00",
-        "message_id": "1301134525023129631"
-      }
-    ],
-    "total_uses": 196
   },
   "730516871731740702": {
     "username": ".pache.",
