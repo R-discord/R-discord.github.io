@@ -1,4 +1,56 @@
 {
+  "1005397584346611752": {
+    "username": "blogllero",
+    "generations": [
+      {
+        "prompt": "@Blogllero Creation is in queue.(Prompt: movimiento de las estrellas en sintonía alrededor de las dos figuras principales. Un loop completo).Author: @Blogllero",
+        "timestamp": "2024-12-24T15:03:17.101000+00:00",
+        "message_id": "1321131089229516860"
+      },
+      {
+        "prompt": "@Blogllero\nPrompt: \"A stunning photorealistic scene of a strong Mediterranean woman with light olive skin, dark wavy hair, and deep, expressive eyes, wearing a flowing white dress. She holds a vintage microphone in one hand, ready to sing, while the other hand grips the hilt of a dagger embedded in the ground. The background is surreal and mesmerizing, filled with ethereal pink and magenta hues, blending glowing mist and abstract light shapes. The atmosphere is a mix of passion and mystery, with a dramatic sunset casting soft shadows and highlighting her figure. The image captures both her inner strength and a sense of deep, unspoken love, with a faint breeze making her dress and hair flow gently.\"",
+        "timestamp": "2024-11-26T21:16:15.990000+00:00",
+        "message_id": "1311078092856360981"
+      },
+      {
+        "prompt": "@Blogllero\nPrompt: Create a redesign of the Medmix logo, retaining its core design of a propeller shape as the central element. The new design should integrate layers of symbolism representing the company's focus on dental innovation, industrial advancements, beauty, and medical devices, while emphasizing a strong commitment to environmental sustainability.\n\nKey design features to include:\n\n1. Dental Innovation: Add subtle, abstract tooth-like patterns or curved dental instruments around the edges of the propeller blades, blending seamlessly into the overall design.\n\n\n2. Industrial Advancements: Incorporate fine, metallic textures or gears subtly embossed within the blades, symbolizing precision and engineering.\n\n\n3. Beauty: Integrate flowing, elegant wave-like patterns inspired by cosmetics or hair strands, giving a sense of grace and refinement.\n\n\n4. Medical Devices: Use micro-details resembling syringes, medical cross symbols, or clean lines to hint at cutting-edge medical technology.\n\n\n5. Sustainability: Surround the propeller with soft, gradient-green leaf motifs or circular arrows to evoke eco-friendliness and renewable energy.\n\n\n\nThe color palette should be modern and dynamic:\n\nPrimary: Shades of white, silver, and light blue for innovation and technology.\n\nSecondary: Green accents to highlight sustainability.\n\nTertiary: Soft gold or beige tones to represent beauty and sophistication.\n\n\nThe logo should appear dynamic and forward-moving, with gradients and shadows to create depth and a futuristic appeal. Avoid making it overly complex; instead, focus on clean, harmonious integration of these elements. This logo will be the visual representation of Medmix’s values as expressed in the attached song.",
+        "timestamp": "2024-11-25T20:01:10.594000+00:00",
+        "message_id": "1310696807990300703"
+      },
+      {
+        "prompt": "@Blogllero\nPrompt: Create a redesign of the Medmix logo, retaining its core design of a propeller shape as the central element. The new design should integrate layers of symbolism representing the company's focus on dental innovation, industrial advancements, beauty, and medical devices, while emphasizing a strong commitment to environmental sustainability.\n\nKey design features to include:\n\n1. Dental Innovation: Add subtle, abstract tooth-like patterns or curved dental instruments around the edges of the propeller blades, blending seamlessly into the overall design.\n\n\n2. Industrial Advancements: Incorporate fine, metallic textures or gears subtly embossed within the blades, symbolizing precision and engineering.\n\n\n3. Beauty: Integrate flowing, elegant wave-like patterns inspired by cosmetics or hair strands, giving a sense of grace and refinement.\n\n\n4. Medical Devices: Use micro-details resembling syringes, medical cross symbols, or clean lines to hint at cutting-edge medical technology.\n\n\n5. Sustainability: Surround the propeller with soft, gradient-green leaf motifs or circular arrows to evoke eco-friendliness and renewable energy.\n\n\n\nThe color palette should be modern and dynamic:\n\nPrimary: Shades of white, silver, and light blue for innovation and technology.\n\nSecondary: Green accents to highlight sustainability.\n\nTertiary: Soft gold or beige tones to represent beauty and sophistication.\n\n\nThe logo should appear dynamic and forward-moving, with gradients and shadows to create depth and a futuristic appeal. Avoid making it overly complex; instead, focus on clean, harmonious integration of these elements. This logo will be the visual representation of Medmix’s values as expressed in the attached song.",
+        "timestamp": "2024-11-25T19:54:59.031000+00:00",
+        "message_id": "1310695249542250506"
+      },
+      {
+        "prompt": "@Blogllero\nPrompt: Un niño de 5 años vestido con un disfraz de dinosaurio verde hecho con tarta de pastelería. El niño camina sobre una cuerda que está atada entre dos enormes Lollipops en un mundo imaginario construido de papel de cocina blanco y rosa.",
+        "timestamp": "2024-11-13T20:35:30.610000+00:00",
+        "message_id": "1306356793936445530"
+      },
+      {
+        "prompt": "@Blogllero\nPrompt: la frase \"Biblioteca De Los Secretos Perdidos\" muestra misterio, suspense, música, asombro, magestuosidad",
+        "timestamp": "2024-11-12T06:33:17.408000+00:00",
+        "message_id": "1305782454459695189"
+      }
+    ],
+    "total_uses": 6
+  },
+  "151086156618924032": {
+    "username": "spoonpai",
+    "generations": [
+      {
+        "prompt": "@SPOONPAI Creation is in queue.(Prompt: this is a test prompt. generate a test).Author: @SPOONPAI",
+        "timestamp": "2024-12-23T21:49:47.707000+00:00",
+        "message_id": "1320871002980356126"
+      },
+      {
+        "prompt": "@SPOONPAI\nPrompt: shaky camera, chaotic view, fast movements, fisheye view, first person view, running down a dark alley with monsters hiding in the shadows.",
+        "timestamp": "2024-10-30T11:42:23.755000+00:00",
+        "message_id": "1301149201224306708"
+      }
+    ],
+    "total_uses": 2
+  },
   "687799652195631196": {
     "username": "nicorito.",
     "generations": [
@@ -3765,37 +3817,6 @@
       }
     ],
     "total_uses": 18
-  },
-  "1005397584346611752": {
-    "username": "blogllero",
-    "generations": [
-      {
-        "prompt": "@Blogllero\nPrompt: \"A stunning photorealistic scene of a strong Mediterranean woman with light olive skin, dark wavy hair, and deep, expressive eyes, wearing a flowing white dress. She holds a vintage microphone in one hand, ready to sing, while the other hand grips the hilt of a dagger embedded in the ground. The background is surreal and mesmerizing, filled with ethereal pink and magenta hues, blending glowing mist and abstract light shapes. The atmosphere is a mix of passion and mystery, with a dramatic sunset casting soft shadows and highlighting her figure. The image captures both her inner strength and a sense of deep, unspoken love, with a faint breeze making her dress and hair flow gently.\"",
-        "timestamp": "2024-11-26T21:16:15.990000+00:00",
-        "message_id": "1311078092856360981"
-      },
-      {
-        "prompt": "@Blogllero\nPrompt: Create a redesign of the Medmix logo, retaining its core design of a propeller shape as the central element. The new design should integrate layers of symbolism representing the company's focus on dental innovation, industrial advancements, beauty, and medical devices, while emphasizing a strong commitment to environmental sustainability.\n\nKey design features to include:\n\n1. Dental Innovation: Add subtle, abstract tooth-like patterns or curved dental instruments around the edges of the propeller blades, blending seamlessly into the overall design.\n\n\n2. Industrial Advancements: Incorporate fine, metallic textures or gears subtly embossed within the blades, symbolizing precision and engineering.\n\n\n3. Beauty: Integrate flowing, elegant wave-like patterns inspired by cosmetics or hair strands, giving a sense of grace and refinement.\n\n\n4. Medical Devices: Use micro-details resembling syringes, medical cross symbols, or clean lines to hint at cutting-edge medical technology.\n\n\n5. Sustainability: Surround the propeller with soft, gradient-green leaf motifs or circular arrows to evoke eco-friendliness and renewable energy.\n\n\n\nThe color palette should be modern and dynamic:\n\nPrimary: Shades of white, silver, and light blue for innovation and technology.\n\nSecondary: Green accents to highlight sustainability.\n\nTertiary: Soft gold or beige tones to represent beauty and sophistication.\n\n\nThe logo should appear dynamic and forward-moving, with gradients and shadows to create depth and a futuristic appeal. Avoid making it overly complex; instead, focus on clean, harmonious integration of these elements. This logo will be the visual representation of Medmix’s values as expressed in the attached song.",
-        "timestamp": "2024-11-25T20:01:10.594000+00:00",
-        "message_id": "1310696807990300703"
-      },
-      {
-        "prompt": "@Blogllero\nPrompt: Create a redesign of the Medmix logo, retaining its core design of a propeller shape as the central element. The new design should integrate layers of symbolism representing the company's focus on dental innovation, industrial advancements, beauty, and medical devices, while emphasizing a strong commitment to environmental sustainability.\n\nKey design features to include:\n\n1. Dental Innovation: Add subtle, abstract tooth-like patterns or curved dental instruments around the edges of the propeller blades, blending seamlessly into the overall design.\n\n\n2. Industrial Advancements: Incorporate fine, metallic textures or gears subtly embossed within the blades, symbolizing precision and engineering.\n\n\n3. Beauty: Integrate flowing, elegant wave-like patterns inspired by cosmetics or hair strands, giving a sense of grace and refinement.\n\n\n4. Medical Devices: Use micro-details resembling syringes, medical cross symbols, or clean lines to hint at cutting-edge medical technology.\n\n\n5. Sustainability: Surround the propeller with soft, gradient-green leaf motifs or circular arrows to evoke eco-friendliness and renewable energy.\n\n\n\nThe color palette should be modern and dynamic:\n\nPrimary: Shades of white, silver, and light blue for innovation and technology.\n\nSecondary: Green accents to highlight sustainability.\n\nTertiary: Soft gold or beige tones to represent beauty and sophistication.\n\n\nThe logo should appear dynamic and forward-moving, with gradients and shadows to create depth and a futuristic appeal. Avoid making it overly complex; instead, focus on clean, harmonious integration of these elements. This logo will be the visual representation of Medmix’s values as expressed in the attached song.",
-        "timestamp": "2024-11-25T19:54:59.031000+00:00",
-        "message_id": "1310695249542250506"
-      },
-      {
-        "prompt": "@Blogllero\nPrompt: Un niño de 5 años vestido con un disfraz de dinosaurio verde hecho con tarta de pastelería. El niño camina sobre una cuerda que está atada entre dos enormes Lollipops en un mundo imaginario construido de papel de cocina blanco y rosa.",
-        "timestamp": "2024-11-13T20:35:30.610000+00:00",
-        "message_id": "1306356793936445530"
-      },
-      {
-        "prompt": "@Blogllero\nPrompt: la frase \"Biblioteca De Los Secretos Perdidos\" muestra misterio, suspense, música, asombro, magestuosidad",
-        "timestamp": "2024-11-12T06:33:17.408000+00:00",
-        "message_id": "1305782454459695189"
-      }
-    ],
-    "total_uses": 5
   },
   "819688424520810537": {
     "username": "aziziniut",
@@ -10050,17 +10071,6 @@
       }
     ],
     "total_uses": 2
-  },
-  "151086156618924032": {
-    "username": "spoonpai",
-    "generations": [
-      {
-        "prompt": "@SPOONPAI\nPrompt: shaky camera, chaotic view, fast movements, fisheye view, first person view, running down a dark alley with monsters hiding in the shadows.",
-        "timestamp": "2024-10-30T11:42:23.755000+00:00",
-        "message_id": "1301149201224306708"
-      }
-    ],
-    "total_uses": 1
   },
   "543313224477573130": {
     "username": "isumi2800",
